@@ -1,6 +1,6 @@
 # Covid Enseignes
 
-Quelles sont les magasins ouverts ou fermés durant le confinement ?
+Quelles sont les magasins ouverts ou fermés durant le confinement ? [La réponse est ici !](regles.csv)
 
 L'objectif de ce dépôt est de renseigner les règles applicables aux enseignes en France concernant leur ouverture durant la période de confinement suite à l'épidément COVID-19. Ceci permettra la réalisation de cartes sur les commerces accessibles pendant le confinement.
 
@@ -27,7 +27,7 @@ Le ticket devra avoir la forme suivante :
 * __Source__ : l'adresse où vous avez constaté l'info
 ```
 
-__Avant de créer un ticket__, vérifiez que les informations [n'ont pas déjà été remontées ici](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
+__Avant de créer un ticket__, vérifiez que les informations n'ont pas déjà été répertoriées dans [la liste](regles.csv) ou [dans les tickets ouverts](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
 
 Les catégories de magasins/services concernés sont les suivantes :
 
