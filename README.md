@@ -29,6 +29,35 @@ Le ticket devra avoir la forme suivante :
 
 __Avant de créer un ticket__, vérifiez que les informations [n'ont pas déjà été remontées ici](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
 
+Les catégories de magasins/services concernés sont les suivantes :
+
+* Pharmacies
+* Supermarché
+* Supérette
+* Vente de surgelés
+* Marché
+* Vente de fruits et légumes
+* Boucher
+* Charcutier
+* Vente de fruits de mer
+* Fromager
+* Boulangeries
+* Magasin de vente et de réparation de vélos
+* Magasin de téléphonie
+* Magasin de bricolage
+* Papeterie
+* Opticien
+* Location de voiture
+* Banque
+* Assureur
+* Agence de travail temporaire
+* Caviste
+* Laverie
+* Vente de tabac
+* Vente de cigarettes électroniques
+* Stations essence
+* Services funéraires
+
 ### Intégrer les informations
 
 Sur la base des tickets ouverts, et si vous êtes à l'aise avec GitHub et l'outil informatique, intégrez les informations reçues dans le fichier CSV `regles.csv`, sur la base du format décrit ci-dessous. Proposez une pull request vers la branche master, et pensez à lier au ticket correspondant.
