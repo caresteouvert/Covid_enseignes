@@ -41,7 +41,7 @@ L'objectif est de produire sur l'ensemble du territoire national une carte prés
 * Répartir la charge sur plusieurs commerces au lieu d'un seul dans une zone et éviter les cohues/bousculades/pénuries
 * Réaliser un suivi régulier de l'évolution de la situation pendant le confinement
 
-L'ensemble des informations compilées sont réunies dans un fichier tableur `regles.csv`, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata. Son format est le suivant (encodage UTF-8, séparateur `;`) :
+L'ensemble des informations compilées sont réunies dans un fichier tableur `regles.csv`, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata. Son format est le suivant (encodage UTF-8, séparateur `,`) :
 
 * `nom_enseigne` : nom de l'enseigne
 * `id_wikidata` : identifiant Wikidata de cette enseigne

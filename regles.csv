@@ -1,9 +1,9 @@
-nom_enseigne;id_wikidata;url_source;url_horaires;regle_ouverture;infos
-Géant Casino;Q1380537;https://www.geantcasino.fr/;https://magasins.geantcasino.fr/;ouvert_adapté;
-E. Leclerc;Q1273376;https://www.e-leclerc.com/catalogue/evenements/covid-19-les-centres-eleclerc-sont-mobilises;;ouvert;
-Intermarché;Q3153200;https://www.intermarche.com/enseigne/magazine/mesures-COVID;;ouvert_adapté;
-Carrefour;Q217599;https://www.carrefour.fr/;;ouvert;
-Leader Price;Q2181426;https://www.leaderprice.fr/;;ouvert;
-Magasins U;Q2529029;https://twitter.com/ULesCommercants/status/1240174417960931328;;ouvert;
-Biocoop;Q2904039;https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude;;ouvert;
-Auchan;Q758603;https://twitter.com/AUCHAN_France/status/1239652791045574660;;ouvert;
+nom_enseigne,id_wikidata,url_source,url_horaires,regle_ouverture,infos
+Géant Casino,Q1380537,https://www.geantcasino.fr/,https://magasins.geantcasino.fr/,ouvert_adapté,
+E. Leclerc,Q1273376,https://www.e-leclerc.com/catalogue/evenements/covid-19-les-centres-eleclerc-sont-mobilises,,ouvert,
+Intermarché,Q3153200,https://www.intermarche.com/enseigne/magazine/mesures-COVID,,ouvert_adapté,
+Carrefour,Q217599,https://www.carrefour.fr/,,ouvert,
+Leader Price,Q2181426,https://www.leaderprice.fr/,,ouvert,
+Magasins U,Q2529029,https://twitter.com/ULesCommercants/status/1240174417960931328,,ouvert,
+Biocoop,Q2904039,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,,ouvert,
+Auchan,Q758603,https://twitter.com/AUCHAN_France/status/1239652791045574660,,ouvert,
