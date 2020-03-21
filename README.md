@@ -9,6 +9,7 @@ Exemples :
 * les boulangeries "Le Bon Pain" sont ouvertes de 9h à 18h30 dans toute la France
 * les magasins de bricolage "L'outil pro" sont fermés partout en France
 
+
 ## Comment participer ?
 
 ### Signaler une information
@@ -30,7 +31,8 @@ __Avant de créer un ticket__, vérifiez que les informations [n'ont pas déjà 
 
 ### Intégrer les informations
 
-Sur la base des tickets ouverts, et si vous êtes à l'aise avec GitHub et l'outil informatique, intégrez les informations reçues dans le fichier CSV `rules.csv`.
+Sur la base des tickets ouverts, et si vous êtes à l'aise avec GitHub et l'outil informatique, intégrez les informations reçues dans le fichier CSV `regles.csv`, sur la base du format décrit ci-dessous. Proposez une pull request vers la branche master, et pensez à lier au ticket correspondant.
+
 
 ## Le résultat
 
@@ -39,4 +41,11 @@ L'objectif est de produire sur l'ensemble du territoire national une carte prés
 * Répartir la charge sur plusieurs commerces au lieu d'un seul dans une zone et éviter les cohues/bousculades/pénuries
 * Réaliser un suivi régulier de l'évolution de la situation pendant le confinement
 
-L'ensemble des informations compilées sont réunies dans un fichier tableur, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata.
+L'ensemble des informations compilées sont réunies dans un fichier tableur `regles.csv`, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata. Son format est le suivant (encodage UTF-8, séparateur `;`) :
+
+* `nom_enseigne` : nom de l'enseigne
+* `id_wikidata` : identifiant Wikidata de cette enseigne
+* `url_source` : lien URL où les infos d'ouveture/fermeture sont renseignées
+* `url_horaires` : en cas d'horaires adaptées, lien URL recensant les horaires
+* `regle_ouverture` : statut d'ouverture des magasins (valeurs possibles : `ouvert` = pas de changement, `ouvert_adapté` = ouvert avec horaires adaptés, `fermé` = tous les magasins fermés)
+* `infos` : champ texte libre d'informations supplémentaires
