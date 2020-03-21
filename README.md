@@ -18,10 +18,11 @@ Pour signaler une information concernant une chaîne de magasins, vous pouvez [c
 Le ticket devra avoir la forme suivante :
 
 ```
-* Magasins concernés : nom de l'enseigne
-* Règle d'ouverture : magasins fermés / magasins ouverts aux horaires habituels / magasins ouverts à des horaires spéciales (précisez : sur RDV, horaires d'ouvertures...)
-* Wikipédia/Wikidata : lien URL vers l'enseigne sur Wikipédia (ou idéalement [Wikidata](https://www.wikidata.org/))
-* Source : l'adresse où vous avez constaté l'info
+* __Magasins concernés__ : nom de l'enseigne
+* __Règle d'ouverture__ : magasins fermés / magasins ouverts aux horaires habituels / magasins ouverts à des horaires spéciales (précisez : sur RDV, horaires d'ouvertures...)
+* __Wikipédia/Wikidata__ : (optionel) lien URL vers l'enseigne sur Wikipédia (ou idéalement [Wikidata](https://www.wikidata.org/))
+* __Horaires__ : (optionel) lien URL vers la page recensant les horaires actualisés
+* __Source__ : l'adresse où vous avez constaté l'info
 ```
 
 __Avant de créer un ticket__, vérifiez que les informations [n'ont pas déjà été remontées ici](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
