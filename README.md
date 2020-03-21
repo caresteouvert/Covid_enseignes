@@ -18,6 +18,7 @@ Pour signaler une information concernant une chaîne de magasins, vous pouvez [c
 Le ticket devra avoir la forme suivante :
 
 ```
+
 * __Magasins concernés__ : nom de l'enseigne
 * __Règle d'ouverture__ : magasins fermés / magasins ouverts aux horaires habituels / magasins ouverts à des horaires spéciales (précisez : sur RDV, horaires d'ouvertures...)
 * __Wikipédia/Wikidata__ : (optionel) lien URL vers l'enseigne sur Wikipédia (ou idéalement [Wikidata](https://www.wikidata.org/))
