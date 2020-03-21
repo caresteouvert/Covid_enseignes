@@ -1,6 +1,6 @@
 # Covid Enseignes
 
-Quelles sont les magasins ouverts ou fermés durant le confinement ? [La réponse est ici !](regles.csv)
+Quelles sont les enseignes de magasins ouverts ou fermés durant le confinement ? [La réponse est ici !](regles.csv)
 
 L'objectif de ce dépôt est de renseigner les règles applicables aux enseignes en France concernant leur ouverture durant la période de confinement suite à l'épidément COVID-19. Ceci permettra la réalisation de cartes sur les commerces accessibles pendant le confinement.
 
