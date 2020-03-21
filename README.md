@@ -44,8 +44,10 @@ L'objectif est de produire sur l'ensemble du territoire national une carte prés
 L'ensemble des informations compilées sont [réunies dans un fichier tableur](regles.csv) `regles.csv`, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata. Son format est le suivant (encodage UTF-8, séparateur `,`) :
 
 * `nom_enseigne` : nom de l'enseigne
+* `categorie` : type de commerce (en Anglais, selon la description OpenStreetMap : `supermarket`, `bakery`...)
 * `id_wikidata` : identifiant Wikidata de cette enseigne
 * `url_source` : lien URL où les infos d'ouveture/fermeture sont renseignées
 * `url_horaires` : en cas d'horaires adaptées, lien URL recensant les horaires
-* `regle_ouverture` : statut d'ouverture des magasins (valeurs possibles : `ouvert` = pas de changement, `ouvert_adapté` = ouvert avec horaires adaptés, `fermé` = tous les magasins fermés)
+* `regle_ouverture` : statut d'ouverture des magasins (valeurs possibles : `ouvert` = pas de changement, `ouvert_adapté` = ouvert avec horaires adaptés, `partiel` = certains magasins fermés, `fermé` = tous les magasins fermés)
+* `horaires` : horaires au format `opening_hours` OpenStreetMap __si valables pour tous les commerces__ de l'enseigne
 * `infos` : champ texte libre d'informations supplémentaires
