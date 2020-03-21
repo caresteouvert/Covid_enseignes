@@ -2,7 +2,7 @@
 name: Informations d'une enseigne
 about: Ouverture ou fermeture d'une enseigne
 title: Nom de l'enseigne concernée
-labels: ''
+labels: enseigne
 assignees: ''
 
 ---
