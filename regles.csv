@@ -37,4 +37,7 @@ Crédit du Nord,bank,Q3006209,ouvert,,,https://twitter.com/creditdunord/status/1
 CIC,bank,Q746525,ouvert_adapté,,,https://www.cic.fr/fr/coronavirus-covid-19-cic-a-vos-cotes.html,
 Crédit Mutuel Arkéa,bank,Q3006236,fermé,,Services en ligne et contact possible par téléphone,https://www.arkea.com/banque/assurance/credit/accueil,
 HSBC,bank,Q3125186,partiel,,,https://www.hsbc.fr/a-vos-cotes/coronavirus/,
-Société Générale,bank,,ouvert,,,https://www.societegenerale.com/fr/newsroom-crise-du-coronavirus-societe-generale-se-mobilise-pour-soutenir-ses-clients,
+Société Générale,bank,Q270363,ouvert,,,https://www.societegenerale.com/fr/newsroom-crise-du-coronavirus-societe-generale-se-mobilise-pour-soutenir-ses-clients,
+Brico Dépôt,diy,Q2889702,fermé,,,https://www.bricodepot.fr/,
+Leroy Merlin,diy,Q889624,fermé,,,https://www.leroymerlin.fr/,
+Queguiner Matériaux,diy,Q3414861,fermé,,,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
