@@ -14,7 +14,7 @@ Exemples :
 
 ### Signaler une information
 
-Pour signaler une information concernant une chaîne de magasins, vous pouvez [créer un ticket](https://github.com/PanierAvide/Covid_enseignes/issues) sur ce dépot.
+Pour signaler une information concernant une chaîne de magasins (au moins 10 boutiques, pour les commerces indépendants [voir ce ticket](https://github.com/PanierAvide/Covid_enseignes/issues/21#issuecomment-602479724)), vous pouvez [créer un ticket](https://github.com/PanierAvide/Covid_enseignes/issues) sur ce dépot.
 
 Le ticket devra avoir la forme suivante :
 
