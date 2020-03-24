@@ -33,8 +33,10 @@ car_rental,Rent A Car,Q3425574,partiel,,,https://www.rentacar.fr/nos-dossiers/26
 car_rental,Sixt,Q705664,ouvert,,,https://www.sixt.fr/magazine/actualites/informations-actuelles-voyages/,
 car_rental,Ucar,,ouvert_adapté,,,https://ucar.fr/Portals/_default/Skins/Ucar/Images/Engagement_UCAR_COVID19.pdf,
 car_repair,AD,Q18697078,partiel,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
+car_repair,Autodistribution,Q18697078,partiel,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
 car_repair,Carglass,Q1035997,fermé,,,https://www.carglass.fr/,
 car_repair,Citroën,Q6746,fermé,,Contact par téléphone possible,https://www.citroen.fr/covid-19.html,
+car_repair,Étape Auto,,fermé,,,https://www.etape-auto.fr/,
 car_repair,Euromaster,Q3060668,partiel,,,https://www.euromaster.fr/particulier,https://www.euromastergroup.com/liste-centres-ouverts.pdf
 car_repair,Feu Vert,Q3070922,fermé,,,https://www.feuvert.fr/,
 car_repair,Midas,Q3312613,partiel,,,https://www.midas.fr/purchase-guides/centre-dappel-covid19,https://www.midas.fr/purchase-guides/centres-ouverts-covid19
@@ -71,6 +73,7 @@ fuel,Elan,Q57980752,ouvert,,,,https://www.total-proxi-energies.fr/stations-elan/
 fuel,Esso,Q867662,ouvert,,,https://corporate.esso.fr/Notre-groupe/Actualites-et-publications/Esso-SAF/Information,
 fuel,Esso Express,Q867662,ouvert,,,https://corporate.esso.fr/Notre-groupe/Actualites-et-publications/Esso-SAF/Information,
 fuel,Groupement des Mousquetaires,Q3153200,ouvert_adapté,,,https://www.intermarche.com/enseigne/magazine/mesures-COVID,
+fuel,La Station U,Q2529029,ouvert,,,https://twitter.com/ULesCommercants/status/1240174417960931328,
 fuel,Shell,Q154950,ouvert,,Certains services en station sont fermés ou limités (restauration),https://www.shell.fr/,
 fuel,Total,Q154037,ouvert,,,https://www.total.fr/actus/nos-actualites/Covid-19-Total-se-mobilise-pour-soutenir-personnels-soignants-hospitaliers,
 fuel,Total Access,Q154037,ouvert,,,https://www.total.fr/actus/nos-actualites/Covid-19-Total-se-mobilise-pour-soutenir-personnels-soignants-hospitaliers,
