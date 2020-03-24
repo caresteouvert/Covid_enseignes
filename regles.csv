@@ -40,6 +40,7 @@ electronics,Boulanger,Q2921695,fermé,,,https://twitter.com/boulanger/status/124
 electronics,Darty,Q2439098,fermé,,,https://twitter.com/Darty_Officiel/status/1239288822665482241,
 electronics,Électro Dépôt,Q2388060,fermé,,,https://www.electrodepot.fr/#electro-informe,
 electronics_repair,Docteur IT,,partiel,,,https://www.docteur-it.com/,
+frozen_food,Thiriet,Q3524695,ouvert_adapté,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
 garden_centre,Gamm Vert,Q3095006,ouvert_adapté,,"Limité à l’alimentation et animalerie, contacter le magasin avant de s’y rendre",https://www.gammvert.fr/,https://magasin.gammvert.fr/
 garden_centre,Jardiland,Q3162276,ouvert,,Limité à l’alimentation et animalerie,https://twitter.com/Jardiland/status/1239891135964856320,
 garden_centre,Point Vert,Q16661975,partiel,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
@@ -50,6 +51,7 @@ insurance,Groupama,Q3083531,fermé,,,https://www.groupama.fr/,
 insurance,Maaf,Q3331028,fermé,,,https://www.maaf.fr/fr/mutuelle-sante/covid-19,
 insurance,Macif,Q3331021,fermé,,"Ligne téléphonique fermée pour l’instant, démarches par l’espace client en ligne",https://www.macif.fr/,
 insurance,Maif,Q3331029,fermé,,,https://www.maif.fr/,
+insurance,Matmut,Q3299185,fermé,,,https://twitter.com/Matmut/status/1239243892882649088,
 insurance,MMA,Q3331046,fermé,,,https://www.mma.fr/,
 insurance,Mutuelle de Poitiers Assurances,,ouvert,,Privilégier la communication par courriel,https://www.assurance-mutuelle-poitiers.fr/covid-19-nous-restons-mobilises,https://agence.assurance-mutuelle-poitiers.fr/
 library,Fnac,Q676585,fermé,,,https://twitter.com/Fnac/status/1239293193721655296,
@@ -71,6 +73,7 @@ supermarket,Aldi,Q125054,ouvert_adapté,,Fermé les 22/03 et 29/03,https://www.a
 supermarket,Auchan,Q758603,ouvert,,,https://twitter.com/AUCHAN_France/status/1239652791045574660,
 supermarket,Bio c' Bon,Q54312551,partiel,,,https://www.bio-c-bon.eu/,https://www.bio-c-bon.eu/fr/nos_magasins
 supermarket,Biocoop,Q2904039,ouvert_adapté,,,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,
+supermarket,Biomonde,,ouvert_adapté,,,https://www.facebook.com/biomondecooperative/posts/3180682271951752,"https://www.biomonde.fr/nos-magasins,1,58,1"
 supermarket,Carrefour,Q217599,ouvert,,,https://www.carrefour.fr/,
 supermarket,Carrefour City,Q2940187,ouvert,,,https://www.carrefour.fr/,
 supermarket,Carrefour Contact,Q2940188,ouvert,,,https://www.carrefour.fr/,
@@ -84,12 +87,19 @@ supermarket,G20,Q3504731,ouvert_adapté,,"Magasins indépendants, vérifier avan
 supermarket,Géant Casino,Q1380537,ouvert_adapté,,,https://www.geantcasino.fr/,https://magasins.geantcasino.fr/
 supermarket,Grand Frais,Q3114675,ouvert_adapté,Mo-Sa 09:00-18:00,Magasins alsaciens ouverts de 9h à 14h,https://www.grandfrais.com/themes/theme-8.html,https://www.grandfrais.com/recherchemagasin.html
 supermarket,Intermarché,Q3153200,ouvert_adapté,,,https://www.intermarche.com/enseigne/magazine/mesures-COVID,
+supermarket,L’Eau Vive,,ouvert,,,https://www.facebook.com/leauvivebio/videos/666475330774957/,https://www.eau-vive.com/magasin-bio/magasins
+supermarket,La Vie Claire,Q3213589,ouvert_adapté,,,https://www.lavieclaire.com/,https://magasins.lavieclaire.com/lavieclaire/fr
+supermarket,Le Marché de Léopold,,ouvert_adapté,"Mo-Sa 9:30-13:00, 14:00-18:00",,https://www.lemarchedeleopold.com/mesurescovid19/,https://www.lemarchedeleopold.com/magasins-bio/
+supermarket,Les Nouveaux Robinson,Q3345091,ouvert_adapté,,,https://www.facebook.com/lesnouveauxrobinson/photos/a.10150247251555077/10163485466510077/?type=3,http://lesnouveauxrobinson.coop/les-magasins/
 supermarket,Leader Price,Q2181426,ouvert,,,https://www.leaderprice.fr/,
 supermarket,Lidl,Q151954,ouvert,,,https://twitter.com/lidlfrance/status/1239516477247684609,
 supermarket,Magasins U,Q2529029,ouvert,,,https://twitter.com/ULesCommercants/status/1240174417960931328,
 supermarket,Match,Q513977,ouvert,,,https://twitter.com/supermarchematc/status/1239587373505294339,
 supermarket,Monoprix,Q3321241,ouvert,,,https://twitter.com/Monoprix/status/1240558643281608704,
+supermarket,Naturalia,Q3337081,ouvert,,,https://naturalia.fr/naturalia-covid19,https://naturalia.fr/magasins/trouvez-votre-magasin-naturalia
+supermarket,NaturéO,,ouvert_adapté,,,https://www.natureo-bio.fr/magasin-bio/,
 supermarket,Netto,Q2720988,ouvert,,,https://www.facebook.com/nettofrance,
+supermarket,Satoriz,,ouvert_adapté,Mo-Sa 10:00-17:00,,http://www.satoriz.fr/animations/mesures-liees-au-covid-19/,
 supermarket,Spar,Q610492,ouvert,,,https://www.spar.fr/?page=actualite&actu=87,
 variety_store,Action,Q2634111,fermé,,,https://www.action.com/fr-fr/horaires-douverture/,
 variety_store,GiFi,Q3105439,fermé,,,https://www.gifi.fr/faq-covid19.html,
