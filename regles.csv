@@ -156,7 +156,6 @@ supermarket,Le Marché de Léopold,,ouvert_adapté,"Mo-Sa 9:30-13:00, 14:00-18:0
 supermarket,Les Nouveaux Robinson,Q3345091,ouvert_adapté,,,https://www.facebook.com/lesnouveauxrobinson/photos/a.10150247251555077/10163485466510077/?type=3,http://lesnouveauxrobinson.coop/les-magasins/
 supermarket,Leader Price,Q2181426,ouvert,,,https://www.leaderprice.fr/,
 supermarket,Lidl,Q151954,ouvert,,,https://twitter.com/lidlfrance/status/1239516477247684609,
-supermarket,Magasins U,Q2529029,ouvert,,,https://twitter.com/ULesCommercants/status/1240174417960931328,
 supermarket,Match,Q513977,ouvert,,,https://twitter.com/supermarchematc/status/1239587373505294339,
 supermarket,Monoprix,Q3321241,ouvert,,,https://twitter.com/Monoprix/status/1240558643281608704,
 supermarket,Naturalia,Q3337081,ouvert,,,https://naturalia.fr/naturalia-covid19,https://naturalia.fr/magasins/trouvez-votre-magasin-naturalia
@@ -164,9 +163,12 @@ supermarket,NaturéO,,ouvert_adapté,,,https://www.natureo-bio.fr/magasin-bio/,
 supermarket,Netto,Q2720988,ouvert,,,https://www.facebook.com/nettofrance,
 supermarket,Satoriz,,ouvert_adapté,Mo-Sa 10:00-17:00,,http://www.satoriz.fr/animations/mesures-liees-au-covid-19/,
 supermarket,Spar,Q610492,ouvert,,,https://www.spar.fr/?page=actualite&actu=87,
-supermarket,Super U,Q2529029,ouvert,,,https://twitter.com/ULesCommercants/status/1240174417960931328,
-supermarket,Système U,Q2529029,ouvert,,,https://twitter.com/ULesCommercants/status/1240174417960931328,
 supermarket,Vival,Q7937525,ouvert,,,https://www.vival.fr/,https://magasins.vival.fr/
+supermarket,Hyper U,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
+supermarket,Magasins U,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
+supermarket,Super U,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
+supermarket,Système U,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
+supermarket,U Express,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
 variety_store,Action,Q2634111,fermé,,,https://www.action.com/fr-fr/horaires-douverture/,
 variety_store,GiFi,Q3105439,fermé,,,https://www.gifi.fr/faq-covid19.html,
 variety_store,Noz,Q3345688,fermé,,,https://www.nozarrivages.com/,
