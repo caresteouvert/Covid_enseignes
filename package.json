@@ -1,0 +1,28 @@
+{
+  "name": "covid_enseignes",
+  "version": "0.0.0",
+  "description": "Rules for opening hours during Covid-19 lockdown",
+  "main": "compatibility.js",
+  "scripts": {
+    "compat:fr": "node compatibility.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanierAvide/Covid_enseignes.git"
+  },
+  "pre-commit": [
+    "compat:fr"
+  ],
+  "author": "Adrien PAVIE",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PanierAvide/Covid_enseignes/issues"
+  },
+  "homepage": "https://github.com/PanierAvide/Covid_enseignes#readme",
+  "dependencies": {
+    "csv": "^5.3.2"
+  },
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  }
+}

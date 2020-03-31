@@ -1,6 +1,6 @@
 ---
-name: Bug / fonctionnalité
-about: Pour les autres demandes techniques
+name: Bug / feature
+about: For other requests
 title: ''
 labels: question
 assignees: ''

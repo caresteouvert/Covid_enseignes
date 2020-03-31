@@ -1,18 +1,18 @@
 ---
-name: Informations d'une enseigne
-about: Ouverture ou fermeture d'une enseigne
-title: Nom de l'enseigne concernée
+name: Brand information
+about: Opening or closing status of a chain
+title: Chain store name
 labels: enseigne
 assignees: ''
 
 ---
 
 <!--
-Merci de remplir les champs ci-dessous
+Thanks for adding your information below
 -->
 
-* __Magasins concernés__ :                    <!-- nom de l'enseigne -->
-* __Règle d'ouverture__ :                        <!-- magasins fermés / magasins ouverts aux horaires habituels / magasins ouverts à des horaires spéciales (précisez : sur RDV, horaires d'ouvertures...)-->
-* __Wikipédia/Wikidata__ :                      <!-- (optionel) lien URL vers l'enseigne sur Wikipédia (ou idéalement [Wikidata](https://www.wikidata.org/)) -->
-* __Horaires__ :                                        <!-- (optionel) lien URL vers la page recensant les horaires actualisés -->
-* __Source__ :                                           <!-- l'adresse où vous avez constaté l'info -->
+* __Brand__ :                             <!-- brand name of concerned shops -->
+* __Opening rule__ :                      <!-- shops closed / shops open as usual / shops open with adapted opening hours (give some details : on appointment, only by delivery...) -->
+* __Wikipedia / Wikidata__ :              <!-- (optional) URL to Wikipedia or [Wikidata](https://www.wikidata.org/) page -->
+* __Opening hours__ :                     <!-- (optional) URL to web page with opening hours list for shops -->
+* __Source__ :                            <!-- URL to web page where you got info from -->

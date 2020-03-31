@@ -1,76 +1,59 @@
-# Covid Enseignes
+# Chain stores open during Covid-19 lockdown
 
-Quelles sont les enseignes de magasins ouverts ou fermés durant le confinement ? [La réponse est ici !](regles.csv)
+Which chain stores are open during Covid-19 lockdown ? [Answer is here !](rules.csv)
 
-L'objectif de ce dépôt est de renseigner les règles applicables aux enseignes en France concernant leur ouverture durant la période de confinement suite à l'épidément COVID-19. Ceci permettra la réalisation de cartes sur les commerces accessibles pendant le confinement.
+The objective of this repository is to list rules applicable to chain stores worldwide concerning their opening during the Covid-19 lockdown period. This allows to create maps like [Ça reste ouvert](https://caresteouvert.fr) (it stays open in French) of open shops during lockdown.
 
-Exemples :
+Examples :
 
-* les boulangeries "Le Bon Pain" sont ouvertes de 9h à 18h30 dans toute la France
-* les magasins de bricolage "L'outil pro" sont fermés partout en France
+* Do-it-yourself shops "Pro hardware" are open country-wide from 09:00 to 18:00
+* Bakeries "Bonne baguette" are closed country-wide
 
 
-## Comment participer ?
+## How you can contribute
 
-### Signaler une information
+### Report information
 
-Pour signaler une information concernant une chaîne de magasins (au moins 10 boutiques, pour les commerces indépendants [voir ce ticket](https://github.com/PanierAvide/Covid_enseignes/issues/21#issuecomment-602479724)), vous pouvez [créer un ticket](https://github.com/PanierAvide/Covid_enseignes/issues) sur ce dépot.
+To report information about a chain of stores (at least 10 shops, for independent shops please use [opening_hours:covid19 tag on OpenStreetMap](https://wiki.openstreetmap.org/wiki/Key:opening_hours:covid19)), you can [create an issue](https://github.com/PanierAvide/Covid_enseignes/issues) in this repository.
 
-Le ticket devra avoir la forme suivante :
+Your issue should be formatted like below :
 
 ```
-
-* __Magasins concernés__ : nom de l'enseigne
-* __Règle d'ouverture__ : magasins fermés / magasins ouverts aux horaires habituels / magasins ouverts à des horaires spéciales (précisez : sur RDV, horaires d'ouvertures...)
-* __Wikipédia/Wikidata__ : (optionel) lien URL vers l'enseigne sur Wikipédia (ou idéalement [Wikidata](https://www.wikidata.org/))
-* __Horaires__ : (optionel) lien URL vers la page recensant les horaires actualisés
-* __Source__ : l'adresse où vous avez constaté l'info
+* __Brand__ : brand name of concerned shops
+* __Opening rule__ : shops closed / shops open as usual / shops open with adapted opening hours (give some details : on appointment, only by delivery...)
+* __Wikipedia / Wikidata__ : (optional) URL to Wikipedia or [Wikidata](https://www.wikidata.org/) page
+* __Opening hours__ : (optional) URL to web page with opening hours list for shops
+* __Source__ : URL to web page where you got info from
 ```
 
-__Avant de créer un ticket__, vérifiez que les informations n'ont pas déjà été répertoriées dans [la liste](regles.csv) ou [dans les tickets ouverts](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
+__Before creating an issue__, please check that info you want to report [is not already listed](rules.csv) or [in another open issue](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
 
-Les catégories de magasins/services concernés sont les suivantes :
+### Integrate information
 
-* Pharmacies
-* Supermarché
-* Supérette
-* Vente de surgelés
-* Marché
-* Vente de fruits et légumes
-* Boucher
-* Charcutier
-* Vente de fruits de mer
-* Fromager
-* Boulangeries
-* Magasin de vente et de réparation de vélos
-* Magasin de téléphonie
-* Magasin de bricolage
-* Papeterie
-* Opticien
-* Location de voiture
-* Banque
-* Assureur
-* Agence de travail temporaire
-* Caviste
-* Laverie
-* Vente de tabac
-* Vente de cigarettes électroniques
-* Stations essence
-* Services funéraires
-
-### Intégrer les informations
-
-Sur la base des tickets ouverts, et si vous êtes à l'aise avec GitHub et l'outil informatique, intégrez les informations reçues dans le fichier CSV `regles.csv`, sur la base du format décrit ci-dessous. Proposez une pull request vers la branche master, et pensez à lier au ticket correspondant.
+Based on open issues, and if you're comfortable with GitHub, you can integrate information received into the CSV file `rules.csv`. Then, propose a pull request to the master branch, and remember to link the corresponding issue in your commit comment.
 
 
-## Le résultat
+## Result
 
-L'objectif est de produire sur l'ensemble du territoire national une carte présentant les commerces ouverts, ainsi que les horaires associées. Plusieurs raisons à cela :
-* Limiter au strict nécessaire les déplacements et donc éviter des détours vers des commerces fermés
-* Répartir la charge sur plusieurs commerces au lieu d'un seul dans une zone et éviter les cohues/bousculades/pénuries
-* Réaliser un suivi régulier de l'évolution de la situation pendant le confinement
+The aim is to produce a worlwide map showing open shops during lockdown, and their associated opening hours. This is useful because :
 
-L'ensemble des informations compilées sont [réunies dans un fichier tableur](regles.csv) `regles.csv`, définissant les règles reçues pour être exploitées en lien avec OpenStreetMap et Wikidata. Son format est le suivant (encodage UTF-8, séparateur `,`) :
+* It avoids useless trips to closed shops
+* It makes easier to find a shop near you instead of going far from your home
+* It allows to see how things are evolving during the lockdown
+
+All data is compiled in [a single spreadsheet file](rules.csv) `rules.csv`, which defines received opening rules to be used with OpenStreetMap and Wikidata. It has the following format (encoding : UTF-8, delimiter : `,`) :
+
+* `country` : 2-letters, uppercase country code ([ISO 3166-1 alpha-2 code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))
+* `category` : category of chain stores (following OpenStreetMap tagging)
+* `brand_name` : chain name
+* `wikidata_id` : Wikidata identifier (starting with `Q`)
+* `opening_rule` : opening status of stores (possible values : `open` = as usual, `open_adapted` = open with specific opening hours, `partial` = not all shops are opened, `closed` = all shops are closed)
+* `opening_hours` : opening hours of __all stores__ (following [OpenStreetMap opening_hours tagging scheme](https://wiki.openstreetmap.org/wiki/Key:opening_hours))
+* `description` : information about shop accessibility, reduced services...
+* `source_url` : URL of web page where you find info from
+* `opening_hours_url` : URL of web page where opening hours during lockdown are listed
+
+For backward compatibility, another __deprecated__ file `regles.csv` is also available (only French shops) with this format :
 
 * `nom_enseigne` : nom de l'enseigne
 * `categorie` : type de commerce (en Anglais, selon la description OpenStreetMap : `supermarket`, `bakery`...)
@@ -80,3 +63,12 @@ L'ensemble des informations compilées sont [réunies dans un fichier tableur](r
 * `regle_ouverture` : statut d'ouverture des magasins (valeurs possibles : `ouvert` = pas de changement, `ouvert_adapté` = ouvert avec horaires adaptés, `partiel` = certains magasins fermés, `fermé` = tous les magasins fermés)
 * `horaires` : horaires au format `opening_hours` OpenStreetMap __si valables pour tous les commerces__ de l'enseigne
 * `infos` : champ texte libre d'informations supplémentaires
+
+
+## License
+
+Copyright 2020 [Adrien PAVIE](https://pavie.info)
+
+Data under Creative Commons Public Domain License (CC0), see [full license](LICENSE) for details.
+
+JavaScript code under [GNU Affero General Public License](https://www.gnu.org/licenses/#AGPL).
