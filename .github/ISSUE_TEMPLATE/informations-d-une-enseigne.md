@@ -2,7 +2,7 @@
 name: Brand information
 about: Opening or closing status of a chain
 title: Chain store name
-labels: enseigne
+labels: brand info
 assignees: ''
 
 ---
