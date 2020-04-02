@@ -4,14 +4,15 @@
   "description": "Rules for opening hours during Covid-19 lockdown",
   "main": "compatibility.js",
   "scripts": {
-    "compat:fr": "node compatibility.js"
+    "compat:fr": "node compatibility.js",
+    "precommit": "npm run compat:fr && git add regles.csv"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PanierAvide/Covid_enseignes.git"
   },
   "pre-commit": [
-    "compat:fr"
+    "precommit"
   ],
   "author": "Adrien PAVIE",
   "license": "GPL-3.0",
