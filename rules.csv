@@ -3,7 +3,7 @@ DE,bakery,Back-Factory,Q21200483,closed,,,https://www.back-factory.de/wir-sind-b
 DE,bakery,BackWerk,Q798298,partial,,,https://www.back-werk.de/,https://www.back-werk.de/standorte/
 DE,bakery,Ditsch,Q911573,partial,,,,https://www.ditsch.de/de/shops/
 DE,bakery,Hofpfisterei,Q1623217,open,,,https://www.hofpfisterei.de/,https://www.hofpfisterei.de/verkaufsstellen
-DE,bakery,Junge,,open,,,https://www.jb.de/das-unternehmen-junge/das-ist-junge/gemeinsamstark/,
+DE,bakery,Junge,Q1561751,open,,,https://www.jb.de/das-unternehmen-junge/das-ist-junge/gemeinsamstark/,
 DE,bakery,Kamps,Q1723381,partial,,,https://kamps.de/standorte,https://kamps.de/standorte
 DE,bakery,Le Crobag,Q1558025,partial,,,,https://www.lecrobag.de/shops-de/standorte.html
 DE,bakery,Schäfer's,Q1464562,open,,,,https://www.schaefers-brot.de/filialen/
@@ -52,11 +52,11 @@ DE,books,Hugendubel,Q1634142,closed,,,https://www.hugendubel.de/de/category/9070
 DE,books,Mayersche,Q1462383,closed,,,https://twitter.com/Mayersche/status/1240541647462699008,
 DE,books,Osiander,Q1800686,partial,Mo-Sa 11:00-18:00,Nur Abholung.,https://www.osiander.de/service/abholung_versand.cfm,
 DE,books,Pustet,Q1461605,closed,,,https://www.pustet.de/shop/magazine/49701/filialen_oeffnungszeiten.html,
-DE,books,Rupprecht,,closed,,,https://www.rupprecht.de/shop/magazine/148419/aktuelle_situation.html,
+DE,books,Rupprecht,Q89431762,closed,,,https://www.rupprecht.de/shop/magazine/148419/aktuelle_situation.html,
 DE,books,Thalia,Q2408854,partial,Mo-Sa 10:00-13:00,Nur Abholung in ausgewählten Filialen.,https://www.thalia.de/shop/information/show/,
 DE,books,Weltbild,Q883522,closed,,,https://www.weltbild.de/service/filialen,
 DE,car_rental,Avis,Q791136,partial,,,https://www.avis.de/avis-coronavirus-advice,https://www.avis.de/avis-coronavirus-advice
-DE,car_rental,Buchbinder,,partial,,,https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
+DE,car_rental,Buchbinder,Q89432097,partial,,,https://www.buchbinder.de/de/coronavirus/,https://www.buchbinder.de/de/stationen/
 DE,car_rental,Enterprise,Q17085454,partial,,,https://www.enterprise.de/de/hilfe/notifications/advisory.html,https://www.enterprise.de/de/autovermietung/standorte/deutschland.html
 DE,car_rental,Europcar,Q1376256,partial,,,https://www.europcar.de/wichtige-informationen,https://www.europcar.de/standorte
 DE,car_rental,Hertz,Q1543874,partial,,,https://www.hertz.de/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,https://www.hertz.de/rentacar/location
@@ -74,7 +74,7 @@ DE,doityourself,Hagebau,Q1568279,partial,,,https://www.hagebau.de/marktfinder/,h
 DE,doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
 DE,doityourself,OBI,Q300518,partial,,,https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
 DE,doityourself,toom Baumarkt,Q2442970,partial,,,https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
-DE,fuel,Agip,,open,,,,https://stationfinder.agipstation.de/
+DE,fuel,Agip,Q377915,open,,,,https://stationfinder.agipstation.de/
 DE,fuel,Aral,Q565734,open,,,https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
 DE,fuel,Avia,Q300147,open,,,,https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
 DE,fuel,bft,Q1009104,partial,,,,https://www.bft.de/tankstellenfinder
@@ -87,7 +87,7 @@ DE,fuel,OMV,Q168238,open,,,https://www.omv.de/de-de/tankstellen/fur-sie-da,https
 DE,fuel,Q1,Q2121146,open,,,,https://www.q1.eu/de/tankstellen/tankstellenfinder
 DE,fuel,Raiffeisen,,open,,,,https://www.raiffeisentankstelle.de/standorte/suche/
 DE,fuel,Shell,Q154950,open_adapted,,,https://www.shell.de/covid19/shell-tankstellen-bleiben-weitgehend-geoeffnet.html,https://www.shell.de/autofahrer/shell-station-locator.html
-DE,fuel,star,,open,,,https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
+DE,fuel,star,Q89432390,open,,,https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
 DE,fuel,Total,Q154037,open,,,https://www.total.de/,https://www.total.de/tankstellen/tankstellenfinder
 DE,fuel,Westfalen,Q1411209,open,,,,https://westfalen.com/de/de/tankstellen-mobilitaet/
 DE,garden_centre,Dehner,Q1183029,partial,,,https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
@@ -111,7 +111,7 @@ DE,supermarket,LIDL,Q151954,open,,,https://www.lidl.de/,https://www.lidl.de/de/f
 DE,supermarket,Markant,Q57523365,open_adapted,,,,https://www.mein-markant.de/mein-markt/unsere-maerkte/
 DE,supermarket,Marktkauf,Q1533254,open_adapted,,,,https://marktkauf.de/market-locator
 DE,supermarket,Metro,Q169167,open,,,,https://www.metro.de/standorte/
-DE,supermarket,Nahkauf,,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
+DE,supermarket,Nahkauf,Q57515238,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
 DE,supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
 DE,supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https://www.norma-online.de/de/filialfinder/
 DE,supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
