@@ -142,7 +142,7 @@ FR,bank,Crédit Mutuel de Bretagne,Q3006236,closed,,Services en ligne et contact
 FR,bank,HSBC,Q3125186,partial,,,https://www.hsbc.fr/a-vos-cotes/coronavirus/,
 FR,bank,La Banque Postale,Q3206431,open_adapted,,,https://www.labanquepostale.fr/particulier/actualites/covid19.html,
 FR,bank,LCL,Q779722,open_adapted,,Préférer les échanges à distance,https://www.lcl.fr/vous-ne-pouvez-pas-vous-deplacer,
-FR,bank,Société Générale,Q270363,open,,,https://www.societegenerale.com/fr/newsroom-crise-du-coronavirus-societe-generale-se-mobilise-pour-soutenir-ses-clients,
+FR,bank,Société Générale,Q270363,partial,,"Ouvert le matin sur rendez-vous, l’après-midi contact uniquement par téléphone",https://particuliers.societegenerale.fr/articles-actualites/covid-19,
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,https://www.smc.fr/icd/static/wem/agora/smc/medias/20200319_CP_SMCmesuresCovid19.pdf,
 FR,car_rental,Ada,Q57313774,open,,,https://www.ada.fr/,
 FR,car_rental,Alamo,Q1429287,partial,,,https://www.alamo.fr/alerte/,
