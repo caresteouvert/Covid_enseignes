@@ -70,6 +70,13 @@ employment_agency,Pôle Emploi,Q8901192,fermé,,Contact par téléphone possible
 employment_agency,Randstad,Q267840,fermé,,,https://www.randstad.fr/,
 farm,Bienvenue à la Ferme,Q2902023,partiel,,,,https://www.drive-fermier.fr/carte_drive_fermier
 farm,Drive Fermier,Q2902023,partiel,,,,https://www.drive-fermier.fr/carte_drive_fermier
+fast_food,Burger King,Q177054,fermé,,,https://www.burgerking.fr/,
+fast_food,Domino’s,Q839466,partiel,,,https://www.dominos.fr/,
+fast_food,Domino’s Pizza,Q839466,partiel,,,https://www.dominos.fr/,
+fast_food,KFC,Q524757,partiel,,Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
+fast_food,McDonald’s,Q38076,fermé,,,https://www.mcdonalds.fr/,
+fast_food,Quick,Q286494,fermé,,,https://www.quick.fr/landing?redirect=%2F,
+fast_food,Subway,Q244457,fermé,,,https://www.subway.com/fr-fr,
 frozen_food,Thiriet,Q3524695,ouvert_adapté,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
 fuel,Avia,Q300147,ouvert,,,https://www.avia-france.fr/,
 fuel,BP,Q152057,ouvert,,,http://stationsbp.fr/bp_station/site_bp_station/index.php,
