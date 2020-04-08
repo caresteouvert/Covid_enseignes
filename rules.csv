@@ -1,4 +1,28 @@
 country,category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
+CH,bakery,Brezelkönig,,open,,,,https://brezelkoenig.ch/de/standorte/?Format=11
+CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
+CH,bank,UBS,Q193199,partial,,,https://www.ubs.com/ch/de/help/covid-info.html,
+CH,chemist,Amavita,,open,,,https://www.amavita.ch/de/info-covid19,https://www.amavita.ch/de/storepickup
+CH,chemist,Dropa,Q1260273,open,,,https://dropa.ch/ratgeber/alle-dropa-drogerien-und-apotheken-sind-geoeffnet,https://dropa.ch
+CH,chemist,TopPharm,,open,,,,https://www.toppharm.ch/hauslieferdienst
+CH,doityourself, Do it & Garden,Q680727,partial,,,https://www.doitgarden.ch/de/cp/aktuell,https://www.doitgarden.ch
+CH,doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.ch/de/content/aktuelles/aktuelle-situation.html,https://www.bauhaus.ch
+CH,doityourself,Coop Bau + Hobby,Q432564,partial,,,,https://www.bauundhobby.ch/
+CH,doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.ch/aktuelles/aktuelle-informationen/,https://www.hornbach.ch/
+CH,doityourself,Jumbo,,partial,,,https://www.jumbo.ch/de/coronavirus-info,https://www.jumbo.ch/de
+CH,doityourself,Landi,Q1803010,partial,,,https://www.landi.ch/laden/service/Haeufig-gestellte-Fragen-FAQ,https://www.landi.ch/places/de
+CH,doityourself,OBI,Q300518,partial,,,,https://www.obi.ch/
+CH,optician,Fielmann,Q457822,partial,,nur Notfälle,https://www.fielmann.ch,https://www.fielmann.ch/de/niederlassungen/
+CH,optician,Visilab,Q2528307,closed,,Hotline für Notfälle,https://www.visilab.ch,https://www.visilab.ch/de/faq/info/
+CH,post,Post,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,supermarket,Aldi,Q125054,open,,,,https://www.aldi-suisse.ch/filialen/de-CH/Start
+CH,supermarket,Coop,Q432564,open,,,,https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten.html
+CH,supermarket,Denner,Q379911,open,,,,https://www.denner.ch/de/filialen/
+CH,supermarket,LIDL,Q151954,open,,,,https://www.lidl.ch/unternehmen/filialen-oeffnungszeiten/filialfinder
+CH,supermarket,Manor,,partial,,,https://www.manor.ch/de/u/manor-info-covid19,https://www.manor.ch/de/store-finder
+CH,supermarket,Migros,Q680727,open,,,,https://filialen.migros.ch/de
+CH,supermarket,SPAR,Q610492,open,,,,https://www.spar.ch/spar-maerkte/#?s=1
+CH,supermarket,Volg,Q2530746,open,,,,https://www.volg.ch/standorte-oeffnungszeiten/
 DE,bakery,Back-Factory,Q21200483,closed,,,https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,
 DE,bakery,BackWerk,Q798298,partial,,,https://www.back-werk.de/,https://www.back-werk.de/standorte/
 DE,bakery,Ditsch,Q911573,partial,,,,https://www.ditsch.de/de/shops/
@@ -32,11 +56,12 @@ DE,bank,Santander,Q875292,partial,,,https://www.santander.de/privatkunden/servic
 DE,bank,Sparkasse Aachen,Q2307270,partial,,,https://www.sparkasse-aachen.de/de/home/aktionen/informationen-zum-coronavirus_ac.html,https://www.sparkasse-aachen.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Aschaffenburg-Alzenau,Q2307290,partial,,,https://www.spk-aschaffenburg.de/de/home/aktionen-sparkasse/module/corona-faq.html,https://www.spk-aschaffenburg.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Erlangen Höchstadt Herzogenaurach,Q2326324,partial,,,https://www.sparkasse-erlangen.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-erlangen.de/de/home/toolbar/filialen.html
+DE,bank,Sparkasse Hanauerland,Q2307444,partial,,,https://www.sparkasse-kehl.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-kehl.de/de/home/toolbar/filialen.html?n=true
 DE,bank,Sparkasse Hannover,Q2307451,partial,,,https://www.sparkasse-hannover.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-hannover.de/de/home/filiale-oeffnungszeiten.html
 DE,bank,Sparkasse Heidelberg,Q1443207,partial,,,https://www.sparkasse-heidelberg.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-heidelberg.de/de/home/toolbar/filialen.html
 DE,bank,Sparkasse Hildesheim Goslar Peine,Q2307468,partial,,,https://www.sparkasse-hgp.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-hgp.de/de/home/ihre-sparkasse/Oeffnungszeiten.html
-DE,bank,Sparkasse KölnBonn,Q1681035,partial,,,https://www.sparkasse-koelnbonn.de/de/home/aktionen/kundeninformation-coronavirus.html,https://www.sparkasse-koelnbonn.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Krefeld,Q15848092,partial,,,https://www.sparkasse-krefeld.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-krefeld.de/de/home/toolbar/filialen.html
+DE,bank,Sparkasse KölnBonn,Q1681035,partial,,,https://www.sparkasse-koelnbonn.de/de/home/aktionen/kundeninformation-coronavirus.html,https://www.sparkasse-koelnbonn.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Leipzig,Q2307533,partial,,,https://www.sparkasse-leipzig.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-leipzig.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Mainfranken Würzburg,Q2307545,partial,,,https://www.sparkasse-mainfranken.de/de/home/ihre-sparkasse/coronavirus-information.html,https://www.sparkasse-mainfranken.de/filialen
 DE,bank,Sparkasse Nürnberg,Q2307586,partial,,,https://www.sparkasse-nuernberg.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-nuernberg.de/de/home/aktionen/informationen-zum-coronavirus/ak-gs-oeffnungsezeiten-corona.html
@@ -48,6 +73,7 @@ DE,bank,Sparkasse Ulm,Q18630954,partial,,,https://www.sparkasse-ulm.de/de/home/i
 DE,bank,Sparkasse Vorpommern,Q2307709,partial,,,https://www.spk-vorpommern.de/de/home/aktionen/corona.html,https://www.spk-vorpommern.de/de/home/aktionen/oeffnungszeiten_corona.html
 DE,bank,Sparkasse Westmünsterland,Q1567929,partial,,,https://www.sparkasse-westmuensterland.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-westmuensterland.de/de/home/toolbar/filialen.html
 DE,bank,Stadtsparkasse München,Q1438593,partial,,,https://www.sskm.de/de/home/aktionen/aktuelle-kundeninformation-coronavirus.html,https://www.sskm.de/de/home/service/filiale-finden.html
+DE,bank,Volksbank Bühl,Q18397161,partial,,,,https://www.volksbank-buehl.de/ihre-volksbank/beratungscenter-ansprechpartner/beratungscenter/uebersicht-beratungscenter.html
 DE,books,Hugendubel,Q1634142,closed,,,https://www.hugendubel.de/de/category/90701/filialen.html,
 DE,books,Mayersche,Q1462383,closed,,,https://twitter.com/Mayersche/status/1240541647462699008,
 DE,books,Osiander,Q1800686,partial,Mo-Sa 11:00-18:00,Nur Abholung.,https://www.osiander.de/service/abholung_versand.cfm,
@@ -64,9 +90,9 @@ DE,car_rental,Sixt,Q705664,partial,,,https://www.sixt.de/magazine/news/aktuelle-
 DE,car_repair,A.T.U,Q784721,closed,,,https://www.atu.de/pages/corona.html,
 DE,car_repair,Carglass,Q1035997,open,,,https://www.carglass.de/corona,https://www.carglass.de/standorte
 DE,car_repair,Pitstop,Q1310014,open,,,https://www.pitstop.de/,
-DE,chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
 DE,chemist,Müller,Q1958759,open,,,https://www.mueller.de/aktuelles/aktuelle-information/,https://www.mueller.de/meine-filiale/
 DE,chemist,Rossmann,Q316004,open,,,https://www.rossmann.de/de/das-wir-zaehlt,https://www.rossmann.de/de/filialen/index.html
+DE,chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
 DE,doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
 DE,doityourself,BayWa,Q812055,partial,,,https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
 DE,doityourself,Globus Baumarkt,Q457503,partial,,,https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
@@ -77,7 +103,6 @@ DE,doityourself,toom Baumarkt,Q2442970,partial,,,https://toom.de/aktionen/aktuel
 DE,fuel,Agip,Q377915,open,,,,https://stationfinder.agipstation.de/
 DE,fuel,Aral,Q565734,open,,,https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
 DE,fuel,Avia,Q300147,open,,,,https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
-DE,fuel,bft,Q1009104,partial,,,,https://www.bft.de/tankstellenfinder
 DE,fuel,Classic,Q33127117,open,,,,https://classic-oil.de/tankstellen/unsere-tankstellen/
 DE,fuel,Esso,Q867662,open,,,https://www.esso.de/coronavirus,https://www.esso.de/stations
 DE,fuel,HEM,Q1563517,open,,,,https://www.hem-tankstelle.de/produkteundservices/tankstellenfinder
@@ -87,9 +112,10 @@ DE,fuel,OMV,Q168238,open,,,https://www.omv.de/de-de/tankstellen/fur-sie-da,https
 DE,fuel,Q1,Q2121146,open,,,,https://www.q1.eu/de/tankstellen/tankstellenfinder
 DE,fuel,Raiffeisen,,open,,,,https://www.raiffeisentankstelle.de/standorte/suche/
 DE,fuel,Shell,Q154950,open_adapted,,,https://www.shell.de/covid19/shell-tankstellen-bleiben-weitgehend-geoeffnet.html,https://www.shell.de/autofahrer/shell-station-locator.html
-DE,fuel,star,Q89432390,open,,,https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
 DE,fuel,Total,Q154037,open,,,https://www.total.de/,https://www.total.de/tankstellen/tankstellenfinder
 DE,fuel,Westfalen,Q1411209,open,,,,https://westfalen.com/de/de/tankstellen-mobilitaet/
+DE,fuel,bft,Q1009104,partial,,,,https://www.bft.de/tankstellenfinder
+DE,fuel,star,Q89432390,open,,,https://www.star.de/187/corona-virus-aktuelle-informationen/,https://www.star.de/service/tankstellenfinder
 DE,garden_centre,Dehner,Q1183029,partial,,,https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
 DE,garden_centre,Raiffeisen-Markt,,open,,,,https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
 DE,garden_centre,ZG Raiffeisen,Q136135,open,,,https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
@@ -97,12 +123,12 @@ DE,optician,Apollo Optik,Q618940,partial,,,https://www.apollo.de/lp/corona-infor
 DE,optician,Fielmann,Q457822,partial,,,https://www.fielmann.de/,https://www.fielmann.de/niederlassungen/
 DE,stationery,McPaper,Q1915329,partial,,,,
 DE,stationery,Staples,Q785943,partial,,,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml
-DE,supermarekt,Bio Company,Q864179,open_adapted,,,https://www.biocompany.de/neuigkeiten/hinweise.html,https://www.biocompany.de/bio-company-markt-finden/
 DE,supermarket,ALDI,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
+DE,supermarket,Aldi Süd,Q41171672,open,,,https://www.aldi-sued.de/de/infos/gemeinsam-geht-alles/,https://www.aldi-sued.de/filialen/
 DE,supermarket,Alnatura,Q876811,open_adapted,,,https://www.alnatura.de/de-de/m%C3%A4rkte/gemeinsamfueralle,https://www.alnatura.de/de-de/m%C3%A4rkte/filialfinder
 DE,supermarket,Basic,Q809994,open_adapted,,,https://basicbio.de/,https://basicbio.de/de-DE/Maerkte
+DE,supermarket,Bio Company,Q864179,open_adapted,,,https://www.biocompany.de/neuigkeiten/hinweise.html,https://www.biocompany.de/bio-company-markt-finden/
 DE,supermarket,Combi,Q1113618,open,,,https://www.combi.de/,https://www.combi.de/UnsereMaerkte/Marktsuche
-DE,supermarket,denn's Biomarkt,Q48883773,open_adapted,,,,https://www.denns-biomarkt.de/
 DE,supermarket,EDEKA,Q701755,open,,,https://www.edeka.de/,https://www.edeka.de/marktsuche.jsp
 DE,supermarket,Kaufland,Q685967,open,,,https://www.kaufland.de/,https://www.kaufland.de/service/filiale.html
 DE,supermarket,Konsum Dresden,Q1618877,open_adapted,,,https://www.konsum.de/,https://www.konsum.de/konsum-frida/standorte-oeffnungszeiten/
@@ -115,10 +141,11 @@ DE,supermarket,Nahkauf,Q57515238,open,,,https://www.rewe.de/auf-uns-ist-verlass/
 DE,supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
 DE,supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https://www.norma-online.de/de/filialfinder/
 DE,supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
-DE,supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://www.real.de/markt/
 DE,supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
-DE,supermarket,tegut,Q1547993,open_adapted,,,https://www.tegut.com/newsticker-corona,https://www.tegut.com/maerkte.html
 DE,supermarket,Wasgau,Q2536857,open_adapted,,,,https://wasgau-ag.de/wasgau-frischemarkt/
+DE,supermarket,denn's Biomarkt,Q48883773,open_adapted,,,,https://www.denns-biomarkt.de/
+DE,supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://www.real.de/markt/
+DE,supermarket,tegut,Q1547993,open_adapted,,,https://www.tegut.com/newsticker-corona,https://www.tegut.com/maerkte.html
 ES,bag,Carpisa,Q28035409,closed,,,,
 ES,bag,Samsonite,Q1203426,closed,,,,
 ES,bank,ABANCA,Q9598744,open,,Un cliente por empleado,https://www.abanca.com/es/cuidemonos/,
