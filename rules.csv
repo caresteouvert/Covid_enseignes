@@ -1,4 +1,6 @@
 country,category,brand_name,wikidata_id,opening_rule,opening_hours,description,source_url,opening_hours_url
+AD,fast_food,McDonald's,Q38076,closed,,,,
+AD,fast_food,Burger King,Q177054,closed,,,,
 CH,bakery,Brezelkönig,,open,,,,https://brezelkoenig.ch/de/standorte/?Format=11
 CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
 CH,bank,UBS,Q193199,partial,,,https://www.ubs.com/ch/de/help/covid-info.html,
