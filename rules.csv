@@ -141,7 +141,8 @@ DE,supermarket,Markant,Q57523365,open_adapted,,,,https://www.mein-markant.de/mei
 DE,supermarket,Marktkauf,Q1533254,open_adapted,,,,https://marktkauf.de/market-locator
 DE,supermarket,Metro,Q169167,open,,,,https://www.metro.de/standorte/
 DE,supermarket,Nahkauf,Q57515238,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
-DE,supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
+DE,supermarket,Netto,Q552652,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
+DE,supermarket,Netto Marken-Discount,Q879858,open,,,https://www.netto-online.de/ueber-netto/Wichtige-Information.chtm,https://www.netto-online.de/filialfinder
 DE,supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https://www.norma-online.de/de/filialfinder/
 DE,supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
 DE,supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
@@ -592,6 +593,9 @@ FR,supermarket,U Express,Q2529029,open_adapted,,,https://www.magasins-u.com/accu
 FR,variety_store,Action,Q2634111,closed,,,https://www.action.com/fr-fr/horaires-douverture/,
 FR,variety_store,GiFi,Q3105439,closed,,,https://www.gifi.fr/faq-covid19.html,
 FR,variety_store,Noz,Q3345688,closed,,,https://www.nozarrivages.com/,
+TR,fast_food,Arby's,Q630866,closed,,,https://www.arbys.com.tr/,
+TR,fast_food,Burger King,Q177054,closed,,,https://www.burgerking.com.tr/,
+TR,restaurant,Tavuk Dünyası,,closed,,,http://www.tavukdunyasi.com/,
 US,supermarket,7-Eleven,Q259340,open_adapted,05:00-24:00,,https://www.7-eleven.com/coronavirus-safety,
 US,supermarket,Fred Meyer,Q5495932,open_adapted,07:00-21:00,Dedicated to seniors shoppers between 07:00 and 08:00,https://www.fredmeyer.com/i/coronavirus-update,https://www.fredmeyer.com/i/coronavirus-update/store-information
 US,supermarket,Safeway,Q1508234,open_adapted,07:00-22:00,"Shops open, offers « contact free » delivery and pickup at stores",https://www.safeway.com/faq/covid-19-faq.html,https://local.safeway.com/search.html
