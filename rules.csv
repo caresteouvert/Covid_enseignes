@@ -141,7 +141,8 @@ DE,supermarket,Markant,Q57523365,open_adapted,,,,https://www.mein-markant.de/mei
 DE,supermarket,Marktkauf,Q1533254,open_adapted,,,,https://marktkauf.de/market-locator
 DE,supermarket,Metro,Q169167,open,,,,https://www.metro.de/standorte/
 DE,supermarket,Nahkauf,Q57515238,open,,,https://www.rewe.de/auf-uns-ist-verlass/,https://www.nahkauf.de/maerkte
-DE,supermarket,Netto,Q879858,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
+DE,supermarket,Netto,Q552652,open_adapted,,,https://netto.de/,https://netto.de/marktsuche/
+DE,supermarket,Netto Marken-Discount,Q879858,open,,,https://www.netto-online.de/ueber-netto/Wichtige-Information.chtm,https://www.netto-online.de/filialfinder
 DE,supermarket,Norma,Q450180,open,,,https://www.norma-online.de/de/angebote/,https://www.norma-online.de/de/filialfinder/
 DE,supermarket,Penny,Q284688,open,,,https://www.penny.de/unternehmen/info-zum-corona-virus/,https://www.penny.de/marktsuche/
 DE,supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
