@@ -2,8 +2,37 @@ country,category,brand_name,wikidata_id,opening_rule,opening_hours,description,s
 AD,fast_food,McDonald's,Q38076,closed,,,,
 AD,fast_food,Burger King,Q177054,closed,,,,
 CH,bakery,Brezelkönig,,open,,,,https://brezelkoenig.ch/de/standorte/?Format=11
+CH,bakery,Frei,,open,,,https://www.baeckerei-frei.ch,https://www.baeckerei-frei.ch/de-ch/filialen-standorte-cafe.html
+CH,bakery,Hausammann Zopfbeck,,open,,,http://www.zopfbeck.ch/,http://www.zopfbeck.ch/
+CH,bakery,Hug,,open,,,https://www.baeckerei-hug.ch,https://www.baeckerei-hug.ch/filialen/standorte/
+CH,bakery,Kleiner,,open,,,https://kleiner-baeckerei.ch,https://kleiner-baeckerei.ch/standorte/
+CH,bakery,Steiner Beck,,partial,,,https://www.steiner-beck.ch/news-coronavirus/,https://www.steiner-beck.ch/filialen/
+CH,bakery,Voland,,open,,,https://www.baumerfladen.ch/,https://www.baumerfladen.ch/filialen
+CH,bakery,Wüst,,open,,,https://baeckereiwuest.ch/,https://baeckereiwuest.ch/filialen
+CH,bank,Avera,Q1101061,partial,,,https://bank-avera.ch/ueber-uns/publikationen/reduzierter-filialbetrieb,https://bank-avera.ch
+CH,bank,Credit Suisse,Q372657,partial,,,https://www.credit-suisse.com/ch/de/corona-information/wir-sind-fuer-sie-da/geschaeftsstellen-info.html,
+CH,bank,Migros Bank,Q1593349,open,,,https://www.migrosbank.ch/de/coronavirus.html,https://www.migrosbank.ch
 CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
 CH,bank,UBS,Q193199,partial,,,https://www.ubs.com/ch/de/help/covid-info.html,
+CH,bank,Aargauische Kantonalbank,Q301269,open,,,https://www.akb.ch/coronavirus,https://www.akb.ch
+CH,bank,Appenzeller Kantonalbank,Q620963,partial,,,https://www.appkb.ch/private/NEWSID-926,https://www.appkb.ch
+CH,bank,Freiburger Kantonalbank,Q1453871,open,,,https://www.bcf.ch/de/die-fkb/news-und-medien/covid-19,https://www.bcf.ch
+CH,bank,Walliser Kantonalbank,Q2543025,open,,,https://www.bcvs.ch/,https://www.bcvs.ch/
+CH,bank,Basellandschaftliche Kantonalbank,Q809931,open,,,https://www.blkb.ch/,https://www.blkb.ch/
+CH,bank,Basler Kantonalbank,Q810408,open,,,https://www.bkb.ch/de/privatkunden/aktuelle-situation-rund-um-das-coronavirus,https://www.bkb.ch
+CH,bank,Berner Kantonalbank,Q824579,open,,,https://www.bekb.ch/de/corona,https://www.bekb.ch
+CH,bank,Glarner Kantonalbank,Q1529290,open,,,https://www.glkb.ch/%C3%BCber-uns/coronavirus,https://www.glkb.ch
+CH,bank,Graubündner Kantonalbank,Q1543702,open,,,https://www.gkb.ch/de/ueber-uns/aktuelles/mitteilungen/coronavirus-kundeninformation,https://www.gkb.ch
+CH,bank,Luzerner Kantonalbank,Q1756878,open,,,https://www.lukb.ch/de/coronavirus,https://www.lukb.ch
+CH,bank,Nidwaldner Kantonalbank,Q1987417,open,,,https://www.nkb.ch/corona,https://www.nkb.ch
+CH,bank,Obwaldner Kantonalbank,Q1291630,open,,,https://www.owkb.ch/ueber_uns/coronavirus.htm,https://www.owkb.ch
+CH,bank,Schaffhauser Kantonalbank,Q2230058,open,,,https://www.shkb.ch/,https://www.shkb.ch/
+CH,bank,Schwyzer Kantolbank,Q2257957,open,,,https://www.szkb.ch/pub/ueber-die-szkb/servicezentrum/informieren/coronavirus,https://www.szkb.ch
+CH,bank,St.Galler Kantonalbank,Q2316809,open,,,https://www.sgkb.ch/de/coronavirus,https://www.sgkb.ch
+CH,bank,Thurgauer Kantonalbank,Q2430020,open,,,https://www.tkb.ch/private/coronavirus,https://www.tkb.ch
+CH,bank,Urner Kantonalbank,Q17051583,open,,,https://www.ukb.ch/unsere-bank/portrait/aktueller-bankbetrieb/,https://www.ukb.ch
+CH,bank,Zuger Kantonalbank,Q228365,open,,,https://www.zugerkb.ch/die-zugerkb/zuger-kantonalbank/coronavirus,https://www.zugerkb.ch
+CH,bank,Zürcher Kantonalbank,Q248476,open,,,https://www.zkb.ch/de/gs/lp/pandemie-kundeninformation.html,https://www.zkb.ch
 CH,chemist,Amavita,,open,,,https://www.amavita.ch/de/info-covid19,https://www.amavita.ch/de/storepickup
 CH,chemist,Dropa,Q1260273,open,,,https://dropa.ch/ratgeber/alle-dropa-drogerien-und-apotheken-sind-geoeffnet,https://dropa.ch
 CH,chemist,TopPharm,,open,,,,https://www.toppharm.ch/hauslieferdienst
