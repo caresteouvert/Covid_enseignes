@@ -9,13 +9,16 @@ bakery,Marie Blachère,Q62082410,ouvert_adapté,,Téléphoner pour obtenir les h
 bakery,Paul,Q3370417,partiel,,,https://www.paul.fr/fr/,https://www.paul.fr/fr/nos-boutiques
 bakery,Sophie Lebreuilly,Q66372229,ouvert_adapté,Mo-Sa 07:00-18:00;Su 07:00-14:00,,https://sophie-lebreuilly.com/actu/,
 bank,Banque Populaire,Q846647,partiel,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
+bank,Banque Populaire Grand Ouest,Q846647,partiel,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
 bank,BNP Paribas,Q499707,partiel,,,https://mabanque.bnpparibas/rsc/contrib/pdf/EtreLaPourVous.pdf,
 bank,BRED,Q846647,ouvert,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
+bank,BRED Banque Populaire,Q846647,ouvert,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
 bank,Caisse d’Épargne,Q1547738,ouvert,,Privilégier les canaux d’échanges numériques,https://www.caisse-epargne.fr/particuliers/au-quotidien/toujours-a-vos-cotes,
 bank,CIC,Q746525,ouvert_adapté,,,https://www.cic.fr/fr/coronavirus-covid-19-cic-a-vos-cotes.html,
 bank,Crédit Agricole,Q590952,ouvert_adapté,,,https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/covid-19-le-groupe-credit-agricole-se-mobilise,
 bank,Crédit Coopératif,Q3006190,partiel,,,https://www.credit-cooperatif.coop/COVID-19-Credit-Cooperatif-et-vous,
 bank,Crédit du Nord,Q3006209,ouvert,,,https://twitter.com/creditdunord/status/1241380358672781312,
+bank,Crédit Maritime,Q17176866,ouvert,,Privilégier les échanges à distance,https://www.creditmaritime.fr/,
 bank,Crédit Mutuel,Q642627,ouvert,,,https://www.creditmutuel.fr/fr/coronavirus-covid-19-credit-mutuel-a-vos-cotes.html,
 bank,Crédit Mutuel Arkéa,Q3006236,fermé,,Services en ligne et contact possible par téléphone,https://www.arkea.com/banque/assurance/credit/accueil,
 bank,Crédit Mutuel de Bretagne,Q3006236,fermé,,Services en ligne et contact possible par téléphone,https://www.arkea.com/banque/assurance/credit/accueil,
@@ -24,31 +27,38 @@ bank,La Banque Postale,Q3206431,ouvert_adapté,,,https://www.labanquepostale.fr/
 bank,LCL,Q779722,ouvert_adapté,,Préférer les échanges à distance,https://www.lcl.fr/vous-ne-pouvez-pas-vous-deplacer,
 bank,Société Générale,Q270363,partiel,,"Ouvert le matin sur rendez-vous, l’après-midi contact uniquement par téléphone",https://particuliers.societegenerale.fr/articles-actualites/covid-19,
 bank,Société Marseillaise de Crédit,Q3488479,ouvert,,,https://www.smc.fr/icd/static/wem/agora/smc/medias/20200319_CP_SMCmesuresCovid19.pdf,
+cafe,Starbucks,Q37158,fermé,,,https://www.starbucks.fr/,
 car_rental,Ada,Q57313774,ouvert,,,https://www.ada.fr/,
 car_rental,Alamo,Q1429287,partiel,,,https://www.alamo.fr/alerte/,
 car_rental,Avis,Q791136,ouvert,,,https://www.avis.fr/avis-coronavirus-advice,
 car_rental,Budget,Q1001437,partiel,,,https://www.budget.fr/Informations-importantes-coronavirus,https://abg-my.sharepoint.com/:b:/p/x601862_em/EVwciUYw-lxOmxCkeyYMk-0BTcEO7xQHJNx5XVS2mE-WKQ?e=5vzaxM
 car_rental,Enterprise,Q17085454,partiel,,,https://www.enterprise.fr/fr/aide/notifications/branch-closure-notification.html,
 car_rental,Europcar,Q1376256,partiel,,,https://www.europcar.fr/,
+car_rental,Hertz,Q1543874,partiel,,,https://www.hertz.fr/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,http://images.hertz.com/pdfs/frFR/informations_agences.pdf
 car_rental,Rent A Car,Q3425574,partiel,,,https://www.rentacar.fr/nos-dossiers/267-precaution-coronavirus,
 car_rental,Sixt,Q705664,ouvert,,,https://www.sixt.fr/magazine/actualites/informations-actuelles-voyages/,
 car_rental,Ucar,,ouvert_adapté,,,https://ucar.fr/Portals/_default/Skins/Ucar/Images/Engagement_UCAR_COVID19.pdf,
 car_repair,AD,Q18697078,partiel,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
 car_repair,Autodistribution,Q18697078,partiel,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
+car_repair,BestDrive,Q63057183,ouvert_adapté,,Sur rendez-vous uniquement,https://bestdrive.fr/infos/covid-19.html,https://bestdrive.fr/infos/covid-19.html#map
 car_repair,Carglass,Q1035997,partiel,,Sur rendez-vous uniquement dans un nombre restreint de centres,https://www.carglass.fr/prise-de-rendez-vous,
 car_repair,Citroën,Q6746,fermé,,Contact par téléphone possible,https://www.citroen.fr/covid-19.html,
 car_repair,Étape Auto,,fermé,,,https://www.etape-auto.fr/,
 car_repair,Euromaster,Q3060668,partiel,,,https://www.euromaster.fr/particulier,https://www.euromastergroup.com/liste-centres-ouverts.pdf
 car_repair,Feu Vert,Q3070922,fermé,,,https://www.feuvert.fr/,
+car_repair,Ford,Q44294,fermé,,,https://www.ford.fr/informations-utiles/covid-19,
 car_repair,Midas,Q3312613,partiel,,,https://www.midas.fr/purchase-guides/centre-dappel-covid19,https://www.midas.fr/purchase-guides/centres-ouverts-covid19
 car_repair,Norauto,Q3317698,partiel,,,,https://www.norauto.fr/-cms-ateliers-de-secours.html
 car_repair,Peugeot,Q6742,fermé,,"Réparation urgentes possibles, contacter par téléphone",https://www.peugeot.fr/covid-19.html,
 car_repair,Renault,Q6686,fermé,,,https://www.renault.fr/mesures-covid19.html,
 car_repair,Speedy,Q3492969,partiel,,,https://www.speedy.fr/informations-coronavirus,https://www.speedy.fr/informations-coronavirus
 car_repair,Vulco,Q80184403,partiel,,Sur rendez-vous uniquement,https://www.facebook.com/vulcofrance/,
+chocolate,Jeff de Bruges,Q3176626,partiel,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
+chocolate,Leonidas,Q80335,ouvert_adapté,,,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
 computer,LDLC,Q3117461,partiel,,,https://www.lesechos.fr/pme-regions/auvergne-rhone-alpes/electronique-tres-sollicite-ldlc-organise-le-service-minimum-en-boutique-1186558#xtor=RSS-147,https://www.ldlc.com/magasins-ldlc/
 doityourself,Brico,Q2510786,fermé,,,https://www.brico.be/fr/makers/t/covid-19-faq-fr,
 doityourself,Brico Dépôt,Q2889702,partiel,Mo-Sa 08:00-15:00,"Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/,
+doityourself,Brico Pro,,partiel,,,https://www.bricopro.fr/,
 doityourself,Bricoman,Q2925142,ouvert_adapté,,Drive uniquement,https://www.bricoman.fr/,https://www.bricoman.fr/drive
 doityourself,Bricomarché,Q2925147,fermé,,,https://www.bricomarche.com/,
 doityourself,Bricorama,Q2925146,fermé,,,https://www.bricorama.fr/,
@@ -66,6 +76,7 @@ electronics,Darty,Q2439098,fermé,,,https://twitter.com/Darty_Officiel/status/12
 electronics,Électro Dépôt,Q2388060,fermé,,,https://www.electrodepot.fr/#electro-informe,
 electronics_repair,Docteur IT,,partiel,,,https://www.docteur-it.com/,
 employment_agency,Adecco,Q353496,fermé,,,https://www.adecco.fr/,
+employment_agency,Manpower,Q56315899,fermé,,Contact par courriel ou téléphone possible,https://www.manpower.fr/bulletin-informations-covid-19,
 employment_agency,Pôle Emploi,Q8901192,fermé,,Contact par téléphone possible,https://www.pole-emploi.fr/actualites/information-covid-19.html,
 employment_agency,Randstad,Q267840,fermé,,,https://www.randstad.fr/,
 farm,Bienvenue à la Ferme,Q2902023,partiel,,,,https://www.drive-fermier.fr/carte_drive_fermier
@@ -79,6 +90,7 @@ fast_food,Pizza Hut,Q191615,ouvert_adapté,,En livraison uniquement,https://www.
 fast_food,Quick,Q286494,fermé,,,https://www.quick.fr/landing?redirect=%2F,
 fast_food,Subway,Q244457,fermé,,,https://www.subway.com/fr-fr,
 frozen_food,Thiriet,Q3524695,ouvert_adapté,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
+fuel,AS24,Q2819394,ouvert,,,https://www.as24.com/fr/communique-covid-19,
 fuel,Avia,Q300147,ouvert,,,https://www.avia-france.fr/,
 fuel,BP,Q152057,ouvert,,,http://stationsbp.fr/bp_station/site_bp_station/index.php,
 fuel,Elan,Q57980752,ouvert,,,,https://www.total-proxi-energies.fr/stations-elan/nous-trouver
@@ -104,6 +116,7 @@ insurance,Axa,Q160054,fermé,,,https://twitter.com/AXAFrance/status/124101794534
 insurance,CNP Assurances,Q1023930,fermé,,Contact par formulaire en ligne,https://www.cnp.fr/,
 insurance,GMF,Q3095296,fermé,,,https://www.gmf.fr/,
 insurance,Groupama,Q3083531,fermé,,,https://www.groupama.fr/,
+insurance,Harmonie Mutuelle,Q3127528,fermé,,Contact à distance possible,https://www.harmonie-mutuelle.fr/web/tout-harmonie,
 insurance,Maaf,Q3331028,fermé,,,https://www.maaf.fr/fr/mutuelle-sante/covid-19,
 insurance,Macif,Q3331021,fermé,,"Ligne téléphonique fermée pour l’instant, démarches par l’espace client en ligne",https://www.macif.fr/,
 insurance,Maif,Q3331029,fermé,,,https://www.maif.fr/,
@@ -139,14 +152,23 @@ pet,Maxi Zoo,Q875796,ouvert_adapté,"Mo-Sa 10:00-13:00, 14:00-17:00",,https://ww
 post_office,La Poste,Q373724,partiel,,,https://www.groupelaposte.com/fr/article/informations-liees-au-virus-covid-19,
 restaurant,Big Fernand,Q19521346,fermé,,,https://bigfernand.com/,
 restaurant,Buffalo Grill,Q944655,fermé,,,https://www.buffalo-grill.fr/,
+restaurant,Campanile,Q2412064,fermé,,"Les hôtels restent ouvert, mais la restauration est fermée",https://www.campanile.com/fr-fr/informationcovid19/,
+restaurant,Courtepaille,Q3116688,fermé,,,https://www.courtepaille.com/,
+restaurant,CROUS,Q2946037,fermé,,Restauration à emporter dans certains Resto’U,https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-|-faq-crous-etudes-concours-services.html,
+restaurant,Flunch,Q629326,fermé,,,https://www.flunch.fr/,
+restaurant,Hippopotamus,Q3136174,fermé,,,https://www.hippopotamus.fr/fermeture-provisoire,
+restaurant,La Boucherie,Q21427479,fermé,,,https://www.la-boucherie.fr/,
+restaurant,Léon de Bruxelles,Q21041507,fermé,,,https://www.leon-de-bruxelles.fr/,
 restaurant,Pret A Manger,Q2109109,fermé,,,https://www.pretamanger.fr/fr-fr/?country=fr,
 restaurant,Sushi Shop,Q3505657,partiel,,Certains points de vente ouverts pour la vente à emporter,https://www.sushishop.fr/,
 restaurant,Tablapizza,,fermé,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
 stationery,Bureau Vallée,Q18385014,ouvert_adapté,,,https://www.bureau-vallee.fr/,
 stationery,Office Dépôt,Q1337797,fermé,,,https://www.officedepot.fr/,
 stationery,Top Office,Q24929304,fermé,,Livraison à domicile toujours possible,https://www.top-office.com/informations-de-livraison.html,
+supermarket,Atac,Q3475335,ouvert,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 supermarket,Aldi,Q125054,ouvert_adapté,,Fermé les 22/03 et 29/03,https://www.aldi.fr/,
 supermarket,Auchan,Q758603,ouvert,,,https://twitter.com/AUCHAN_France/status/1239652791045574660,
+supermarket,Bi1,Q3475335,ouvert,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 supermarket,Bio c' Bon,Q54312551,partiel,,,https://www.bio-c-bon.eu/,https://www.bio-c-bon.eu/fr/nos_magasins
 supermarket,Biocoop,Q2904039,ouvert_adapté,,,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,
 supermarket,Biomonde,,ouvert_adapté,,,https://www.facebook.com/biomondecooperative/posts/3180682271951752,"https://www.biomonde.fr/nos-magasins,1,58,1"
@@ -157,6 +179,8 @@ supermarket,Carrefour Express,Q2940190,ouvert,,,https://www.carrefour.fr/,
 supermarket,Carrefour Market,Q2689639,ouvert,,,https://www.carrefour.fr/,
 supermarket,Casino,Q2670967,ouvert,,,https://www.supercasino.fr/landing/notre-priorite-cest-vous/,
 supermarket,Chronodrive,Q2966828,ouvert,,,https://www.facebook.com/Chronodrive/,
+supermarket,CocciMarket,Q17561658,ouvert,,,https://www.coccinelle.fr/,
+supermarket,Coccinelle,Q17561658,ouvert,,,https://www.coccinelle.fr/,
 supermarket,Colruyt,Q2363991,ouvert_adapté,Mo-Sa 09:00-19:00,,https://www.colruyt.fr/colruytfr/static/news.shtml?readnews=6,
 supermarket,Cora,Q686643,ouvert,,,https://www.cora.fr/,
 supermarket,E. Leclerc,Q1273376,ouvert,,,https://www.e-leclerc.com/catalogue/evenements/covid-19-les-centres-eleclerc-sont-mobilises,
@@ -173,11 +197,14 @@ supermarket,Les Nouveaux Robinson,Q3345091,ouvert_adapté,,,https://www.facebook
 supermarket,Leader Price,Q2181426,ouvert,,,https://www.leaderprice.fr/,
 supermarket,Lidl,Q151954,ouvert,,,https://twitter.com/lidlfrance/status/1239516477247684609,
 supermarket,Match,Q513977,ouvert,,,https://twitter.com/supermarchematc/status/1239587373505294339,
+supermarket,Maximarché,Q3475335,ouvert,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 supermarket,Monoprix,Q3321241,ouvert,,,https://twitter.com/Monoprix/status/1240558643281608704,
 supermarket,Naturalia,Q3337081,ouvert,,,https://naturalia.fr/naturalia-covid19,https://naturalia.fr/magasins/trouvez-votre-magasin-naturalia
 supermarket,NaturéO,,ouvert_adapté,,,https://www.natureo-bio.fr/magasin-bio/,
 supermarket,Netto,Q2720988,ouvert,,,https://www.facebook.com/nettofrance,
+supermarket,Proximarché,Q3475335,ouvert,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 supermarket,Satoriz,,ouvert_adapté,Mo-Sa 10:00-17:00,,http://www.satoriz.fr/animations/mesures-liees-au-covid-19/,
+supermarket,Sherpa,Q3481967,ouvert_adapté,,,https://twitter.com/Magasins_Sherpa/status/1242115976805650435,https://sherpa.net/magasins
 supermarket,Spar,Q610492,ouvert,,,https://www.spar.fr/?page=actualite&actu=87,
 supermarket,Vival,Q7937525,ouvert,,,https://www.vival.fr/,https://magasins.vival.fr/
 supermarket,Hyper U,Q2529029,ouvert_adapté,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
