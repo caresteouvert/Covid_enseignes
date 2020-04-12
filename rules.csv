@@ -144,7 +144,10 @@ DE,bank,Landessparkasse zu Oldenburg,Q1802620,open_adapted,,,https://www.lzo.com
 DE,bank,Mittelbrandenburgische Sparkasse,Q1940058,partial,,,https://www.mbs.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.mbs.de/de/home/toolbar/filialen.html
 DE,bank,Nassauische Sparkasse,Q1751833,partial,,,https://www.naspa.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.naspa.de/de/home/service/filiale-finden.html
 DE,bank,Ostsächsische Sparkasse Dresden,Q2036125,partial,,,https://www.ostsaechsische-sparkasse-dresden.de/de/home/aktuelles.html,https://www.ostsaechsische-sparkasse-dresden.de/de/home/ihre-sparkasse/fahrbare-filialen.htmlnk.de/hvb/kontaktwege/filiale
+DE,bank,Postbank,Q708835,open,"","",https://www.postbank.de/aktuelle-informationen-corona.html,https://www.postbank.de/dienste/gaa_filialsuche/filiale.html?cookieTest=check
+DE,bank,Raiffeisenbank,Q24282825,partial,"","",https://www.vr.de/privatkunden/kampagnen/coronavirus.html,https://www.vr.de/service/filialen-a-z/a.html
 DE,bank,Santander,Q875292,partial,,,https://www.santander.de/privatkunden/service-kontakt/information/corona/,https://www.santander.de/standortsuche
+DE,bank,Sparda-Bank,Q2307136,partial,"","",https://www.sparda.de/,https://www.sparda.de/
 DE,bank,Sparkasse Aachen,Q2307270,partial,,,https://www.sparkasse-aachen.de/de/home/aktionen/informationen-zum-coronavirus_ac.html,https://www.sparkasse-aachen.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Aschaffenburg-Alzenau,Q2307290,partial,,,https://www.spk-aschaffenburg.de/de/home/aktionen-sparkasse/module/corona-faq.html,https://www.spk-aschaffenburg.de/de/home/service/filiale-finden.html
 DE,bank,Sparkasse Erlangen Höchstadt Herzogenaurach,Q2326324,partial,,,https://www.sparkasse-erlangen.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-erlangen.de/de/home/toolbar/filialen.html
@@ -165,7 +168,10 @@ DE,bank,Sparkasse Ulm,Q18630954,partial,,,https://www.sparkasse-ulm.de/de/home/i
 DE,bank,Sparkasse Vorpommern,Q2307709,partial,,,https://www.spk-vorpommern.de/de/home/aktionen/corona.html,https://www.spk-vorpommern.de/de/home/aktionen/oeffnungszeiten_corona.html
 DE,bank,Sparkasse Westmünsterland,Q1567929,partial,,,https://www.sparkasse-westmuensterland.de/de/home/aktionen/informationen-zum-coronavirus.html,https://www.sparkasse-westmuensterland.de/de/home/toolbar/filialen.html
 DE,bank,Stadtsparkasse München,Q1438593,partial,,,https://www.sskm.de/de/home/aktionen/aktuelle-kundeninformation-coronavirus.html,https://www.sskm.de/de/home/service/filiale-finden.html
+DE,bank,Targobank,Q1455437,open_adapted,"",Direkter Mitarbeiterkontakt eingeschränkt. Telefonische Beratung.,https://www.targobank.de/lp/targobank.html,https://www.targobank.de/filialen/filialsuche/
 DE,bank,Volksbank Bühl,Q18397161,partial,,,,https://www.volksbank-buehl.de/ihre-volksbank/beratungscenter-ansprechpartner/beratungscenter/uebersicht-beratungscenter.html
+DE,beverages,Getränke Hoffmann,Q19284021,open,"","",https://www.getraenke-hoffmann.de/filialfinder,https://www.getraenke-hoffmann.de/filialfinder
+DE,beverages,Rewe Getränkemarkt,Q57519344,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
 DE,books,Hugendubel,Q1634142,closed,,,https://www.hugendubel.de/de/category/90701/filialen.html,
 DE,books,Mayersche,Q1462383,closed,,,https://twitter.com/Mayersche/status/1240541647462699008,
 DE,books,Osiander,Q1800686,partial,Mo-Sa 11:00-18:00,Nur Abholung.,https://www.osiander.de/service/abholung_versand.cfm,
@@ -185,6 +191,7 @@ DE,car_repair,Pitstop,Q1310014,open,,,https://www.pitstop.de/,
 DE,chemist,dm,Q266572,open_adapted,,,https://www.dm.de/fuereinander/,https://www.dm.de/store/
 DE,chemist,Müller,Q1958759,open,,,https://www.mueller.de/aktuelles/aktuelle-information/,https://www.mueller.de/meine-filiale/
 DE,chemist,Rossmann,Q316004,open,,,https://www.rossmann.de/de/das-wir-zaehlt,https://www.rossmann.de/de/filialen/index.html
+DE,coffee,Tchibo,Q564213,closed,"",,https://www.tchibo.de/informationen-s400114817.html,https://www.tchibo.de/filialfinder
 DE,doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.info/aktuelle-lage,https://www.bauhaus.info/aktuelle-lage/fachcentren
 DE,doityourself,BayWa,Q812055,partial,,,https://www.baywa-baumarkt.de/cms/de/LP/aktuelle-situation-bei-baywa.htm,https://www.baywa-baumarkt.de/cms/de/Standorte.htm
 DE,doityourself,Globus Baumarkt,Q457503,partial,,,https://www.globus-baumarkt.de/aktuelle-infos/#maerkte,https://www.globus-baumarkt.de/
@@ -192,6 +199,13 @@ DE,doityourself,Hagebau,Q1568279,partial,,,https://www.hagebau.de/marktfinder/,h
 DE,doityourself,Hornbach,Q685926,partial,,,https://www.hornbach.de/mein-markt/aktuelle-infos-zu-ihrem-einkauf-und-zur-lage/,https://www.hornbach.de/mein-markt/
 DE,doityourself,OBI,Q300518,partial,,,https://www.obi.de/corona/markt-infos/,https://www.obi.de/corona/markt-infos/
 DE,doityourself,toom Baumarkt,Q2442970,partial,,,https://toom.de/aktionen/aktuelle-informationen/,https://toom.de/aktionen/aktuelle-informationen/
+DE,electronics,Media Markt,Q2381223,partial,"",Nur Abhol-Service in ausgewählten Märkten.,https://www.mediamarkt.de/de/shop/service/abholung-im-markt.html,https://www.mediamarkt.de/de/marketselection.html
+DE,electronics,Saturn,Q2543504,open_adapted,Mo-Fr 10:00-18:00,Abholung von Online-Bestellungen in vielen Märkten.,https://www.saturn.de/de/shop/coronainfos.html,https://www.saturn.de/markt/search
+DE,fast_food,Burger King,Q177054,open_adapted,"",Nur Drive-In und Lieferservice.,https://www.burgerking.de/covid19,https://www.burgerking.de/kingfinder
+DE,fast_food,KFC,Q524757,partial,"","",https://www.kfc.de/restaurants/,https://www.kfc.de/restaurants/
+DE,fast_food,McDonald's,Q38076,open_adapted,"",Nur McDrive und McDelivery.,https://www.mcdonalds.com/de/de-de/unsere-verantwortung/corona-management.html,https://www.mcdonalds.com/de/de-de/restaurant-suche.html
+DE,fast_food,Nordsee,Q74866,closed,"","",https://www.nordsee.com/de/filialen/,https://www.nordsee.com/de/filialen/
+DE,fast_food,Subway,Q244457,open_adapted,"",Nur Abhol- und Lieferservice.,https://www.dein-subway.de/allgemein/liefern-und-abholen/,https://www.subway.com/de-de/findastore
 DE,fuel,Agip,Q377915,open,,,,https://stationfinder.agipstation.de/
 DE,fuel,Aral,Q565734,open,,,https://www.aral.de/de/global/retail/ueber-aral/wir-sind-fuer-sie-da.html,https://mein.aral.de/tankstellenfinder
 DE,fuel,Avia,Q300147,open,,,,https://www.avia.de/avia-tanken/tankstellen/tankstellen-suche.html
@@ -211,9 +225,22 @@ DE,fuel,Westfalen,Q1411209,open,,,,https://westfalen.com/de/de/tankstellen-mobil
 DE,garden_centre,Dehner,Q1183029,partial,,,https://www.dehner.de/aktuelle-informationen/,https://www.dehner.de/market/
 DE,garden_centre,Raiffeisen-Markt,,open,,,,https://www.raiffeisenmarkt.de/AjaxStoreLocatorDisplayView?catalogId=10051&langId=-3&storeId=10151
 DE,garden_centre,ZG Raiffeisen,Q136135,open,,,https://www.zg-raiffeisen.de/maerkte/news/zg-raiffeisen-niederlassungen-trotz-krise-geoeffnet,https://www.zg-raiffeisen.de/maerkte
+DE,insurance,Allianz,Q487292,partial,"",Persönlicher Kundenverkehr eingeschränkt. Telefonische und digitale Erreichbarkeit.,https://www.allianz.de/coronavirus/,
+DE,mobile_phone,Mobilcom Debitel,Q344744,partial,"","",https://www.mobilcom-debitel.de/,https://www.google.de/maps/search/mobilcom-debitel/
+DE,mobile_phone,O2,Q7072246,closed,,,https://www.o2online.de/shops/,https://www.o2online.de/shops/
+DE,mobile_phone,O2,Q1759255,closed,"","",https://www.o2online.de/shops/,https://www.o2online.de/shops/
+DE,mobile_phone,Telekom,Q9396,closed,"",Nur einzelne Shops geöffnet.,https://www.telekom.de/hilfe/informationen-zum-coronavirus,https://www.telekom.de/start/telekom-shops
+DE,mobile_phone,Vodafone,Q122141,closed,"",,https://www.vodafone.de/newsroom/unternehmen/corona-ticker-das-passiert-bei-vodafone/,https://www.vodafone.de/filialsuche.html
 DE,optician,Apollo Optik,Q618940,partial,,,https://www.apollo.de/lp/corona-information,https://filialen.apollo.de/
 DE,optician,Fielmann,Q457822,partial,,,https://www.fielmann.de/,https://www.fielmann.de/niederlassungen/
-DE,stationery,McPaper,Q1915329,partial,,,,
+DE,pet,Das Futterhaus,Q1167914,open_adapted,"",,https://www.futterhaus.de/corona-informationen/,https://www.futterhaus.de/mein-futterhaus/futterhaus-finder/
+DE,pet,Fressnapf,Q875796,open,"","",https://www.fressnapf.de/corona,https://www.fressnapf.de/storefinder
+DE,post_office,Deutsche Post,Q157645,open_adapted,"",,https://www.deutschepost.de/de/c/coronavirus.html,https://www.deutschepost.de/de/s/standorte.html
+DE,post_office,Deutsche Post,Q157645,open_adapted,,,https://www.deutschepost.de/de/c/coronavirus.html,https://www.deutschepost.de/de/s/standorte.html
+DE,post_office,DHL,Q489815,open_adapted,,,https://www.deutschepost.de/de/c/coronavirus.html,https://www.deutschepost.de/de/s/standorte.html
+DE,post_office,Hermes,Q1613532,partial,"",,https://www.myhermes.de/coronavirus/,https://www.myhermes.de/paketshop/
+DE,post_office,Hermes Paketshop,Q1613532,partial,,,https://www.myhermes.de/coronavirus/,https://www.myhermes.de/paketshop/
+DE,stationery,McPaper,Q1915329,partial,,,,http://www.mcpaper.de/
 DE,stationery,Staples,Q785943,partial,,,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml,https://www.staples.de/Content/Static/corona-information/coronainformation.cshtml
 DE,supermarket,Aldi Nord,Q125054,open,,,https://www.aldi-nord.de/tools/rueckrufe/hinweis-filialoeffnung.html,https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten.html
 DE,supermarket,Aldi,,open,,,,
@@ -240,6 +267,14 @@ DE,supermarket,real,Q698473,open_adapted,,,https://www.real.de/markt/,https://ww
 DE,supermarket,REWE,Q16968817,open,,,https://www.rewe.de/auf-uns-ist-verlass,https://www.rewe.de/marktseite/
 DE,supermarket,tegut,Q1547993,open_adapted,,,https://www.tegut.com/newsticker-corona,https://www.tegut.com/maerkte.html
 DE,supermarket,Wasgau,Q2536857,open_adapted,,,,https://wasgau-ag.de/wasgau-frischemarkt/
+DE,vending_machine,Hall,,open,"","","",""
+DE,vending_machine,Hall Tabakwaren,,open,"","","",""
+DE,vending_machine,Peter Weinig,"",open,"","","",""
+DE,vending_machine,tabaccoland,"",open,"","","",""
+DE,vending_machine,Tabakwaren-Union,Q1455437,open,"","","",""
+DE,vending_machine,tobaccoland,Q1439872,open,"","","",""
+DE,vending_machine,Weber,,open,,,,
+DE,vending_machine,Wolf Tabakwaren,,open,"","","",""
 ES,bag,Carpisa,Q28035409,closed,,,,
 ES,bag,Samsonite,Q1203426,closed,,,,
 ES,bank,ABANCA,Q9598744,open,,Un cliente por empleado,https://www.abanca.com/es/cuidemonos/,
