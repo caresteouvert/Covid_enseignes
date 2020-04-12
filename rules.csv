@@ -54,6 +54,7 @@ CH,bank,Migros Bank,Q1593349,open,,,https://www.migrosbank.ch/de/coronavirus.htm
 CH,bank,Nidwaldner Kantonalbank,Q1987417,open,,,https://www.nkb.ch/corona,https://www.nkb.ch
 CH,bank,Obwaldner Kantonalbank,Q1291630,open,,,https://www.owkb.ch/ueber_uns/coronavirus.htm,https://www.owkb.ch
 CH,bank,Raiffeisen,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
+CH,bank,Raiffeisenbank,Q681189,partial,,Nur in dringenden fällen auf Voranmeldung,https://www.raiffeisen.ch/cham-steinhausen/de/privatkunden/5-tipps-in-zeiten-von-corona.html?cid=corona:privat-211c:raiffeisen:mc-int-header:corona,
 CH,bank,Schaffhauser Kantonalbank,Q2230058,open,,,https://www.shkb.ch/,https://www.shkb.ch/
 CH,bank,Schwyzer Kantolbank,Q2257957,open,,,https://www.szkb.ch/pub/ueber-die-szkb/servicezentrum/informieren/coronavirus,https://www.szkb.ch
 CH,bank,St.Galler Kantonalbank,Q2316809,open,,,https://www.sgkb.ch/de/coronavirus,https://www.sgkb.ch
@@ -65,6 +66,7 @@ CH,bank,Zuger Kantonalbank,Q228365,open,,,https://www.zugerkb.ch/die-zugerkb/zug
 CH,bank,Zürcher Kantonalbank,Q248476,open,,,https://www.zkb.ch/de/gs/lp/pandemie-kundeninformation.html,https://www.zkb.ch
 CH,chemist,Amavita,,open,,,https://www.amavita.ch/de/info-covid19,https://www.amavita.ch/de/storepickup
 CH,chemist,Dropa,Q1260273,open,,,https://dropa.ch/ratgeber/alle-dropa-drogerien-und-apotheken-sind-geoeffnet,https://dropa.ch
+CH,chemist,Rotpunkt Apotheke,,open,,,,
 CH,chemist,TopPharm,,open,,,,https://www.toppharm.ch/hauslieferdienst
 CH,doityourself,Bauhaus,Q672043,partial,,,https://www.bauhaus.ch/de/content/aktuelles/aktuelle-situation.html,https://www.bauhaus.ch
 CH,doityourself,Coop Bau + Hobby,Q432564,partial,,,,https://www.bauundhobby.ch/
@@ -75,21 +77,44 @@ CH,doityourself,Landi,Q1803010,partial,,,https://www.landi.ch/laden/service/Haeu
 CH,doityourself,OBI,Q300518,partial,,,,https://www.obi.ch/
 CH,electronics,Inter Discount,,closed,,,https://www.interdiscount.ch/de,
 CH,electronics,melectronics,,closed,,,https://www.melectronics.ch/de,
-CH,fuel,Shell,Q154950,open,,,,
+CH,fastfood,Burger King,Q177054,partial,,,https://de.burger-king.ch/promo/13318,https://de.burger-king.ch/kingfinder
+CH,fastfood,McDonald’s,Q38076,closed,,,https://www.mcdonalds.ch/de/restaurantstatus/,
+CH,fuel,Agip,Q377915,open,,,,
+CH,fuel,Agrola,Q397351,open,,,,https://www.agrola.ch/de/mobilitaet/tankstellen/standorte/tankstellen.html
+CH,fuel,Avia,,open,,,https://avia.ch/,https://avia.ch/tankstellen/tankstellenfinder/
+CH,fuel,BP,Q152057,open,,,https://www.bp.com/de_ch/switzerland/home/produkte-und-services/bp-in-ihrer-naehe.html,
+CH,fuel,Eni,Q565594,open,,,,
+CH,fuel,Esso,Q867662,open,,,,
+CH,fuel,Migrol,Q1747771,open,,,https://www.migrol.ch/de/mobilit%C3%A4t/,https://www.migrol.ch/de/mobilit%C3%A4t/
 CH,fuel,Socar,Q1622293,open,,,https://www.socarenergy.ch/,https://www.socarenergy.ch/tankstellen/tankstellen-finder/
+CH,fuel,Shell,Q154950,open,,,,
+CH,fuel,Tamoil,Q706793,open,,,,https://www.tamoil.ch/de/eine-tankstelle-finden
 CH,kiosk,k kiosk,Q60381703,partial,,,https://www.kkiosk.ch/de/allover/standortsuche/,https://www.kkiosk.ch/de/allover/standortsuche/
+CH,kiosk,Valora,Q60381703,partial,,,https://www.kkiosk.ch/de/allover/standortsuche/,https://www.kkiosk.ch/de/allover/standortsuche/
 CH,optician,Fielmann,Q457822,partial,,nur Notfälle,https://www.fielmann.ch,https://www.fielmann.ch/de/niederlassungen/
 CH,optician,Visilab,Q2528307,closed,,Hotline für Notfälle,https://www.visilab.ch,https://www.visilab.ch/de/faq/info/
+CH,post,Post CH AG,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,post,La Poste,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,post,La Posta,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,post,Die Post,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
 CH,post,Post,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
+CH,post,Die Schweizerische Post AG,Q614803,open,,Nur postalische Produkte und Dienstleistungen,https://www.post.ch/de/pages/corona/anpassungen-im-angebot,https://www.post.ch/de/pages/corona/anpassungen-im-angebot
 CH,supermarket,Aldi,Q125054,open,,,,https://www.aldi-suisse.ch/filialen/de-CH/Start
+CH,supermarket,Coop Pronto,Q1129777,open,,,,https://www.coop-pronto.ch/de/standorte-oeffnungszeiten/
+CH,supermarket,Coop Genossenschaft,Q432564,open,,,,https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten.html
 CH,supermarket,Coop,Q432564,open,,,,https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten.html
 CH,supermarket,Denner,Q379911,open,,,,https://www.denner.ch/de/filialen/
 CH,supermarket,LIDL,Q151954,open,,,,https://www.lidl.ch/unternehmen/filialen-oeffnungszeiten/filialfinder
 CH,supermarket,Manor,,partial,,,https://www.manor.ch/de/u/manor-info-covid19,https://www.manor.ch/de/store-finder
+CH,supermarket,Migros,Q680727,open,,,,https://filialen.migros.ch/de
+CH,supermarket,Genossenschaft Migros Zürich,Q680727,open,,,,https://filialen.migros.ch/de
 CH,supermarket,Migrolino,Q56745088,open,,,https://www.migrolino.ch/de/,https://www.migrolino.ch/de/migrolino-standorte/
 CH,supermarket,Migros,Q680727,open,,,,https://filialen.migros.ch/de
 CH,supermarket,SPAR,Q610492,open,,,,https://www.spar.ch/spar-maerkte/#?s=1
 CH,supermarket,Volg,Q2530746,open,,,,https://www.volg.ch/standorte-oeffnungszeiten/
+CH,telecommunication,Salt,Q17325543,open,,,,
+CH,telecommunication,Sunrise,Q672648,open,,,,
+CH,telecommunication,Swisscom,Q644324,open,,,,
 DE,bakery,Back-Factory,Q21200483,closed,,,https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,
 DE,bakery,BackWerk,Q798298,partial,,,https://www.back-werk.de/,https://www.back-werk.de/standorte/
 DE,bakery,Ditsch,Q911573,partial,,,,https://www.ditsch.de/de/shops/
