@@ -49,6 +49,7 @@ All data is compiled in [a single spreadsheet file](rules.csv) `rules.csv`, whic
 * `wikidata_id` : Wikidata identifier (starting with `Q`)
 * `opening_rule` : opening status of stores (possible values : `open` = as usual, `open_adapted` = open with specific opening hours, `partial` = not all shops are opened, `closed` = all shops are closed)
 * `opening_hours` : opening hours of __all stores__ (following [OpenStreetMap opening_hours tagging scheme](https://wiki.openstreetmap.org/wiki/Key:opening_hours))
+* `osm_additional_tags` : supplementary [OpenStreetMap tags](https://wiki.openstreetmap.org/wiki/Key:opening_hours:covid19) in JSON object format (other than `opening_hours:covid19` and `brand:wikidata`) which can be applied on __all stores__. This is useful to inform about temporary delivery or takeaway services.
 * `description` : information about shop accessibility, reduced services...
 * `source_url` : URL of web page where you find info from
 * `opening_hours_url` : URL of web page where opening hours during lockdown are listed
