@@ -28,6 +28,9 @@ Your issue should be formatted like below :
 
 __Before creating an issue__, please check that info you want to report [is not already listed](rules.csv) or [in another open issue](https://github.com/PanierAvide/Covid_enseignes/issues?q=is%3Aissue).
 
+__Pro-tip__ : to easily find missing brands, you can have a look at [this CSV file](https://download.osmontrouge.fr/caresteouvert/stats_brand_count.csv), which lists brands found in "Ça reste ouvert" data. Open it in a spreadsheet software (like LibreOffice), then filter on most recent date. Look at brands with `unknown` status, there are many chances they don't exist in our repository.
+
+
 ### Integrate information
 
 Based on open issues, and if you're comfortable with GitHub, you can integrate information received into the CSV file `rules.csv`. Then, propose a pull request to the master branch, and remember to link the corresponding issue in your commit comment.
