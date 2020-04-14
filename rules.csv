@@ -588,6 +588,7 @@ FR,bank,La Banque Postale,Q3206431,open_adapted,,,,https://www.labanquepostale.f
 FR,bank,LCL,Q779722,open_adapted,,,Préférer les échanges à distance,https://www.lcl.fr/vous-ne-pouvez-pas-vous-deplacer,
 FR,bank,Société Générale,Q270363,partial,,,"Ouvert le matin sur rendez-vous, l’après-midi contact uniquement par téléphone",https://particuliers.societegenerale.fr/articles-actualites/covid-19,
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,,https://www.smc.fr/icd/static/wem/agora/smc/medias/20200319_CP_SMCmesuresCovid19.pdf,
+FR,cafe,Columbus Café & Co,Q90406058,closed,,,,https://www.columbuscafe.com/info-covid-19/,
 FR,cafe,Starbucks,Q37158,closed,,,,https://www.starbucks.fr/,
 FR,car_rental,Ada,Q57313774,open,,,,https://www.ada.fr/,
 FR,car_rental,Alamo,Q1429287,partial,,,,https://www.alamo.fr/alerte/,
