@@ -609,10 +609,13 @@ FR,car_repair,Étape Auto,,closed,,,,https://www.etape-auto.fr/,
 FR,car_repair,Euromaster,Q3060668,partial,,,,https://www.euromaster.fr/particulier,https://www.euromastergroup.com/liste-centres-ouverts.pdf
 FR,car_repair,Feu Vert,Q3070922,closed,,,,https://www.feuvert.fr/,
 FR,car_repair,Ford,Q44294,closed,,,,https://www.ford.fr/informations-utiles/covid-19,
+FR,car_repair,France Pare-Brise,,open_adapted,,,,https://www.franceparebrise.fr/,https://prive.franceparebrise.fr/covid19/
 FR,car_repair,Midas,Q3312613,partial,,,,https://www.midas.fr/purchase-guides/centre-dappel-covid19,https://www.midas.fr/purchase-guides/centres-ouverts-covid19
 FR,car_repair,Norauto,Q3317698,partial,,,,,https://www.norauto.fr/-cms-ateliers-de-secours.html
 FR,car_repair,Peugeot,Q6742,closed,,,"Réparation urgentes possibles, contacter par téléphone",https://www.peugeot.fr/covid-19.html,
+FR,car_repair,Point S,Q3393358,partial,,,Appeler avant de se déplacer,https://www.points.fr/,
 FR,car_repair,Renault,Q6686,closed,,,,https://www.renault.fr/mesures-covid19.html,
+FR,car_repair,Garage Renault,Q6686,closed,,,,https://www.renault.fr/mesures-covid19.html,
 FR,car_repair,Speedy,Q3492969,partial,,,,https://www.speedy.fr/informations-coronavirus,https://www.speedy.fr/informations-coronavirus
 FR,car_repair,Vulco,Q80184403,partial,,,Sur rendez-vous uniquement,https://www.facebook.com/vulcofrance/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
@@ -626,6 +629,8 @@ FR,doityourself,Bricoman,Q2925142,open_adapted,,"{ ""drive_through:covid19"": ""
 FR,doityourself,Bricomarché,Q2925147,closed,,,,https://www.bricomarche.com/,
 FR,doityourself,Bricorama,Q2925146,closed,,,,https://www.bricorama.fr/,
 FR,doityourself,Castorama,Q966971,closed,,,,https://www.castorama.fr/,
+FR,doityourself,Chausson Matériaux,,partial,,,,https://www.chausson-materiaux.fr/,https://www.chausson-materiaux.fr/Liste_Agences_Chausson_Materiaux_ouvertes_Lundi_23_Mars_2020.pdf
+FR,doityourself,Gedimat,,partial,,,,https://www.gedimat.fr/,
 FR,doityourself,Lapeyre,Q3117467,closed,,,,https://www.facebook.com/Lapeyre/,
 FR,doityourself,Leroy Merlin,Q889624,partial,,"{ ""drive_through:covid19"": ""only"", ""delivery:covid19"": ""only"" } ",Uniquement retrait ou livraison des produits de première nécessité,https://www.leroymerlin.fr/services/service-client/vos-magasins-rouvrent-cour-des-materiaux-sur-rendez-vous.html,https://www.leroymerlin.fr/faq.html?question=88526-covid-19-ouverture-cour-materiaux-l-exterieur-magasins-rendez-vous
 FR,doityourself,Mr Bricolage,Q3141657,partial,,,,https://www.mr-bricolage.fr/covid-19-informations-magasins-c.html,https://www.mr-bricolage.fr/media/com/Liste%20Magasins_COVID_19.pdf
@@ -648,6 +653,8 @@ FR,fast_food,Burger King,Q177054,closed,,,,https://www.burgerking.fr/,
 FR,fast_food,Domino’s,Q839466,partial,,,,https://www.dominos.fr/,
 FR,fast_food,Domino’s Pizza,Q839466,partial,,,,https://www.dominos.fr/,
 FR,fast_food,KFC,Q524757,partial,,,Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
+FR,fast_food,La Boîte à Pizza,Q3206840,open,,,,https://www.laboiteapizza.com/,https://www.laboiteapizza.com/restaurant
+FR,fast_food,La Croissanterie,Q3207961,closed,,,,https://www.lacroissanterie.fr/,
 FR,fast_food,McDonald’s,Q38076,closed,,,,https://www.mcdonalds.fr/,
 FR,fast_food,Pizza Hut,Q191615,open_adapted,,"{ ""delivery:covid19"": ""only"" }",En livraison uniquement,https://www.pizzahut.fr/,
 FR,fast_food,Quick,Q286494,closed,,,,https://www.quick.fr/landing?redirect=%2F,
@@ -671,12 +678,16 @@ FR,garden_centre,Gamm Vert,Q3095006,open_adapted,,,"Limité à l’alimentation 
 FR,garden_centre,Jardiland,Q3162276,open,,,Limité à l’alimentation et animalerie,https://twitter.com/Jardiland/status/1239891135964856320,
 FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
 FR,garden_centre,Truffaut,Q3162640,closed,,,,https://www.truffaut.com/information-actualite,
+FR,hearing_aids,Amplifon,Q477222,partial,,,,https://www.amplifon.com/fr/information-covid19,https://www.amplifon.com/fr/information-covid19/centres-permanence
+FR,hearing_aids,Audika,Q2870745,closed,,,,https://www.audika.fr/,
 FR,insurance,AG2R La Mondiale,Q292228,closed,,,Contact en priorité par courriel,https://www.ag2rlamondiale.fr/,
 FR,insurance,Allianz,Q487292,closed,,,Contact par téléphone possible,https://www.allianz.fr/informations-couverture-coronavirus/,
 FR,insurance,April,Q622025,closed,,,,https://groupe.april.fr/covid-19,
+FR,insurance,Assu 2000,,closed,,,,https://twitter.com/ASSU2000/status/1239565271364448256,
 FR,insurance,Aviva,Q791179,partial,,,,https://www.aviva.fr/conseils-en-assurance/mes-demarches/covid19.html,
 FR,insurance,Axa,Q160054,closed,,,,https://twitter.com/AXAFrance/status/1241017945343627266,
 FR,insurance,CNP Assurances,Q1023930,closed,,,Contact par formulaire en ligne,https://www.cnp.fr/,
+FR,insurance,Gan,Q3095058,closed,,,,https://www.gan.fr/,
 FR,insurance,GMF,Q3095296,closed,,,,https://www.gmf.fr/,
 FR,insurance,Groupama,Q3083531,closed,,,,https://www.groupama.fr/,
 FR,insurance,Harmonie Mutuelle,Q3127528,closed,,,Contact à distance possible,https://www.harmonie-mutuelle.fr/web/tout-harmonie,
@@ -695,6 +706,7 @@ FR,mobile_phone,Free,Q2467627,closed,,,,https://www.free.fr/freebox/informations
 FR,mobile_phone,Orange,Q1431486,closed,,,,https://boutique.orange.fr/informations/covid-19/,
 FR,mobile_phone,SFR,Q218765,closed,,,,https://www.sfr.fr/solidarite-sfr-covid19.html,
 FR,optician,Afflelou,Q2829511,closed,,,,https://www.afflelou.com/,
+FR,optician,Alain Afflelou,Q2829511,closed,,,,https://www.afflelou.com/,
 FR,optician,Atol,Q2869542,closed,,,,https://www.opticiens-atol.com/,
 FR,optician,Direct Optic,,closed,,,,https://www.direct-optic.fr/,
 FR,optician,Écouter Voir,Q18414551,closed,,,,https://www.ecoutervoir.fr/trouver-un-magasin/,
@@ -721,6 +733,7 @@ FR,restaurant,CROUS,Q2946037,closed,,,Restauration à emporter dans certains Res
 FR,restaurant,Flunch,Q629326,closed,,,,https://www.flunch.fr/,
 FR,restaurant,Hippopotamus,Q3136174,closed,,,,https://www.hippopotamus.fr/fermeture-provisoire,
 FR,restaurant,La Boucherie,Q21427479,closed,,,,https://www.la-boucherie.fr/,
+FR,restaurant,La Pataterie,Q20899937,closed,,,,https://www.instagram.com/p/B9yqyz6gPKW/,
 FR,restaurant,Léon de Bruxelles,Q21041507,closed,,,,https://www.leon-de-bruxelles.fr/,
 FR,restaurant,Pret A Manger,Q2109109,closed,,,,https://www.pretamanger.fr/fr-fr/?country=fr,
 FR,restaurant,Ristorante Del Arte,Q3389499,closed,,,,https://www.delarte.fr/information-restaurants,
