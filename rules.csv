@@ -605,7 +605,7 @@ FR,car_repair,Autodistribution,Q18697078,partial,,,,https://www.autodistribution
 FR,car_repair,BestDrive,Q63057183,open_adapted,,,Sur rendez-vous uniquement,https://bestdrive.fr/infos/covid-19.html,https://bestdrive.fr/infos/covid-19.html#map
 FR,car_repair,Carglass,Q1035997,partial,,,Sur rendez-vous uniquement dans un nombre restreint de centres,https://www.carglass.fr/prise-de-rendez-vous,
 FR,car_repair,Citroën,Q6746,closed,,,Contact par téléphone possible,https://www.citroen.fr/covid-19.html,
-FR,car_repair,Étape Auto,,closed,,,,https://www.etape-auto.fr/,
+FR,car_repair,Étape Auto,,open_adapted,,,"Réservé aux véhicules d’urgences, personnel hospitalier et fonctions vitales",https://www.etape-auto.fr/site-Etape_Auto-operation-8159-Vehicules-prioritaires.html,
 FR,car_repair,Euromaster,Q3060668,partial,,,,https://www.euromaster.fr/particulier,https://www.euromastergroup.com/liste-centres-ouverts.pdf
 FR,car_repair,Feu Vert,Q3070922,closed,,,,https://www.feuvert.fr/,
 FR,car_repair,Ford,Q44294,closed,,,,https://www.ford.fr/informations-utiles/covid-19,
