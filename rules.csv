@@ -560,16 +560,25 @@ ES,video_games,Game,Q5519813,closed,,,,,
 ES,video_games,GameStop,Q202210,closed,,,,,
 ES,watches,Rolex,Q62288,closed,,,,,
 ES,watches,Swatch,Q573422,closed,,,,,
+FI,alcohol,Alko,Q1849187,open,,,,https://www.alko.fi/,https://www.alko.fi/myymalat-palvelut
+FI,fast_food,Hesburger,Q1276832,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.hesburger.fi/,https://www.hesburger.fi/ravintolat
 FI,fuel,ABC,Q10397504,open_adapted,,,,https://www.abcasemat.fi/fi/asemat,https://www.abcasemat.fi/fi/uutiset/abc-asemien-ja-rahtaritilojen-poikkeusaukioloajat-kevaalla-2020
+FI,fuel,Neste,Q18688800,open,,,,https://www.neste.fi/,https://www.neste.fi/asemat
+FI,fuel,St1,Q7592214,open,,,,https://www.st1.fi/,https://www.st1.fi/asemahaku
+FI,fuel,Teboil,Q7692079,open_adapted,,,Opening hours of shop may vary,https://www.teboil.fi/,https://www.teboil.fi/yhtio/ajankohtaista/poikkeavat-aukioloajat-alkaen-18.3.2020/
+FI,restaurant,Kotipizza,Q1628625,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.kotipizza.fi/,https://www.kotipizza.fi/ravintolat
 FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
 FI,supermarket,Lidl,Q151954,open,,,,https://www.lidl.fi/myymaelaet,https://www.lidl.fi/myymaelaet
+FI,supermarket,Prisma,Q12047031,open,,,,https://www.foodie.fi/,https://www.foodie.fi/store
 FI,supermarket,R-kioski,Q1571400,open_adapted,,,,https://www.r-kioski.fi/kioskit/,https://www.r-kioski.fi/kioskit/
+FI,supermarket,S-market,Q11891613,open,,,,https://www.s-kanava.fi/web/smarkethokelanto,https://www.s-kanava.fi/web/smarkethokelanto/etusivu#myymalat
+FI,supermarket,Tokmanni,Q13423470,open,,,,https://www.tokmanni.fi/,https://www.tokmanni.fi/stores
 FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr/reouverture-de-quelques-magasins-nicolas.html
 FR,bakery,Boulangerie Louise,,open_adapted,Mo-Sa 08:00-19:00,,,https://www.boulangerielouise.com/,
 FR,bakery,Brioche Dorée,Q2925606,closed,,,,https://www.briochedoree.fr/,
 FR,bakery,Fischer,,partial,,,,https://lu.fischer1913.com/fr/actualites,
 FR,bakery,La Mie Câline,Q3210704,open_adapted,,,,https://www.lamiecaline.com/fr/,
-FR,bakery,La Mie de Pain,,open_adapted,,"{ ""takeaway:covid19"": ""only"" }",À emporter uniquement,https://www.facebook.com/lamiedepain,
+FR,bakery,La Mie de Pain,,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",À emporter uniquement,https://www.facebook.com/lamiedepain,
 FR,bakery,Marie Blachère,Q62082410,open_adapted,,,Téléphoner pour obtenir les horaires,https://www.marieblachere.com/actualites/vos-boulangeries-face-au-covid-19/,
 FR,bakery,Paul,Q3370417,partial,,,,https://www.paul.fr/fr/,https://www.paul.fr/fr/nos-boutiques
 FR,bakery,Sophie Lebreuilly,Q66372229,open_adapted,Mo-Sa 07:00-18:00;Su 07:00-14:00,,,https://sophie-lebreuilly.com/actu/,
@@ -627,19 +636,19 @@ FR,chocolate,Leonidas,Q80335,open_adapted,,,,https://www.leonidas.com/fr_fr/,htt
 FR,clothes,Grain de Malice,Q66757157,closed,,,,https://www.graindemalice.fr,
 FR,computer,LDLC,Q3117461,partial,,,,https://www.lesechos.fr/pme-regions/auvergne-rhone-alpes/electronique-tres-sollicite-ldlc-organise-le-service-minimum-en-boutique-1186558#xtor=RSS-147,https://www.ldlc.com/magasins-ldlc/
 FR,doityourself,Brico,Q2510786,closed,,,,https://www.brico.be/fr/makers/t/covid-19-faq-fr,
-FR,doityourself,Brico Dépôt,Q2889702,partial,Mo-Sa 08:00-15:00,,"Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/,
+FR,doityourself,Brico Dépôt,Q2889702,partial,Mo-Sa 08:00-15:00,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }","Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/,
 FR,doityourself,Brico Pro,,partial,,,,https://www.bricopro.fr/,
-FR,doityourself,Bricoman,Q2925142,open_adapted,,"{ ""drive_through:covid19"": ""only"" }",Drive uniquement,https://www.bricoman.fr/,https://www.bricoman.fr/drive
+FR,doityourself,Bricoman,Q2925142,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Drive uniquement,https://www.bricoman.fr/,https://www.bricoman.fr/drive
 FR,doityourself,Bricomarché,Q2925147,closed,,,,https://www.bricomarche.com/,
 FR,doityourself,Bricorama,Q2925146,closed,,,,https://www.bricorama.fr/,
 FR,doityourself,Castorama,Q966971,closed,,,,https://www.castorama.fr/,
 FR,doityourself,Chausson Matériaux,,partial,,,,https://www.chausson-materiaux.fr/,https://www.chausson-materiaux.fr/Liste_Agences_Chausson_Materiaux_ouvertes_Lundi_23_Mars_2020.pdf
 FR,doityourself,Gedimat,,partial,,,,https://www.gedimat.fr/,
 FR,doityourself,Lapeyre,Q3117467,closed,,,,https://www.facebook.com/Lapeyre/,
-FR,doityourself,Leroy Merlin,Q889624,partial,,"{ ""drive_through:covid19"": ""only"", ""delivery:covid19"": ""only"" } ",Uniquement retrait ou livraison des produits de première nécessité. Cours des matériaux éventuellement accessible sur réservation.,https://www.leroymerlin.fr/services/service-client/vos-magasins-rouvrent-cour-des-materiaux-sur-rendez-vous.html,https://www.leroymerlin.fr/faq.html?question=88526-covid-19-ouverture-cour-materiaux-l-exterieur-magasins-rendez-vous
+FR,doityourself,Leroy Merlin,Q889624,partial,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" } ",Uniquement retrait ou livraison des produits de première nécessité. Cours des matériaux éventuellement accessible sur réservation.,https://www.leroymerlin.fr/services/service-client/vos-magasins-rouvrent-cour-des-materiaux-sur-rendez-vous.html,https://www.leroymerlin.fr/faq.html?question=88526-covid-19-ouverture-cour-materiaux-l-exterieur-magasins-rendez-vous
 FR,doityourself,Mr Bricolage,Q3141657,partial,,,,https://www.mr-bricolage.fr/covid-19-informations-magasins-c.html,https://www.mr-bricolage.fr/media/com/Liste%20Magasins_COVID_19.pdf
 FR,doityourself,Point P,Q62973104,closed,,,Ouvert uniquement aux clients pros,https://www.pointp.fr/informations-covid-19,
-FR,doityourself,Queguiner Matériaux,Q3414861,partial,,"{ ""drive_through:covid19"": ""only"" }",Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
+FR,doityourself,Queguiner Matériaux,Q3414861,partial,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
 FR,doityourself,Réseau Pro,,partial,,,Réouvertures progressives à partir du 23 mars,https://www.reseaupro.fr/coronavirus-ouvertures-agences,https://www.reseaupro.fr/coronavirus-ouvertures-agences
 FR,doityourself,Weldom,Q16683226,partial,,,,,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
 FR,electronics,Apple,Q421253,closed,,,,https://www.apple.com/fr/,
@@ -660,7 +669,7 @@ FR,fast_food,KFC,Q524757,partial,,,Certains restaurant ouvrent leur drive et ser
 FR,fast_food,La Boîte à Pizza,Q3206840,open,,,,https://www.laboiteapizza.com/,https://www.laboiteapizza.com/restaurant
 FR,fast_food,La Croissanterie,Q3207961,closed,,,,https://www.lacroissanterie.fr/,
 FR,fast_food,McDonald’s,Q38076,closed,,,,https://www.mcdonalds.fr/,
-FR,fast_food,Pizza Hut,Q191615,open_adapted,,"{ ""delivery:covid19"": ""only"" }",En livraison uniquement,https://www.pizzahut.fr/,
+FR,fast_food,Pizza Hut,Q191615,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",En livraison uniquement,https://www.pizzahut.fr/,
 FR,fast_food,Quick,Q286494,closed,,,,https://www.quick.fr/landing?redirect=%2F,
 FR,fast_food,Subway,Q244457,closed,,,,https://www.subway.com/fr-fr,
 FR,frozen_food,Thiriet,Q3524695,open_adapted,,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
@@ -746,7 +755,7 @@ FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-l
 FR,shoes,Éram,Q16684192,closed,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr,
 FR,stationery,Bureau Vallée,Q18385014,open_adapted,,,,https://www.bureau-vallee.fr/,
 FR,stationery,Office Dépôt,Q1337797,closed,,,,https://www.officedepot.fr/,
-FR,stationery,Top Office,Q24929304,closed,,"{ ""delivery:covid19"": ""only"" }",Livraison à domicile toujours possible,https://www.top-office.com/informations-de-livraison.html,
+FR,stationery,Top Office,Q24929304,closed,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",Livraison à domicile toujours possible,https://www.top-office.com/informations-de-livraison.html,
 FR,supermarket,Atac,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 FR,supermarket,Aldi,Q125054,open_adapted,,,Fermé les 22/03 et 29/03,https://www.aldi.fr/,
 FR,supermarket,Auchan,Q758603,open,,,,https://twitter.com/AUCHAN_France/status/1239652791045574660,
@@ -799,7 +808,7 @@ FR,variety_store,GiFi,Q3105439,closed,,,,https://www.gifi.fr/faq-covid19.html,
 FR,variety_store,Noz,Q3345688,closed,,,,https://www.nozarrivages.com/,
 PH,atm,ExpressNet,,open,,,,,
 PH,bakery,BreadTalk,Q1106640,partial,09:00-15:00,,Changes in schedule may be affected by local government ordinances.,,https://www.bpi.com.ph/announcements/open-branches
-PH,bakery,Goldilocks,Q5580198,partial,,"{ ""delivery:covid19"": ""only"" }",,https://www.goldilocks.com.ph/list-of-open-stores,
+PH,bakery,Goldilocks,Q5580198,partial,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.goldilocks.com.ph/list-of-open-stores,
 PH,bakery,Julie's,,partial,,,,,
 PH,bakery,Red Ribbon,Q7304789,partial,,,,,
 PH,bank,Asia United Bank,Q4806482,partial,,,,https://www.facebook.com/AUB.Official/,https://www.aub.com.ph/branch
@@ -885,7 +894,7 @@ PH,fast_food,Minute Burger,Q62273503,partial,,,,,
 PH,fast_food,Papa John's,Q2759586,partial,,,,,
 PH,fast_food,Popeyes,Q1330910,partial,,,,,
 PH,fast_food,Subway,Q244457,partial,,,,,
-PH,fast_food,Wendy's,Q550258,open_adapted,,"{ ""pickup:covid19"": ""only"" }","Some store branches are open with varying time schedules. Currently open delivering to Manila, Makati, Mandaluyong, Pasig, Marikina, Pasay, Taguig, and Quezon City. ",https://wendys.com.ph/#/,https://www.facebook.com/WendysPhilippines/posts/2821201681291196
+PH,fast_food,Wendy's,Q550258,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }","Some store branches are open with varying time schedules. Currently open delivering to Manila, Makati, Mandaluyong, Pasig, Marikina, Pasay, Taguig, and Quezon City. ",https://wendys.com.ph/#/,https://www.facebook.com/WendysPhilippines/posts/2821201681291196
 PH,fitness_centre,Anytime Fitness,Q4778364,closed,,,,,
 PH,fitness_centre,Gold's Gym,Q1536234,closed,,,,,
 PH,food,Andok's,,partial,,,,,
@@ -951,7 +960,7 @@ PH,post_office,DHL,Q489815,partial,,,,,
 PH,post_office,LBC,Q17075584,open_adapted,,,"Opening hours may vary, depending on local authorities.",https://www.facebook.com/notes/lbc-express-inc/lbcadvisory/2977603615629711/,https://www.lbcexpress.com/beatcovid19?fbclid=IwAR2Ixt8wvjf4lRL8kiHIYDs5OO0MPYHbg2ebHGhNoPMvPNsdO-m89zlWaV8
 PH,restaurant,Buffalo Wild Wings,Q509255,partial,,,,,
 PH,restaurant,Domino's Pizza,Q839466,partial,,,,,
-PH,restaurant,Max's Restaurant,Q6794477,partial,,"{ ""drive_through:covid19"": ""only"" }",,https://maxsrestaurantna.com,https://maxsgroupdelivers.com/openstores
+PH,restaurant,Max's Restaurant,Q6794477,partial,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://maxsrestaurantna.com,https://maxsgroupdelivers.com/openstores
 PH,restaurant,Phở Hòa,Q55629932,partial,,,,,
 PH,restaurant,Pizza Hut,Q191615,partial,,,,,
 PH,restaurant,Sbarro,Q2589409,partial,,,,,
