@@ -561,6 +561,9 @@ ES,video_games,GameStop,Q202210,closed,,,,,
 ES,watches,Rolex,Q62288,closed,,,,,
 ES,watches,Swatch,Q573422,closed,,,,,
 FI,fuel,ABC,Q10397504,open_adapted,,,,https://www.abcasemat.fi/fi/asemat,https://www.abcasemat.fi/fi/uutiset/abc-asemien-ja-rahtaritilojen-poikkeusaukioloajat-kevaalla-2020
+FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
+FI,supermarket,Lidl,Q151954,open,,,,https://www.lidl.fi/myymaelaet,https://www.lidl.fi/myymaelaet
+FI,supermarket,R-kioski,Q1571400,open_adapted,,,,https://www.r-kioski.fi/kioskit/,https://www.r-kioski.fi/kioskit/
 FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr/reouverture-de-quelques-magasins-nicolas.html
 FR,bakery,Boulangerie Louise,,open_adapted,Mo-Sa 08:00-19:00,,,https://www.boulangerielouise.com/,
 FR,bakery,Brioche Dorée,Q2925606,closed,,,,https://www.briochedoree.fr/,
