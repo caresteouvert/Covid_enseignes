@@ -615,8 +615,8 @@ FR,car_repair,Midas,Q3312613,partial,,,,https://www.midas.fr/purchase-guides/cen
 FR,car_repair,Norauto,Q3317698,partial,,,,,https://www.norauto.fr/-cms-ateliers-de-secours.html
 FR,car_repair,Peugeot,Q6742,closed,,,"Réparation urgentes possibles, contacter par téléphone",https://www.peugeot.fr/covid-19.html,
 FR,car_repair,Point S,Q3393358,partial,,,Appeler avant de se déplacer,https://www.points.fr/,
-FR,car_repair,Renault,Q6686,closed,,,,https://www.renault.fr/mesures-covid19.html,
-FR,car_repair,Garage Renault,Q6686,closed,,,,https://www.renault.fr/mesures-covid19.html,
+FR,car_repair,Renault,Q6686,partial,,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
+FR,car_repair,Garage Renault,Q6686,partial,,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
 FR,car_repair,Speedy,Q3492969,partial,,,,https://www.speedy.fr/informations-coronavirus,https://www.speedy.fr/informations-coronavirus
 FR,car_repair,Vulco,Q80184403,partial,,,Sur rendez-vous uniquement,https://www.facebook.com/vulcofrance/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
