@@ -561,17 +561,23 @@ ES,video_games,GameStop,Q202210,closed,,,,,
 ES,watches,Rolex,Q62288,closed,,,,,
 ES,watches,Swatch,Q573422,closed,,,,,
 FI,alcohol,Alko,Q1849187,open,,,,https://www.alko.fi/,https://www.alko.fi/myymalat-palvelut
+FI,bank,Osuuspankki,Q4045597,open_adapted,,,,https://www.op.fi/,https://www.op.fi/henkiloasiakkaat/asiakaspalvelu/konttorit
 FI,fast_food,Hesburger,Q1276832,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.hesburger.fi/,https://www.hesburger.fi/ravintolat
+FI,fast_food,McDonald’s,Q38076,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""no"", ""access:covid19"": ""no"" }",,https://www.mcdonalds.com/fi,https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html
+FI,fast_food,Subway,Q244457,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.subway.fi/,http://www.subway.fi/fi/ravintolat
 FI,fuel,ABC,Q10397504,open_adapted,,,,https://www.abcasemat.fi/fi/asemat,https://www.abcasemat.fi/fi/uutiset/abc-asemien-ja-rahtaritilojen-poikkeusaukioloajat-kevaalla-2020
 FI,fuel,Neste,Q18688800,open,,,,https://www.neste.fi/,https://www.neste.fi/asemat
+FI,fuel,SEO,Q11894753,open,,,,https://seo.fi/,https://seo.fi/asemat/
 FI,fuel,St1,Q7592214,open,,,,https://www.st1.fi/,https://www.st1.fi/asemahaku
 FI,fuel,Teboil,Q7692079,open_adapted,,,Opening hours of shop may vary,https://www.teboil.fi/,https://www.teboil.fi/yhtio/ajankohtaista/poikkeavat-aukioloajat-alkaen-18.3.2020/
 FI,restaurant,Kotipizza,Q1628625,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.kotipizza.fi/,https://www.kotipizza.fi/ravintolat
 FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
+FI,supermarket,K-Supermarket,Q5408668,open,,,,https://www.k-ruoka.fi/k-supermarket,https://www.k-ruoka.fi/k-supermarket?kauppahaku=K-Supermarket&kaikki-kaupat
 FI,supermarket,Lidl,Q151954,open,,,,https://www.lidl.fi/myymaelaet,https://www.lidl.fi/myymaelaet
 FI,supermarket,Prisma,Q12047031,open,,,,https://www.foodie.fi/,https://www.foodie.fi/store
 FI,supermarket,R-kioski,Q1571400,open_adapted,,,,https://www.r-kioski.fi/kioskit/,https://www.r-kioski.fi/kioskit/
 FI,supermarket,S-market,Q11891613,open,,,,https://www.s-kanava.fi/web/smarkethokelanto,https://www.s-kanava.fi/web/smarkethokelanto/etusivu#myymalat
+FI,supermarket,Sale,Q11892046,open,,,,https://www.foodie.fi/,https://www.foodie.fi/store
 FI,supermarket,Tokmanni,Q13423470,open,,,,https://www.tokmanni.fi/,https://www.tokmanni.fi/stores
 FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr/reouverture-de-quelques-magasins-nicolas.html
 FR,bakery,Boulangerie Louise,,open_adapted,Mo-Sa 08:00-19:00,,,https://www.boulangerielouise.com/,
