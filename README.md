@@ -1,5 +1,7 @@
 # Chain stores open during Covid-19 lockdown
 
+![Logo](images/logo.png)
+
 Which chain stores are open during Covid-19 lockdown ? [Answer is here !](rules.csv)
 
 The objective of this repository is to list rules applicable to chain stores worldwide concerning their opening during the Covid-19 lockdown period. This allows to create maps like [Ça reste ouvert](https://caresteouvert.fr) (it stays open in French) of open shops during lockdown.
