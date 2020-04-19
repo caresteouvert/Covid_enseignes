@@ -86,6 +86,7 @@ Data about legal opening status is compiled in [a single spreadsheet file](legal
 * `start_date` : start date for period the rule is valid, in YYYY-MM-DD format
 * `end_date` : (optional) end date for period the rule is valid, in YYYY-MM-DD format
 * `legal_state` : legal opening status for this category. Values can be : `open` (no restriction), `only:...` (comma-separated restricted list of allowed services), `closed` (fully closed). By default, if a category doesn't appear in CSV file, __we consider it as closed__.
+* `details` : (optional) supplementary details if any
 * `source_url` : URL of web page where your information comes from (preferably from government source)
 
 ### Open chain stores in France (`regles.csv`)
