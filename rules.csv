@@ -588,11 +588,11 @@ FR,bakery,La Mie de Pain,,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""acce
 FR,bakery,Marie Blachère,Q62082410,open_adapted,,,Téléphoner pour obtenir les horaires,https://www.marieblachere.com/actualites/vos-boulangeries-face-au-covid-19/,
 FR,bakery,Paul,Q3370417,partial,,,,https://www.paul.fr/fr/,https://www.paul.fr/fr/nos-boutiques
 FR,bakery,Sophie Lebreuilly,Q66372229,open_adapted,Mo-Sa 07:00-18:00;Su 07:00-14:00,,,https://sophie-lebreuilly.com/actu/,
-FR,bank,Banque Populaire,Q846647,partial,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
-FR,bank,Banque Populaire Grand Ouest,Q846647,partial,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
+FR,bank,Banque Populaire,Q846647,partial,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes-1.aspx,
+FR,bank,Banque Populaire Grand Ouest,Q846647,partial,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes-1.aspx,
 FR,bank,BNP Paribas,Q499707,partial,,,,https://mabanque.bnpparibas/rsc/contrib/pdf/EtreLaPourVous.pdf,
-FR,bank,BRED,Q846647,open,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
-FR,bank,BRED Banque Populaire,Q846647,open,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes.aspx?vary=0-0-0,
+FR,bank,BRED,Q846647,open,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes-1.aspx,
+FR,bank,BRED Banque Populaire,Q846647,open,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes-1.aspx,
 FR,bank,Caisse d’Épargne,Q1547738,open,,,Privilégier les canaux d’échanges numériques,https://www.caisse-epargne.fr/particuliers/au-quotidien/toujours-a-vos-cotes,
 FR,bank,CIC,Q746525,open_adapted,,,,https://www.cic.fr/fr/coronavirus-covid-19-cic-a-vos-cotes.html,
 FR,bank,Crédit Agricole,Q590952,open_adapted,,,,https://www.credit-agricole.com/chaines-d-infos/toutes-les-chaines-d-info-du-groupe-credit-agricole/a-la-une/covid-19-le-groupe-credit-agricole-se-mobilise,
@@ -626,7 +626,7 @@ FR,car_repair,Carglass,Q1035997,partial,,,Sur rendez-vous uniquement dans un nom
 FR,car_repair,Citroën,Q6746,closed,,,Contact par téléphone possible,https://www.citroen.fr/covid-19.html,
 FR,car_repair,Étape Auto,,open_adapted,,,"Réservé aux véhicules d’urgences, personnel hospitalier et fonctions vitales",https://www.etape-auto.fr/site-Etape_Auto-operation-8159-Vehicules-prioritaires.html,
 FR,car_repair,Euromaster,Q3060668,partial,,,,https://www.euromaster.fr/particulier,https://www.euromastergroup.com/liste-centres-ouverts.pdf
-FR,car_repair,Feu Vert,Q3070922,closed,,,,https://www.feuvert.fr/,
+FR,car_repair,Feu Vert,Q3070922,partial,,,,https://www.feuvert.fr/static/centres-auto-feu-vert-ouverts-pendant-confinement-16239.html,https://www.feuvert.fr/static/centres-auto-feu-vert-ouverts-pendant-confinement-16239.html
 FR,car_repair,Ford,Q44294,closed,,,,https://www.ford.fr/informations-utiles/covid-19,
 FR,car_repair,France Pare-Brise,,open_adapted,,,,https://www.franceparebrise.fr/,https://prive.franceparebrise.fr/covid19/
 FR,car_repair,Midas,Q3312613,partial,,,,https://www.midas.fr/purchase-guides/centre-dappel-covid19,https://www.midas.fr/purchase-guides/centres-ouverts-covid19
@@ -645,33 +645,33 @@ FR,doityourself,Brico,Q2510786,closed,,,,https://www.brico.be/fr/makers/t/covid-
 FR,doityourself,Brico Dépôt,Q2889702,partial,Mo-Sa 08:00-15:00,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }","Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/,
 FR,doityourself,Brico Pro,,partial,,,,https://www.bricopro.fr/,
 FR,doityourself,Bricoman,Q2925142,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Drive uniquement,https://www.bricoman.fr/,https://www.bricoman.fr/drive
-FR,doityourself,Bricomarché,Q2925147,closed,,,,https://www.bricomarche.com/,
-FR,doityourself,Bricorama,Q2925146,closed,,,,https://www.bricorama.fr/,
-FR,doityourself,Castorama,Q966971,closed,,,,https://www.castorama.fr/,
+FR,doityourself,Bricomarché,Q2925147,partial,,,Retrait click & collect uniquement,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact
+FR,doityourself,Bricorama,Q2925146,partial,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.bricorama.fr/retrait-covid,https://www.bricorama.fr/retrait-covid
+FR,doityourself,Castorama,Q966971,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.castorama.fr/,https://www.castorama.fr/retrait-sans-contact#magasinsEligibles
 FR,doityourself,Chausson Matériaux,,partial,,,,https://www.chausson-materiaux.fr/,https://www.chausson-materiaux.fr/Liste_Agences_Chausson_Materiaux_ouvertes_Lundi_23_Mars_2020.pdf
 FR,doityourself,Gedimat,,partial,,,,https://www.gedimat.fr/,
 FR,doityourself,Lapeyre,Q3117467,closed,,,,https://www.facebook.com/Lapeyre/,
 FR,doityourself,Leroy Merlin,Q889624,partial,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" } ",Uniquement retrait ou livraison des produits de première nécessité. Cours des matériaux éventuellement accessible sur réservation.,https://www.leroymerlin.fr/services/service-client/vos-magasins-rouvrent-cour-des-materiaux-sur-rendez-vous.html,https://www.leroymerlin.fr/faq.html?question=88526-covid-19-ouverture-cour-materiaux-l-exterieur-magasins-rendez-vous
 FR,doityourself,Mr Bricolage,Q3141657,partial,,,,https://www.mr-bricolage.fr/covid-19-informations-magasins-c.html,https://www.mr-bricolage.fr/media/com/Liste%20Magasins_COVID_19.pdf
 FR,doityourself,Point P,Q62973104,closed,,,Ouvert uniquement aux clients pros,https://www.pointp.fr/informations-covid-19,
-FR,doityourself,Queguiner Matériaux,Q3414861,partial,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
+FR,doityourself,Queguiner Matériaux,Q3414861,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
 FR,doityourself,Réseau Pro,,partial,,,Réouvertures progressives à partir du 23 mars,https://www.reseaupro.fr/coronavirus-ouvertures-agences,https://www.reseaupro.fr/coronavirus-ouvertures-agences
 FR,doityourself,Weldom,Q16683226,partial,,,,,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
 FR,electronics,Apple,Q421253,closed,,,,https://www.apple.com/fr/,
 FR,electronics,Boulanger,Q2921695,closed,,,,https://twitter.com/boulanger/status/1240256275147034624,
 FR,electronics,Darty,Q2439098,closed,,,,https://twitter.com/Darty_Officiel/status/1239288822665482241,
-FR,electronics,Électro Dépôt,Q2388060,closed,,,,https://www.electrodepot.fr/#electro-informe,
+FR,electronics,Électro Dépôt,Q2388060,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.electrodepot.fr/#electro-informe,
 FR,electronics_repair,Docteur IT,,partial,,,,https://www.docteur-it.com/,
-FR,employment_agency,Adecco,Q353496,closed,,,,https://www.adecco.fr/,
+FR,employment_agency,Adecco,Q353496,closed,,,Contact à distance possible,https://www.adecco.fr/,
 FR,employment_agency,Manpower,Q56315899,closed,,,Contact par courriel ou téléphone possible,https://www.manpower.fr/bulletin-informations-covid-19,
 FR,employment_agency,Pôle Emploi,Q8901192,closed,,,Contact par téléphone possible,https://www.pole-emploi.fr/actualites/information-covid-19.html,
 FR,employment_agency,Randstad,Q267840,closed,,,,https://www.randstad.fr/,
 FR,farm,Bienvenue à la Ferme,Q2902023,partial,,,,,https://www.drive-fermier.fr/carte_drive_fermier
 FR,farm,Drive Fermier,Q2902023,partial,,,,,https://www.drive-fermier.fr/carte_drive_fermier
 FR,fast_food,Burger King,Q177054,closed,,,,https://www.burgerking.fr/,
-FR,fast_food,Domino’s,Q839466,partial,,,,https://www.dominos.fr/,
-FR,fast_food,Domino’s Pizza,Q839466,partial,,,,https://www.dominos.fr/,
-FR,fast_food,KFC,Q524757,partial,,,Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
+FR,fast_food,Domino’s,Q839466,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.dominos.fr/,
+FR,fast_food,Domino’s Pizza,Q839466,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.dominos.fr/,
+FR,fast_food,KFC,Q524757,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
 FR,fast_food,La Boîte à Pizza,Q3206840,open,,,,https://www.laboiteapizza.com/,https://www.laboiteapizza.com/restaurant
 FR,fast_food,La Croissanterie,Q3207961,closed,,,,https://www.lacroissanterie.fr/,
 FR,fast_food,McDonald’s,Q38076,closed,,,,https://www.mcdonalds.fr/,
@@ -696,7 +696,7 @@ FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.
 FR,garden_centre,Gamm Vert,Q3095006,open_adapted,,,"Limité à l’alimentation et animalerie, contacter le magasin avant de s’y rendre",https://www.gammvert.fr/,
 FR,garden_centre,Jardiland,Q3162276,open,,,Limité à l’alimentation et animalerie,https://twitter.com/Jardiland/status/1239891135964856320,
 FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
-FR,garden_centre,Truffaut,Q3162640,closed,,,,https://www.truffaut.com/information-actualite,
+FR,garden_centre,Truffaut,Q3162640,partial,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,partial,,,,https://www.amplifon.com/fr/information-covid19,https://www.amplifon.com/fr/information-covid19/centres-permanence
 FR,hearing_aids,Audika,Q2870745,closed,,,,https://www.audika.fr/,
 FR,insurance,AG2R La Mondiale,Q292228,closed,,,Contact en priorité par courriel,https://www.ag2rlamondiale.fr/,
@@ -760,13 +760,13 @@ FR,restaurant,Sushi Shop,Q3505657,partial,,,Certains points de vente ouverts pou
 FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
 FR,shoes,Éram,Q16684192,closed,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr,
 FR,stationery,Bureau Vallée,Q18385014,open_adapted,,,,https://www.bureau-vallee.fr/,
-FR,stationery,Office Dépôt,Q1337797,closed,,,,https://www.officedepot.fr/,
-FR,stationery,Top Office,Q24929304,closed,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",Livraison à domicile toujours possible,https://www.top-office.com/informations-de-livraison.html,
+FR,stationery,Office Dépôt,Q1337797,open_adapted,,"{ ""capacity:covid19"": 3 }",,https://www.officedepot.fr/,https://www.officedepot.fr/specialLinksNoChat.do?file=/magasins-ouverts.jsp
+FR,stationery,Top Office,Q24929304,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,
 FR,supermarket,Atac,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 FR,supermarket,Aldi,Q125054,open_adapted,,,Fermé les 22/03 et 29/03,https://www.aldi.fr/,
 FR,supermarket,Auchan,Q758603,open,,,,https://twitter.com/AUCHAN_France/status/1239652791045574660,
 FR,supermarket,Bi1,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
-FR,supermarket,Bio c' Bon,Q54312551,partial,,,,https://www.bio-c-bon.eu/,https://www.bio-c-bon.eu/fr/nos_magasins
+FR,supermarket,Bio c' Bon,Q54312551,open_adapted,"Mo-Sa 10:00-14:00,15:00-19:00",,,https://www.bio-c-bon.eu/fr/covid-19-nos-mesures-en-magasin,https://www.bio-c-bon.eu/fr/nos_magasins
 FR,supermarket,Biocoop,Q2904039,open_adapted,,,,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,
 FR,supermarket,Biomonde,,open_adapted,,,,https://www.facebook.com/biomondecooperative/posts/3180682271951752,"https://www.biomonde.fr/nos-magasins,1,58,1"
 FR,supermarket,Carrefour,Q217599,open,,,,https://www.carrefour.fr/,
