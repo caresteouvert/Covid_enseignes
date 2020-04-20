@@ -561,15 +561,21 @@ ES,video_games,GameStop,Q202210,closed,,,,,
 ES,watches,Rolex,Q62288,closed,,,,,
 ES,watches,Swatch,Q573422,closed,,,,,
 FI,alcohol,Alko,Q1849187,open,,,,https://www.alko.fi/,https://www.alko.fi/myymalat-palvelut
+FI,bank,Nordea,Q1123823,open_adapted,,,On appointment only,https://www.nordea.fi/,https://www.nordea.fi/Images/146-356993/Konttoreiden_palvelutilanne.pdf
 FI,bank,Osuuspankki,Q4045597,open_adapted,,,,https://www.op.fi/,https://www.op.fi/henkiloasiakkaat/asiakaspalvelu/konttorit
+FI,fast_food,Burger King,Q177054,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.burgerking.fi/bk-restaurant,http://www.burgerking.fi/bk-restaurant
 FI,fast_food,Hesburger,Q1276832,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.hesburger.fi/,https://www.hesburger.fi/ravintolat
 FI,fast_food,McDonald’s,Q38076,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""no"", ""access:covid19"": ""no"" }",,https://www.mcdonalds.com/fi,https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html
 FI,fast_food,Subway,Q244457,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.subway.fi/,http://www.subway.fi/fi/ravintolat
 FI,fuel,ABC,Q10397504,open_adapted,,,,https://www.abcasemat.fi/fi/asemat,https://www.abcasemat.fi/fi/uutiset/abc-asemien-ja-rahtaritilojen-poikkeusaukioloajat-kevaalla-2020
 FI,fuel,Neste,Q18688800,open,,,,https://www.neste.fi/,https://www.neste.fi/asemat
 FI,fuel,SEO,Q11894753,open,,,,https://seo.fi/,https://seo.fi/asemat/
+FI,fuel,Shell,Q154950,open,,,,https://www.shell.fi/media.html,https://www.shell.fi/motorists/huoltoasemahaku.html
 FI,fuel,St1,Q7592214,open,,,,https://www.st1.fi/,https://www.st1.fi/asemahaku
 FI,fuel,Teboil,Q7692079,open_adapted,,,Opening hours of shop may vary,https://www.teboil.fi/,https://www.teboil.fi/yhtio/ajankohtaista/poikkeavat-aukioloajat-alkaen-18.3.2020/
+FI,furniture,JYSK,Q138913,open,,,,https://jysk.fi/tietoa-koronaviruksesta,https://jysk.fi/myymalat
+FI,optician,Instrumentarium,Q11864937,open_adapted,,,,https://www.instru.fi/,https://www.instru.fi/palvelemme-teita-seuraavanlaisesti
+FI,optician,Silmäasema,Q15994200,open_adapted,,,,https://www.silmaasema.fi/,https://www.silmaasema.fi/toimipaikat
 FI,restaurant,Kotipizza,Q1628625,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.kotipizza.fi/,https://www.kotipizza.fi/ravintolat
 FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
 FI,supermarket,K-Supermarket,Q5408668,open,,,,https://www.k-ruoka.fi/k-supermarket,https://www.k-ruoka.fi/k-supermarket?kauppahaku=K-Supermarket&kaikki-kaupat
@@ -992,7 +998,7 @@ PH,supermarket,Savemore,,partial,,,,,
 PH,supermarket,Shopwise,,partial,,,,,
 PH,supermarket,SM Hypermarket,,open_adapted,,,,https://www.facebook.com/SMMarkets/,https://www.facebook.com/notes/sm-markets/mall-based-sm-markets-stores/1308270072716172/
 PH,supermarket,SM Hypermarket,,partial,,,,,
-PH,supermarket,Super 8,,open_adapted,,,Store schedules vary based on location.,http://www.super8.ph/,https://www.facebook.com/super8.ph/posts/1896371113821296?__xts__%5B0%5D=68.ARBT2P9cbdL-a0-2YnKYehBxEkeCaE4re4YoPKN7fItFdrCtyPsycr2dA6oV4di_79UxjF34CiHMgSHhUNGg8U1VnrWqPqvqXw9awUir5In-e4HhzJDd95LvGiuafAMi9YySTKO3VUpGeH66rcjaMFLzs2yuTXXTGDmmUHYYRZCEltSHb6XzrdOEPNgZx7Y2l84XthzgNrBgo5yNCnJyL2OhQmSRDWL5U9Fl24jaJZbDB9BRqmPjg1iQLRlRvK5qyexoE0tzIS9ElLjtySsSJz4EgnzrOnp_bE2b6OOWoali3qJdi9RQFETsOmg1VfrrW-Ngbdq7inpD3lNKfahKPc8D-g&__tn__=-R
+PH,supermarket,Super 8,,open_adapted,,,Store schedules vary based on location.,http://www.super8.ph/,https://www.facebook.com/super8.ph/posts/1896371113821296
 PH,supermarket,Waltermart,,open_adapted,09:00-16:00,,All stores are open,https://waltermart.com.ph/store_locations,
 PH,toys,Toys R Us,Q696334,closed,,,,,
 PH,tyres,Bridgestone,Q179433,closed,,,,,
