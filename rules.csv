@@ -565,8 +565,14 @@ FI,atm,Otto,Q7109498,open,,,,https://otto.fi/korona-saattaa-vaikuttaa-palvelutas
 FI,bank,Nordea,Q1123823,open_adapted,,,On appointment only,https://www.nordea.fi/,https://www.nordea.fi/Images/146-356993/Konttoreiden_palvelutilanne.pdf
 FI,bank,Osuuspankki,Q4045597,open_adapted,,,,https://www.op.fi/,https://www.op.fi/henkiloasiakkaat/asiakaspalvelu/konttorit
 FI,books,Suomalainen kirjakauppa,Q7641808,open_adapted,,,,https://www.suomalainen.com/blogs/ajankohtaisia-tapahtumia-ja-tuotteita/ajankohtaista-tietoa-asioinnista-ja-tilauksista,https://www.suomalainen.com/pages/myymalat
+FI,cafe,Espresso House,Q10489162,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://fi.espressohouse.com/uutisia/tyontekijoidemme-ja-vieraidemme-hyvinvointi-on-meille-tarkeinta-%e2%9d%a4/,https://fi.espressohouse.com/coffee-shops/
 FI,car,Toyota,Q53268,open,,,,https://www.toyota.fi/ajankohtaista/uutiset/ajankohtaista-koronasta.json,
+FI,clothes,Cubus,Q3439593,open,,,,https://cubus.com/fi/,https://cubus.com/fi/Corporate/Stores/
+FI,clothes,Dressmann,Q3357081,open_adapted,,,,https://dressmann.com/fi/,https://dressmann.com/fi/yrityssivut/Etsi-myymala/
 FI,clothes,H&M,Q188326,open,,,,https://www2.hm.com/fi_fi/index.html,https://www2.hm.com/fi_fi/customer-service/shopping-at-hm/store-locator.html
+FI,clothes,KappAhl,Q4349016,open_adapted,,,,https://www.kappahl.com/fi-FI/tietoa-covid-19-viruksesta/,https://www.kappahl.com/fi-FI/asiakaspalvelu/asiakaspalvelu/loytyyko-tuote-myymalasta/
+FI,doityourself,Clas Ohlson,Q3356220,open_adapted,,,,https://www.clasohlson.com/fi/covid19,https://www.clasohlson.com/fi/store-finder
+FI,doityourself,K-Rauta,Q4206187,open,,,,https://www.k-rauta.fi/palvelut/k-rauta-toimii-koronaviruksen-leviamisen-estamiseksi,https://www.k-rauta.fi/myymalat
 FI,fast_food,Burger King,Q177054,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.burgerking.fi/bk-restaurant,http://www.burgerking.fi/bk-restaurant
 FI,fast_food,Hesburger,Q1276832,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.hesburger.fi/,https://www.hesburger.fi/ravintolat
 FI,fast_food,McDonald’s,Q38076,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""no"", ""access:covid19"": ""no"" }",,https://www.mcdonalds.com/fi,https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html
@@ -581,8 +587,10 @@ FI,fuel,Teboil,Q7692079,open_adapted,,,Opening hours of shop may vary,https://ww
 FI,furniture,JYSK,Q138913,open,,,,https://jysk.fi/tietoa-koronaviruksesta,https://jysk.fi/myymalat
 FI,optician,Instrumentarium,Q11864937,open_adapted,,,,https://www.instru.fi/,https://www.instru.fi/palvelemme-teita-seuraavanlaisesti
 FI,optician,Silmäasema,Q15994200,open_adapted,,,,https://www.silmaasema.fi/,https://www.silmaasema.fi/toimipaikat
+FI,optician,Specsavers,Q2000610,open,,,,https://www.specsavers.fi/covid-19/informaatio,https://www.specsavers.fi/liikehaku/kaikki-liikkeemme
 FI,pet,Musti ja Mirri,Q11883558,open,,,,https://www.mustijamirri.fi/mustijamirri-tiedottaa/musti-ja-mirri-tiedottaa-koronavirus,https://www.mustijamirri.fi/info/myymalat/
 FI,restaurant,Kotipizza,Q1628625,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.kotipizza.fi/,https://www.kotipizza.fi/ravintolat
+FI,supermarket,HalpaHalli,Q11861256,open_adapted,,,,https://www.halpahalli.fi/tiedotteet/halpahalli-varautuu-koronaviruksen-vaikutuksiin,https://www.halpahalli.fi/myymalat
 FI,supermarket,K-Citymarket,Q11868561,open,,,,https://www.k-ruoka.fi/k-citymarket,https://www.k-ruoka.fi/k-citymarket?kauppahaku=K-Citymarket&kaikki-kaupat
 FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
 FI,supermarket,K-Supermarket,Q5408668,open,,,,https://www.k-ruoka.fi/k-supermarket,https://www.k-ruoka.fi/k-supermarket?kauppahaku=K-Supermarket&kaikki-kaupat
