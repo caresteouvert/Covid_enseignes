@@ -561,13 +561,18 @@ ES,video_games,GameStop,Q202210,closed,,,,,
 ES,watches,Rolex,Q62288,closed,,,,,
 ES,watches,Swatch,Q573422,closed,,,,,
 FI,alcohol,Alko,Q1849187,open,,,,https://www.alko.fi/,https://www.alko.fi/myymalat-palvelut
+FI,atm,Otto,Q7109498,open,,,,https://otto.fi/korona-saattaa-vaikuttaa-palvelutasoomme/,https://otto.fi/missa-otto/
 FI,bank,Nordea,Q1123823,open_adapted,,,On appointment only,https://www.nordea.fi/,https://www.nordea.fi/Images/146-356993/Konttoreiden_palvelutilanne.pdf
 FI,bank,Osuuspankki,Q4045597,open_adapted,,,,https://www.op.fi/,https://www.op.fi/henkiloasiakkaat/asiakaspalvelu/konttorit
+FI,books,Suomalainen kirjakauppa,Q7641808,open_adapted,,,,https://www.suomalainen.com/blogs/ajankohtaisia-tapahtumia-ja-tuotteita/ajankohtaista-tietoa-asioinnista-ja-tilauksista,https://www.suomalainen.com/pages/myymalat
+FI,car,Toyota,Q53268,open,,,,https://www.toyota.fi/ajankohtaista/uutiset/ajankohtaista-koronasta.json,
+FI,clothes,H&M,Q188326,open,,,,https://www2.hm.com/fi_fi/index.html,https://www2.hm.com/fi_fi/customer-service/shopping-at-hm/store-locator.html
 FI,fast_food,Burger King,Q177054,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.burgerking.fi/bk-restaurant,http://www.burgerking.fi/bk-restaurant
 FI,fast_food,Hesburger,Q1276832,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.hesburger.fi/,https://www.hesburger.fi/ravintolat
 FI,fast_food,McDonald’s,Q38076,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""no"", ""access:covid19"": ""no"" }",,https://www.mcdonalds.com/fi,https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html
 FI,fast_food,Subway,Q244457,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,http://www.subway.fi/,http://www.subway.fi/fi/ravintolat
 FI,fuel,ABC,Q10397504,open_adapted,,,,https://www.abcasemat.fi/fi/asemat,https://www.abcasemat.fi/fi/uutiset/abc-asemien-ja-rahtaritilojen-poikkeusaukioloajat-kevaalla-2020
+FI,fuel,Gasum,Q1495701,open,,,,https://www.gasum.com/gasum-yrityksena/medialle/uutiset/2020/tietoa-liittyen-koronavirusepidemiaan-covid-19/,https://www.ngva.eu/stations-map/
 FI,fuel,Neste,Q18688800,open,,,,https://www.neste.com/fi/tiedotteet-ja-uutiset/transportation/nesteen-liikenneasemat-ja-neste-k-asemat-palvelevat-tiellaliikkujia-poikkeusoloista-huolimatta,https://www.neste.fi/asemat
 FI,fuel,SEO,Q11894753,open,,,,https://seo.fi/,https://seo.fi/asemat/
 FI,fuel,Shell,Q154950,open,,,,https://www.shell.fi/media.html,https://www.shell.fi/motorists/huoltoasemahaku.html
@@ -576,6 +581,7 @@ FI,fuel,Teboil,Q7692079,open_adapted,,,Opening hours of shop may vary,https://ww
 FI,furniture,JYSK,Q138913,open,,,,https://jysk.fi/tietoa-koronaviruksesta,https://jysk.fi/myymalat
 FI,optician,Instrumentarium,Q11864937,open_adapted,,,,https://www.instru.fi/,https://www.instru.fi/palvelemme-teita-seuraavanlaisesti
 FI,optician,Silmäasema,Q15994200,open_adapted,,,,https://www.silmaasema.fi/,https://www.silmaasema.fi/toimipaikat
+FI,pet,Musti ja Mirri,Q11883558,open,,,,https://www.mustijamirri.fi/mustijamirri-tiedottaa/musti-ja-mirri-tiedottaa-koronavirus,https://www.mustijamirri.fi/info/myymalat/
 FI,restaurant,Kotipizza,Q1628625,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.kotipizza.fi/,https://www.kotipizza.fi/ravintolat
 FI,supermarket,K-Citymarket,Q11868561,open,,,,https://www.k-ruoka.fi/k-citymarket,https://www.k-ruoka.fi/k-citymarket?kauppahaku=K-Citymarket&kaikki-kaupat
 FI,supermarket,K-Market,Q11868562,open,,,,https://www.k-ruoka.fi/k-market,https://www.k-ruoka.fi/k-market?kauppahaku=K-Market&kaikki-kaupat
