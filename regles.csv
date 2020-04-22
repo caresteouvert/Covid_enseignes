@@ -94,7 +94,7 @@ fast_food,Domino’s Pizza,Q839466,ouvert_adapté,,,https://www.dominos.fr/,
 fast_food,KFC,Q524757,partiel,,Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
 fast_food,La Boîte à Pizza,Q3206840,ouvert,,,https://www.laboiteapizza.com/,https://www.laboiteapizza.com/restaurant
 fast_food,La Croissanterie,Q3207961,fermé,,,https://www.lacroissanterie.fr/,
-fast_food,McDonald’s,Q38076,fermé,,,https://www.mcdonalds.fr/,
+fast_food,McDonald’s,Q38076,partiel,,Certains McDrive sont ouverts,https://www.mcdonalds.fr/,https://www.restaurants.mcdonalds.fr/
 fast_food,Pizza Hut,Q191615,ouvert_adapté,,En livraison uniquement,https://www.pizzahut.fr/,
 fast_food,Quick,Q286494,fermé,,,https://www.quick.fr/landing?redirect=%2F,
 fast_food,Subway,Q244457,fermé,,,https://www.subway.com/fr-fr,

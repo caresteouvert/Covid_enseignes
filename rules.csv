@@ -704,7 +704,7 @@ FR,fast_food,Domino’s Pizza,Q839466,open_adapted,,"{ ""delivery:covid19"": ""y
 FR,fast_food,KFC,Q524757,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Certains restaurant ouvrent leur drive et service de livraison,https://www.kfc.fr/,
 FR,fast_food,La Boîte à Pizza,Q3206840,open,,,,https://www.laboiteapizza.com/,https://www.laboiteapizza.com/restaurant
 FR,fast_food,La Croissanterie,Q3207961,closed,,,,https://www.lacroissanterie.fr/,
-FR,fast_food,McDonald’s,Q38076,closed,,,,https://www.mcdonalds.fr/,
+FR,fast_food,McDonald’s,Q38076,partial,,,Certains McDrive sont ouverts,https://www.mcdonalds.fr/,https://www.restaurants.mcdonalds.fr/
 FR,fast_food,Pizza Hut,Q191615,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",En livraison uniquement,https://www.pizzahut.fr/,
 FR,fast_food,Quick,Q286494,closed,,,,https://www.quick.fr/landing?redirect=%2F,
 FR,fast_food,Subway,Q244457,closed,,,,https://www.subway.com/fr-fr,
