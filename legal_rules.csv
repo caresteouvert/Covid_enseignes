@@ -1,4 +1,7 @@
 country,country_subarea,category,category_osm,start_date,end_date,legal_state,details,source_url
+CD,,default,,2020-03-19,2020-04-24,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
+CD,,bar,"[ { ""amenity"": ""bar|pub|biergarten|nightclub"" } ]",2020-03-19,2020-04-24,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
+CD,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe"" } ]",2020-03-19,2020-04-24,"only:delivery,takeaway,drive_through",,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
 FI,,default,,2020-03-16,,open,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
 FI,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",2020-03-16,,closed,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
 FI,,museum,"[ { ""tourism"": ""museum|gallery"" } ]",2020-03-16,,closed,"Mandatory for public operators, recommended for private operators",https://valtioneuvosto.fi/tietoa-koronaviruksesta

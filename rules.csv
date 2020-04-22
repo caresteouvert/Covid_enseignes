@@ -568,6 +568,7 @@ FI,bank,Osuuspankki,Q4045597,open_adapted,,,,https://www.op.fi/,https://www.op.f
 FI,bank,S-Pankki,Q7387053,open_adapted,,,,https://www.s-pankki.fi/fi/tiedotteet/2020/asiakaspalvelussamme-on-ruuhkaa--katso-vastaukset-yleisimpiin-kysymyksiin/,https://www.s-pankki.fi/fi/toimipaikat/#?st=all
 FI,books,Suomalainen kirjakauppa,Q7641808,open_adapted,,,,https://www.suomalainen.com/blogs/ajankohtaisia-tapahtumia-ja-tuotteita/ajankohtaista-tietoa-asioinnista-ja-tilauksista,https://www.suomalainen.com/pages/myymalat
 FI,cafe,Espresso House,Q10489162,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://fi.espressohouse.com/uutisia/tyontekijoidemme-ja-vieraidemme-hyvinvointi-on-meille-tarkeinta-%e2%9d%a4/,https://fi.espressohouse.com/coffee-shops/
+FI,cafe,Picnic,Q11854852,open_adapted,,,,https://www.picnic.fi/lahin-picnic,https://www.picnic.fi/lahin-picnic
 FI,car,Toyota,Q53268,open,,,,https://www.toyota.fi/ajankohtaista/uutiset/ajankohtaista-koronasta.json,
 FI,clothes,Cubus,Q3439593,open,,,,https://cubus.com/fi/,https://cubus.com/fi/Corporate/Stores/
 FI,clothes,Dressmann,Q3357081,open_adapted,,,,https://dressmann.com/fi/,https://dressmann.com/fi/yrityssivut/Etsi-myymala/
