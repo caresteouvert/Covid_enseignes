@@ -55,6 +55,7 @@ car_repair,Peugeot,Q6742,fermé,,"Réparation urgentes possibles, contacter par 
 car_repair,Point S,Q3393358,partiel,,Appeler avant de se déplacer,https://www.points.fr/,
 car_repair,Renault,Q6686,partiel,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
 car_repair,Garage Renault,Q6686,partiel,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
+car_repair,Roady,Q3434112,partiel,,,https://www.roady.fr/covid-19/reseau-service-roady,https://www.roady.fr/covid-19/reseau-service-roady
 car_repair,Speedy,Q3492969,partiel,,,https://www.speedy.fr/informations-coronavirus,https://www.speedy.fr/informations-coronavirus
 car_repair,Vulco,Q80184403,partiel,,Sur rendez-vous uniquement,https://www.facebook.com/vulcofrance/,
 chocolate,Jeff de Bruges,Q3176626,partiel,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
@@ -81,6 +82,7 @@ electronics,Apple,Q421253,fermé,,,https://www.apple.com/fr/,
 electronics,Boulanger,Q2921695,fermé,,,https://twitter.com/boulanger/status/1240256275147034624,
 electronics,Darty,Q2439098,fermé,,,https://twitter.com/Darty_Officiel/status/1239288822665482241,
 electronics,Électro Dépôt,Q2388060,ouvert_adapté,,,https://www.electrodepot.fr/#electro-informe,
+electronics,Gitem,Q3107853,partiel,,,https://www.gitem.fr/,
 electronics_repair,Docteur IT,,partiel,,,https://www.docteur-it.com/,
 employment_agency,Adecco,Q353496,fermé,,Contact à distance possible,https://www.adecco.fr/,
 employment_agency,Manpower,Q56315899,fermé,,Contact par courriel ou téléphone possible,https://www.manpower.fr/bulletin-informations-covid-19,
@@ -98,6 +100,8 @@ fast_food,McDonald’s,Q38076,partiel,,Certains McDrive sont ouverts,https://www
 fast_food,Pizza Hut,Q191615,ouvert_adapté,,En livraison uniquement,https://www.pizzahut.fr/,
 fast_food,Quick,Q286494,fermé,,,https://www.quick.fr/landing?redirect=%2F,
 fast_food,Subway,Q244457,fermé,,,https://www.subway.com/fr-fr,
+flower,Interflora,Q692179,partiel,,,https://www.facebook.com/Interflora.France/posts/3183824991629083,
+flower,Monceau Fleurs,Q17629431,fermé,,,https://www.monceaufleurs.com/,
 frozen_food,Thiriet,Q3524695,ouvert_adapté,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
 fuel,AS24,Q2819394,ouvert,,,https://www.as24.com/fr/communique-covid-19,
 fuel,Avia,Q300147,ouvert,,,https://www.avia-france.fr/,
@@ -119,6 +123,16 @@ garden_centre,Point Vert,Q16661975,partiel,,,https://www.magasin-point-vert.fr/,
 garden_centre,Truffaut,Q3162640,partiel,,,https://www.truffaut.com/information-actualite,
 hearing_aids,Amplifon,Q477222,partiel,,,https://www.amplifon.com/fr/information-covid19,https://www.amplifon.com/fr/information-covid19/centres-permanence
 hearing_aids,Audika,Q2870745,fermé,,,https://www.audika.fr/,
+hotel,B&B Hôtel,Q794939,ouvert_adapté,,Pas de service petit-déjeuner,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
+hotel,Formule 1,Q1630895,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Ibis,Q920166,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Hôtel Ibis,Q920166,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Ibis Budget,Q1458135,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Ibis Styles,Q3147425,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Kyriad,Q11751808,ouvert_adapté,,,https://www.kyriad.com/fr-fr/informationcovid19/,
+hotel,Novotel,Q420545,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Mercure,Q1709809,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
+hotel,Première Classe,Q5964551,ouvert_adapté,,Pas de restauration,https://www.premiereclasse.com/fr/mesures-et-informations-covid-19.html,
 insurance,AG2R La Mondiale,Q292228,fermé,,Contact en priorité par courriel,https://www.ag2rlamondiale.fr/,
 insurance,Allianz,Q487292,fermé,,Contact par téléphone possible,https://www.allianz.fr/informations-couverture-coronavirus/,
 insurance,April,Q622025,fermé,,,https://groupe.april.fr/covid-19,

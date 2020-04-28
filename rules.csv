@@ -665,6 +665,7 @@ FR,car_repair,Peugeot,Q6742,closed,,,"Réparation urgentes possibles, contacter 
 FR,car_repair,Point S,Q3393358,partial,,,Appeler avant de se déplacer,https://www.points.fr/,
 FR,car_repair,Renault,Q6686,partial,,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
 FR,car_repair,Garage Renault,Q6686,partial,,,,https://www.renault.fr/mesures-covid19.html,https://www.renault.fr/liste-ateliers-ouverts-reparation-assistance.html
+FR,car_repair,Roady,Q3434112,partial,,,,https://www.roady.fr/covid-19/reseau-service-roady,https://www.roady.fr/covid-19/reseau-service-roady
 FR,car_repair,Speedy,Q3492969,partial,,,,https://www.speedy.fr/informations-coronavirus,https://www.speedy.fr/informations-coronavirus
 FR,car_repair,Vulco,Q80184403,partial,,,Sur rendez-vous uniquement,https://www.facebook.com/vulcofrance/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
@@ -691,6 +692,7 @@ FR,electronics,Apple,Q421253,closed,,,,https://www.apple.com/fr/,
 FR,electronics,Boulanger,Q2921695,closed,,,,https://twitter.com/boulanger/status/1240256275147034624,
 FR,electronics,Darty,Q2439098,closed,,,,https://twitter.com/Darty_Officiel/status/1239288822665482241,
 FR,electronics,Électro Dépôt,Q2388060,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.electrodepot.fr/#electro-informe,
+FR,electronics,Gitem,Q3107853,partial,,,,https://www.gitem.fr/,
 FR,electronics_repair,Docteur IT,,partial,,,,https://www.docteur-it.com/,
 FR,employment_agency,Adecco,Q353496,closed,,,Contact à distance possible,https://www.adecco.fr/,
 FR,employment_agency,Manpower,Q56315899,closed,,,Contact par courriel ou téléphone possible,https://www.manpower.fr/bulletin-informations-covid-19,
@@ -708,6 +710,8 @@ FR,fast_food,McDonald’s,Q38076,partial,,,Certains McDrive sont ouverts,https:/
 FR,fast_food,Pizza Hut,Q191615,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",En livraison uniquement,https://www.pizzahut.fr/,
 FR,fast_food,Quick,Q286494,closed,,,,https://www.quick.fr/landing?redirect=%2F,
 FR,fast_food,Subway,Q244457,closed,,,,https://www.subway.com/fr-fr,
+FR,flower,Interflora,Q692179,partial,,,,https://www.facebook.com/Interflora.France/posts/3183824991629083,
+FR,flower,Monceau Fleurs,Q17629431,closed,,,,https://www.monceaufleurs.com/,
 FR,frozen_food,Thiriet,Q3524695,open_adapted,,,Boutiques ouvertes mais préférer les commandes en ligne,https://www.facebook.com/thiriet.surgeles/,
 FR,fuel,AS24,Q2819394,open,,,,https://www.as24.com/fr/communique-covid-19,
 FR,fuel,Avia,Q300147,open,,,,https://www.avia-france.fr/,
@@ -729,6 +733,16 @@ FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.
 FR,garden_centre,Truffaut,Q3162640,partial,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,partial,,,,https://www.amplifon.com/fr/information-covid19,https://www.amplifon.com/fr/information-covid19/centres-permanence
 FR,hearing_aids,Audika,Q2870745,closed,,,,https://www.audika.fr/,
+FR,hotel,B&B Hôtel,Q794939,open_adapted,,,Pas de service petit-déjeuner,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
+FR,hotel,Formule 1,Q1630895,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis,Q920166,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Hôtel Ibis,Q920166,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis Budget,Q1458135,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis Styles,Q3147425,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Kyriad,Q11751808,open_adapted,,,,https://www.kyriad.com/fr-fr/informationcovid19/,
+FR,hotel,Novotel,Q420545,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Mercure,Q1709809,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Première Classe,Q5964551,open_adapted,,,Pas de restauration,https://www.premiereclasse.com/fr/mesures-et-informations-covid-19.html,
 FR,insurance,AG2R La Mondiale,Q292228,closed,,,Contact en priorité par courriel,https://www.ag2rlamondiale.fr/,
 FR,insurance,Allianz,Q487292,closed,,,Contact par téléphone possible,https://www.allianz.fr/informations-couverture-coronavirus/,
 FR,insurance,April,Q622025,closed,,,,https://groupe.april.fr/covid-19,
