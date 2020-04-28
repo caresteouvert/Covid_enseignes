@@ -789,6 +789,7 @@ FR,restaurant,Ristorante Del Arte,Q3389499,closed,,,,https://www.delarte.fr/info
 FR,restaurant,Sushi Shop,Q3505657,partial,,,Certains points de vente ouverts pour la vente à emporter,https://www.sushishop.fr/,
 FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
 FR,shoes,Éram,Q16684192,closed,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr,
+FR,sports,Decathlon,Q509349,closed,,,Site web ouvert à la livraison,https://www.decathlon.fr/,
 FR,stationery,Bureau Vallée,Q18385014,open_adapted,,,,https://www.bureau-vallee.fr/,
 FR,stationery,Office Dépôt,Q1337797,open_adapted,,"{ ""capacity:covid19"": 3 }",,https://www.officedepot.fr/,https://www.officedepot.fr/specialLinksNoChat.do?file=/magasins-ouverts.jsp
 FR,stationery,Top Office,Q24929304,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,
@@ -843,6 +844,17 @@ FR,supermarket,U Express,Q2529029,open_adapted,,,,https://www.magasins-u.com/acc
 FR,variety_store,Action,Q2634111,closed,,,,https://www.action.com/fr-fr/horaires-douverture/,
 FR,variety_store,GiFi,Q3105439,closed,,,,https://www.gifi.fr/faq-covid19.html,
 FR,variety_store,Noz,Q3345688,closed,,,,https://www.nozarrivages.com/,
+MC,car_rental,Avis,Q791136,open,,,,https://www.avis.fr/avis-coronavirus-advice,
+MC,clothes,Prada,Q193136,closed,,,,,https://www.prada.com/mc/fr/store-locator.html
+MC,fast_food,McDonald's,Q38076,open_adapted,,,,,https://www.restaurants.mcdonalds.fr/mcdonalds-monaco#
+MC,fuel,BP,Q152057,open,,,,http://stationsbp.fr/bp_station/site_bp_station/index.php,
+MC,library,Fnac,Q676585,closed,,,,https://twitter.com/Fnac/status/1239293193721655296,
+MC,sports,Decathlon,Q509349,closed,,,Site web ouvert à la livraison,https://www.decathlon.fr/,
+MC,supermarket,Biocoop,Q2904039,open_adapted,,,,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,
+MC,supermarket,Carrefour City,Q2940187,open,,,,https://www.carrefour.fr/,
+MC,supermarket,Carrefour Contact,Q2940188,open,,,,https://www.carrefour.fr/,
+MC,supermarket,Casino,Q2670967,open,,,,https://www.supercasino.fr/landing/notre-priorite-cest-vous/,
+MC,supermarket,Spar,Q610492,open,,,,,https://magasins.spar.fr/fr
 PH,atm,ExpressNet,,open,,,,,
 PH,bakery,BreadTalk,Q1106640,partial,09:00-15:00,,Changes in schedule may be affected by local government ordinances.,,https://www.bpi.com.ph/announcements/open-branches
 PH,bakery,Goldilocks,Q5580198,partial,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.goldilocks.com.ph/list-of-open-stores,
