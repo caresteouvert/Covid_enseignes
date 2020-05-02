@@ -63,7 +63,7 @@ chocolate,Leonidas,Q80335,ouvert_adapté,,,https://www.leonidas.com/fr_fr/,https
 clothes,Grain de Malice,Q66757157,fermé,,,https://www.graindemalice.fr,
 computer,LDLC,Q3117461,partiel,,,https://www.lesechos.fr/pme-regions/auvergne-rhone-alpes/electronique-tres-sollicite-ldlc-organise-le-service-minimum-en-boutique-1186558#xtor=RSS-147,https://www.ldlc.com/magasins-ldlc/
 doityourself,Brico,Q2510786,fermé,,,https://www.brico.be/fr/makers/t/covid-19-faq-fr,
-doityourself,Brico Dépôt,Q2889702,partiel,Mo-Sa 08:00-15:00,"Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/,
+doityourself,Brico Dépôt,Q2889702,ouvert_adapté,Mo-Sa 08:00-15:00,"Récupération de commandes uniquement, sans contact",https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
 doityourself,Brico Pro,,partiel,,,https://www.bricopro.fr/,
 doityourself,Bricoman,Q2925142,ouvert_adapté,,Drive uniquement,https://www.bricoman.fr/,https://www.bricoman.fr/drive
 doityourself,Bricomarché,Q2925147,partiel,,Retrait click & collect uniquement,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact
@@ -72,7 +72,7 @@ doityourself,Castorama,Q966971,ouvert_adapté,,,https://www.castorama.fr/,https:
 doityourself,Chausson Matériaux,,partiel,,,https://www.chausson-materiaux.fr/,https://www.chausson-materiaux.fr/Liste_Agences_Chausson_Materiaux_ouvertes_Lundi_23_Mars_2020.pdf
 doityourself,Gedimat,,partiel,,,https://www.gedimat.fr/,
 doityourself,Lapeyre,Q3117467,fermé,,,https://www.facebook.com/Lapeyre/,
-doityourself,Leroy Merlin,Q889624,partiel,,Uniquement retrait ou livraison des produits de première nécessité. Cours des matériaux éventuellement accessible sur réservation.,https://www.leroymerlin.fr/services/service-client/vos-magasins-rouvrent-cour-des-materiaux-sur-rendez-vous.html,https://www.leroymerlin.fr/faq.html?question=88526-covid-19-ouverture-cour-materiaux-l-exterieur-magasins-rendez-vous
+doityourself,Leroy Merlin,Q889624,partiel,,Réouverture progressive du libre-service en magasin,https://www.leroymerlin.fr/services/nos-services-en-magasin-pendant-confinement/vos-magasins-rouvrent-progressivement-en-libre-service.html,https://www.leroymerlin.fr/magasins/trouver-magasin/#
 doityourself,Mr Bricolage,Q3141657,partiel,,,https://www.mr-bricolage.fr/covid-19-informations-magasins-c.html,https://www.mr-bricolage.fr/media/com/Liste%20Magasins_COVID_19.pdf
 doityourself,Point P,Q62973104,fermé,,Ouvert uniquement aux clients pros,https://www.pointp.fr/informations-covid-19,
 doityourself,Queguiner Matériaux,Q3414861,ouvert_adapté,,Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
