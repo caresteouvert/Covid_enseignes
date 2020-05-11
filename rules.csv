@@ -756,6 +756,11 @@ FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.
 FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,open,,,,https://www.amplifon.com/fr/information-covid19,
 FR,hearing_aids,Audika,Q2870745,open_adapted,,,,https://www.audika.fr/landing-page/audika-plus-vous,
+FR,hairdresser,Fabio Salsa,,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.fabiosalsa.com/onvaprendresoindevous/,https://reservations.fabiosalsa.com/reservation/area
+FR,hairdresser,Franck Provost,Q62805922,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.franckprovost.com/actu-salon/onvaprendresoindevous/,https://reservations.franckprovost.com/reservation/area
+FR,hairdresser,Jean Louis David,Q64445174,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.jeanlouisdavid.com/article/-onvaprendresoindevous_a7447/1,https://reservations.jeanlouisdavid.com/reservation/area
+FR,hairdresser,Saint Algue,Q62973210,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.saint-algue.com/jesuiscoiffeurresponsable/,https://reservations.saint-algue.com/reservation/area
+FR,hairdresser,The Barber Company,,open,,,La prise de rendez-vous en ligne est conseillée.,https://thebarbercompany.fr/news/onvaprendresoindevous/,https://salons.thebarbercompany.fr/fr/barbier/
 FR,hotel,B&B Hôtel,Q794939,open_adapted,,,Petit-déjeuner à emporter,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
 FR,hotel,Formule 1,Q1630895,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
 FR,hotel,Ibis,Q920166,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
