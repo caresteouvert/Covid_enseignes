@@ -32,7 +32,21 @@ AT,supermarket,Merkur,Q1921857,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,,
 AT,supermarket,MPREIS,Q873491,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,,https://www.mpreis.at/informationen-zur-aktuellen-lage,https://www.mpreis.at/sp/standorte
 AT,supermarket,Penny,Q284688,open_adapted,Mo-Fr 07:40-19:00; Sa 07:40-18:00,,,https://www.penny.at/campaigns/gemeinsamschaffenwirdas,https://www.penny.at/my-stores
 AT,supermarket,Spar,Q610492,open,,,,https://presse.spar.at/news-spar-maerkte-haben-geoeffnet-lebensmittel-werden-laufend-nachgeliefert?id=103272&menueid=21125&l=deutsch,https://www.spar.at/standorte
+BR,bank,Banco do Brasil,Q610817,open_adapted,Mo-Fr 10:00-14:00,,,https://bb.com.br/,
+BR,bank,Banco Itaú,Q1424293,open_adapted,"Mo-Fr 09:00-10:00 open ""aposentados e beneficiários do INSS"" || Mo-Fr 10:00-14:00 open ""público geral""",,,https://www.itau.com.br/,
+BR,bank,Banco Santander,Q2882087,open_adapted,"Mo-Fr 09:00-10:00 open ""idosos, gestantes e PCD"" || Mo-Fr 10:00-14:00 open ""público geral""",,Algumas agências podem estar fechadas,https://www.santander.com.br/,https://www.santander.com.br/novos-horarios-funcionamento-agencias
+BR,bank,Caixa Econômica Federal,Q835283,open_adapted,"Mo-Fr 08:00-14:00 open ""serviços essenciais""",,,http://www.caixa.gov.br/,http://www.caixa.gov.br/atendimento/Paginas/default.aspx
+BR,fast_food,Bob's,Q1392113,partial,,,,https://www.bobs.com.br/,
+BR,fast_food,Burger King,Q177054,partial,,,,http://www.burgerking.com.br/coronavirus,
+BR,fast_food,McDonald's,Q38076,partial,,,,https://www.mcdonalds.com.br/novidades/medidasmcd,
+BR,fast_food,Subway,Q244457,partial,,,,https://www.subway.com/pt-BR/AboutUs/SocialResponsibility/covid19,
 BR,pharmacy,Drogaria Araujo,Q10268807,open,,,Algumas lojas abrem e fecham mais cedo (6h/22h) e algumas são 24h,https://www.araujo.com.br/lojas,
+BR,pharmacy,Drogasil,Q5308185,open,,,,https://www.drogasil.com.br/nossas-lojas/,
+BR,pharmacy,Pague Menos,Q7124466,open,,,,https://institucional.paguemenos.com.br/lojas,
+BR,retail,Lojas Americanas,Q3064093,partial,,,,https://www.americanas.com.br/encontre-uma-loja,
+BR,supermarket,Carrefour,Q217599,open,,,,https://www.carrefour.com.br/localizador-de-lojas,
+BR,supermarket,Super Muffato,Q10374879,open,,,,https://www.supermuffato.com.br/lojas-fisicas,
+BR,supermarket,Verdemar,Q10375044,open_adapted,"Su-Mo 08:00-21:00 || Su-Mo 07:00-21:00 open ""idosos"" || Mo-Sa 07:00-21:00 open ""São Pedro e Diamond Mall""; Su 08:00-21:00 ""São Pedro e Diamond Mall"" || Mo-Sa 06:00-07:00 open ""São Pedro e Diamond Mall (idosos)""; Su 07:00-08:00 ""São Pedro e Diamond Mall (idosos)""",,,https://www.superverdemar.com.br/,https://todosjuntosverdemar.com.br/
 CH,bakery,Brezelkönig,,open,,,,,https://brezelkoenig.ch/de/standorte/?Format=11
 CH,bakery,Frei,,open,,,,https://www.baeckerei-frei.ch,https://www.baeckerei-frei.ch/de-ch/filialen-standorte-cafe.html
 CH,bakery,Hausammann Zopfbeck,,open,,,,http://www.zopfbeck.ch/,http://www.zopfbeck.ch/
