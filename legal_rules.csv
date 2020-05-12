@@ -35,6 +35,17 @@ BR,BR-MG,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" 
 BR,BR-MG,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
 BR,BR-MG,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
 BR,BR-MG,vehicle,"[ { ""shop"": ""car_parts|car_repair|car"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-PI,default,,2020-03-20,,closed,,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
+BR,BR-PI,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-20,,"only:delivery,takeaway,drive_through",,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
+BR,BR-PI,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-20,,only:housing,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,pet,"[ { ""shop"": ""pet"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,vehicle,"[ { ""shop"": ""car_parts|car_repair|tyres"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
 CD,,default,,2020-03-19,2020-04-24,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
 CD,,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",2020-03-19,,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
 CD,,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-19,,"only:delivery,takeaway,drive_through",,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
