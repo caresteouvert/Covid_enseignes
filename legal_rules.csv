@@ -27,6 +27,14 @@ AT,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]"
 AT,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
 AT,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
 AT,,default,,2020-04-14,,open,,
+BR,BR-ES,default,,2020-03-17,,closed,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-16,,"only:delivery,takeaway,drive_through",,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-16,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-21,,open,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-21,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,pet,"[ { ""shop"": ""pet"" } ]",2020-03-21,,open,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-21,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-04-11,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
 BR,BR-MG,default,,2020-04-28,,closed,,https://www.mg.gov.br/minasconsciente/
 BR,BR-MG,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
 BR,BR-MG,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
@@ -37,6 +45,16 @@ BR,BR-MG,pet,"[ { ""shop"": ""pet"" } ]",2020-04-28,,open,,https://www.mg.gov.br
 BR,BR-MG,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
 BR,BR-MG,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
 BR,BR-MG,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-PR,default,,2020-03-23,,closed,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-23,,"only:delivery,takeaway,drive_through",,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,pet,"[ { ""shop"": ""pet"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
 BR,BR-RJ,default,,2020-03-17,,closed,,https://coronavirus.rj.gov.br/decretos/
 BR,BR-RJ,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-17,,"only:delivery,takeaway,drive_through",,https://coronavirus.rj.gov.br/decretos/empresarios
 BR,BR-RJ,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
@@ -47,6 +65,15 @@ BR,BR-RJ,pet,"[ { ""shop"": ""pet"" } ]",2020-03-17,,open,,https://coronavirus.r
 BR,BR-RJ,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
 BR,BR-RJ,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
 BR,BR-RJ,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-SC,default,,2020-04-17,,closed,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-17,,"only:delivery,takeaway,drive_through",,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,pet,"[ { ""shop"": ""pet"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
 BR,BR-SP,default,,2020-03-22,,closed,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
 BR,BR-SP,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",2020-03-22,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
 BR,BR-SP,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-22,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
