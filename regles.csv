@@ -27,6 +27,8 @@ bank,La Banque Postale,Q3206431,ouvert_adapté,,,https://www.labanquepostale.fr/
 bank,LCL,Q779722,ouvert_adapté,,Préférer les échanges à distance,https://www.lcl.fr/vous-ne-pouvez-pas-vous-deplacer,
 bank,Société Générale,Q270363,partiel,,"Ouvert le matin sur rendez-vous, l’après-midi contact uniquement par téléphone",https://particuliers.societegenerale.fr/articles-actualites/covid-19,
 bank,Société Marseillaise de Crédit,Q3488479,ouvert,,,https://www.smc.fr/icd/static/wem/agora/smc/medias/20200319_CP_SMCmesuresCovid19.pdf,
+beauty,Marionnaud,Q1129073,ouvert,,,https://www.marionnaud.fr/covid-mesures-reouvertures-magasins,
+beauty,Yves Rocher,Q28496595,ouvert_adapté,,,https://www.yves-rocher.fr/,
 cafe,Columbus Café & Co,Q90406058,partiel,,,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
 cafe,Starbucks,Q37158,fermé,,,https://www.starbucks.fr/,
 car_rental,Ada,Q57313774,ouvert,,,https://www.ada.fr/,
@@ -57,10 +59,19 @@ car_repair,Renault,Q6686,ouvert_adapté,,,https://www.renault.fr/,
 car_repair,Garage Renault,Q6686,ouvert_adapté,,,https://www.renault.fr/,
 car_repair,Roady,Q3434112,ouvert,,,https://www.roady.fr/,
 car_repair,Speedy,Q3492969,ouvert_adapté,,,https://www.speedy.fr/,
+car_repair,Volkswagen,Q246,ouvert,,,https://www.volkswagen.fr/fr/specials/covid-19-informations-clients.html,
 car_repair,Vulco,Q80184403,ouvert,,,https://www.facebook.com/vulcofrance/,
 chocolate,Jeff de Bruges,Q3176626,partiel,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
 chocolate,Leonidas,Q80335,ouvert_adapté,,,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
+clothes,Cache Cache,Q63064086,ouvert_adapté,,,https://www.cache-cache.fr/faq-ouverture-magasins-l,https://www.cache-cache.fr/magasins
+clothes,Camaïeu,Q2934647,ouvert,,,https://www.camaieu.fr/content/la-marque/nos-actualites/articles,
+clothes,Celio,Q2672003,ouvert,,,https://www.facebook.com/celiofrance/posts/3261295267236173,
+clothes,Etam,Q3059202,ouvert_adapté,,,https://www.etam.com/,
+clothes,Gémo,Q3122954,ouvert,,,https://www.gemo.fr/,
 clothes,Grain de Malice,Q66757157,ouvert,,,https://www.graindemalice.fr,
+clothes,Jules,Q3188386,ouvert,,,,https://www.jules.com/fr-fr/recherche-magasins/
+clothes,Kiabi,Q3196299,ouvert_adapté,,Certains services non disponibles en magasin,https://www.kiabi.com/services/ensemble-en-securite.html,
+clothes,Sergent Major,Q62521738,ouvert_adapté,,,https://www.sergent-major.com/,
 computer,LDLC,Q3117461,partiel,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
 doityourself,Brico,Q2510786,ouvert,,,https://www.brico.be/fr,
 doityourself,Brico Dépôt,Q2889702,ouvert_adapté,,,https://www.bricodepot.fr/catalogue/ouverture-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
@@ -117,17 +128,19 @@ fuel,Total Access,Q154037,ouvert,,,https://www.total.fr/actus/nos-actualites/Cov
 funeral_directors,PFG,Q3396087,ouvert,,Appeler avant de se déplacer,,
 funeral_directors,Roblot,Q63247414,ouvert,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.roblot.fr/,
 funeral_directors,Roc-Eclerc,Q62558102,ouvert,,,https://www.groupe-roc-eclerc.com/groupe/magazine/actualites/roc-eclerc-se-mobilise-contre-le-virus-covid-19/,
+furniture,Centrakor,Q64079345,ouvert,,,https://www.centrakor.com/,
 garden_centre,Gamm Vert,Q3095006,ouvert,,,https://www.gammvert.fr/faq/details/commandes-COVID-19,https://magasin.gammvert.fr/
 garden_centre,Jardiland,Q3162276,ouvert,,,,
 garden_centre,Point Vert,Q16661975,partiel,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
+garden_centre,Truffaut,Q3162640,ouvert,,,https://www.truffaut.com/information-actualite,
+hearing_aids,Amplifon,Q477222,ouvert,,,https://www.amplifon.com/fr/information-covid19,
+hearing_aids,Audika,Q2870745,ouvert_adapté,,,https://www.audika.fr/landing-page/audika-plus-vous,
 hairdresser,Fabio Salsa,,ouvert,,La prise de rendez-vous en ligne est conseillée.,https://www.fabiosalsa.com/onvaprendresoindevous/,https://reservations.fabiosalsa.com/reservation/area
 hairdresser,Franck Provost,Q62805922,ouvert,,La prise de rendez-vous en ligne est conseillée.,https://www.franckprovost.com/actu-salon/onvaprendresoindevous/,https://reservations.franckprovost.com/reservation/area
 hairdresser,Jean Louis David,Q64445174,ouvert,,La prise de rendez-vous en ligne est conseillée.,https://www.jeanlouisdavid.com/article/-onvaprendresoindevous_a7447/1,https://reservations.jeanlouisdavid.com/reservation/area
 hairdresser,Saint Algue,Q62973210,ouvert,,La prise de rendez-vous en ligne est conseillée.,https://www.saint-algue.com/jesuiscoiffeurresponsable/,https://reservations.saint-algue.com/reservation/area
+hairdresser,Tchip Coiffure,Q62871250,ouvert,,,https://www.tchip.fr/,
 hairdresser,The Barber Company,,ouvert,,La prise de rendez-vous en ligne est conseillée.,https://thebarbercompany.fr/news/onvaprendresoindevous/,https://salons.thebarbercompany.fr/fr/barbier/
-garden_centre,Truffaut,Q3162640,ouvert,,,https://www.truffaut.com/information-actualite,
-hearing_aids,Amplifon,Q477222,ouvert,,,https://www.amplifon.com/fr/information-covid19,
-hearing_aids,Audika,Q2870745,ouvert_adapté,,,https://www.audika.fr/landing-page/audika-plus-vous,
 hotel,B&B Hôtel,Q794939,ouvert_adapté,,Petit-déjeuner à emporter,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
 hotel,Formule 1,Q1630895,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
 hotel,Ibis,Q920166,ouvert_adapté,,,https://all.accor.com/event/information.fr.shtml,
@@ -197,8 +210,10 @@ restaurant,Pret A Manger,Q2109109,partiel,,,https://www.pretamanger.fr/fr-fr/?co
 restaurant,Ristorante Del Arte,Q3389499,ouvert_adapté,,,https://www.delarte.fr/information-restaurants,
 restaurant,Sushi Shop,Q3505657,ouvert_adapté,,,https://www.sushishop.fr/,
 restaurant,Tablapizza,,fermé,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
+shoes,Besson Chaussures,Q2899930,ouvert,,,https://www.besson-chaussures.com/blog/besson-chaussures-se-prepare-a-la-reouverture-de-ses-magasins,
 shoes,Éram,Q16684192,ouvert_adapté,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr/faq-covid-19-2/,
 sports,Decathlon,Q509349,ouvert_adapté,,,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins
+sports,Intersport,Q666888,ouvert,,,https://twitter.com/Intersport_FR/status/1260212475204640769,https://www.intersport.fr/store-finder/
 stationery,Bureau Vallée,Q18385014,ouvert,,,https://www.bureau-vallee.fr/,
 stationery,Office Dépôt,Q1337797,ouvert_adapté,,,https://www.officedepot.fr/,https://www.officedepot.fr/specialLinksNoChat.do?file=/magasins-ouverts.jsp
 stationery,Top Office,Q24929304,partiel,,,https://www.top-office.com/informations-de-livraison.html,

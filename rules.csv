@@ -674,6 +674,8 @@ FR,bank,La Banque Postale,Q3206431,open_adapted,,,,https://www.labanquepostale.f
 FR,bank,LCL,Q779722,open_adapted,,,Préférer les échanges à distance,https://www.lcl.fr/vous-ne-pouvez-pas-vous-deplacer,
 FR,bank,Société Générale,Q270363,partial,,,"Ouvert le matin sur rendez-vous, l’après-midi contact uniquement par téléphone",https://particuliers.societegenerale.fr/articles-actualites/covid-19,
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,,https://www.smc.fr/icd/static/wem/agora/smc/medias/20200319_CP_SMCmesuresCovid19.pdf,
+FR,beauty,Marionnaud,Q1129073,open,,,,https://www.marionnaud.fr/covid-mesures-reouvertures-magasins,
+FR,beauty,Yves Rocher,Q28496595,open_adapted,,,,https://www.yves-rocher.fr/,
 FR,cafe,Columbus Café & Co,Q90406058,partial,,,,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
 FR,cafe,Starbucks,Q37158,closed,,,,https://www.starbucks.fr/,
 FR,car_rental,Ada,Q57313774,open,,,,https://www.ada.fr/,
@@ -704,10 +706,19 @@ FR,car_repair,Renault,Q6686,open_adapted,,,,https://www.renault.fr/,
 FR,car_repair,Garage Renault,Q6686,open_adapted,,,,https://www.renault.fr/,
 FR,car_repair,Roady,Q3434112,open,,,,https://www.roady.fr/,
 FR,car_repair,Speedy,Q3492969,open_adapted,,,,https://www.speedy.fr/,
+FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covid-19-informations-clients.html,
 FR,car_repair,Vulco,Q80184403,open,,,,https://www.facebook.com/vulcofrance/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
 FR,chocolate,Leonidas,Q80335,open_adapted,,,,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
+FR,clothes,Cache Cache,Q63064086,open_adapted,,,,https://www.cache-cache.fr/faq-ouverture-magasins-l,https://www.cache-cache.fr/magasins
+FR,clothes,Camaïeu,Q2934647,open,,,,https://www.camaieu.fr/content/la-marque/nos-actualites/articles,
+FR,clothes,Celio,Q2672003,open,,,,https://www.facebook.com/celiofrance/posts/3261295267236173,
+FR,clothes,Etam,Q3059202,open_adapted,,,,https://www.etam.com/,
+FR,clothes,Gémo,Q3122954,open,,"{ ""drive_through:covid19"": ""yes"" }",,https://www.gemo.fr/,
 FR,clothes,Grain de Malice,Q66757157,open,,,,https://www.graindemalice.fr,
+FR,clothes,Jules,Q3188386,open,,,,,https://www.jules.com/fr-fr/recherche-magasins/
+FR,clothes,Kiabi,Q3196299,open_adapted,,"{ ""safety:covid19"": ""mask"" }",Certains services non disponibles en magasin,https://www.kiabi.com/services/ensemble-en-securite.html,
+FR,clothes,Sergent Major,Q62521738,open_adapted,,,,https://www.sergent-major.com/,
 FR,computer,LDLC,Q3117461,partial,,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
 FR,doityourself,Brico,Q2510786,open,,,,https://www.brico.be/fr,
 FR,doityourself,Brico Dépôt,Q2889702,open_adapted,,,,https://www.bricodepot.fr/catalogue/ouverture-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
@@ -764,6 +775,7 @@ FR,fuel,Total Access,Q154037,open,,,,https://www.total.fr/actus/nos-actualites/C
 FR,funeral_directors,PFG,Q3396087,open,,,Appeler avant de se déplacer,,
 FR,funeral_directors,Roblot,Q63247414,open,,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.roblot.fr/,
 FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.com/groupe/magazine/actualites/roc-eclerc-se-mobilise-contre-le-virus-covid-19/,
+FR,furniture,Centrakor,Q64079345,open,,,,https://www.centrakor.com/,
 FR,garden_centre,Gamm Vert,Q3095006,open,,,,https://www.gammvert.fr/faq/details/commandes-COVID-19,https://magasin.gammvert.fr/
 FR,garden_centre,Jardiland,Q3162276,open,,,,,
 FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
@@ -774,6 +786,7 @@ FR,hairdresser,Fabio Salsa,,open,,,La prise de rendez-vous en ligne est conseill
 FR,hairdresser,Franck Provost,Q62805922,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.franckprovost.com/actu-salon/onvaprendresoindevous/,https://reservations.franckprovost.com/reservation/area
 FR,hairdresser,Jean Louis David,Q64445174,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.jeanlouisdavid.com/article/-onvaprendresoindevous_a7447/1,https://reservations.jeanlouisdavid.com/reservation/area
 FR,hairdresser,Saint Algue,Q62973210,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.saint-algue.com/jesuiscoiffeurresponsable/,https://reservations.saint-algue.com/reservation/area
+FR,hairdresser,Tchip Coiffure,Q62871250,open,,,,https://www.tchip.fr/,
 FR,hairdresser,The Barber Company,,open,,,La prise de rendez-vous en ligne est conseillée.,https://thebarbercompany.fr/news/onvaprendresoindevous/,https://salons.thebarbercompany.fr/fr/barbier/
 FR,hotel,B&B Hôtel,Q794939,open_adapted,,,Petit-déjeuner à emporter,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
 FR,hotel,Formule 1,Q1630895,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
@@ -844,8 +857,10 @@ FR,restaurant,Pret A Manger,Q2109109,partial,,"{ ""takeaway:covid19"": ""yes"", 
 FR,restaurant,Ristorante Del Arte,Q3389499,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.delarte.fr/information-restaurants,
 FR,restaurant,Sushi Shop,Q3505657,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.sushishop.fr/,
 FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
+FR,shoes,Besson Chaussures,Q2899930,open,,,,https://www.besson-chaussures.com/blog/besson-chaussures-se-prepare-a-la-reouverture-de-ses-magasins,
 FR,shoes,Éram,Q16684192,open_adapted,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr/faq-covid-19-2/,
 FR,sports,Decathlon,Q509349,open_adapted,,,,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins
+FR,sports,Intersport,Q666888,open,,,,https://twitter.com/Intersport_FR/status/1260212475204640769,https://www.intersport.fr/store-finder/
 FR,stationery,Bureau Vallée,Q18385014,open,,,,https://www.bureau-vallee.fr/,
 FR,stationery,Office Dépôt,Q1337797,open_adapted,,"{ ""capacity:covid19"": 3 }",,https://www.officedepot.fr/,https://www.officedepot.fr/specialLinksNoChat.do?file=/magasins-ouverts.jsp
 FR,stationery,Top Office,Q24929304,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,
