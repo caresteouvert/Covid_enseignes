@@ -646,7 +646,7 @@ FI,supermarket,R-kioski,Q1571400,open_adapted,,,,https://www.r-kioski.fi/kioskit
 FI,supermarket,S-market,Q11891613,open,,,,https://www.s-kanava.fi/web/smarkethokelanto,https://www.s-kanava.fi/web/smarkethokelanto/etusivu#myymalat
 FI,supermarket,Sale,Q11892046,open,,,,https://www.foodie.fi/,https://www.foodie.fi/store
 FI,supermarket,Tokmanni,Q13423470,open,,,,https://www.tokmanni.fi/,https://www.tokmanni.fi/stores
-FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr/reouverture-de-quelques-magasins-nicolas.html
+FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr
 FR,bakery,Boulangerie Louise,,open_adapted,Mo-Sa 08:00-18:00,,,https://www.boulangerielouise.com/,
 FR,bakery,Brioche Dorée,Q2925606,partial,,"{ ""delivery:covid19"": ""yes"" }",,https://www.briochedoree.fr/,
 FR,bakery,Fischer,,open_adapted,,,,https://lu.fischer1913.com/fr/actualites,https://lu.fischer1913.com/fr/boulangeries/nos-points-de-vente
