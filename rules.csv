@@ -822,7 +822,7 @@ FR,mobile_phone,Bouygues Télécom,Q581438,open,,,,https://www.bouyguestelecom.f
 FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/magasins/,
 FR,mobile_phone,Free,Q2467627,partial,,,,https://www.free.fr/boutiques,https://www.free.fr/boutiques
 FR,mobile_phone,Orange,Q1431486,partial,,,,https://boutique.orange.fr/informations/covid-19/,
-FR,mobile_phone,SFR,Q218765,open,,,,,https://boutique.sfr.fr/
+FR,mobile_phone,SFR,Q218765,open,,"{ ""safety:covid19"": ""mask"" }",,https://boutique.sfr.fr/,https://boutique.sfr.fr/
 FR,optician,Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
 FR,optician,Alain Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
 FR,optician,Atol,Q2869542,open_adapted,,,Sur rendez-vous,https://www.opticiens-atol.com/comment-prendre-rdv,
@@ -859,7 +859,7 @@ FR,restaurant,Sushi Shop,Q3505657,open_adapted,,"{ ""takeaway:covid19"": ""yes""
 FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
 FR,shoes,Besson Chaussures,Q2899930,open,,,,https://www.besson-chaussures.com/blog/besson-chaussures-se-prepare-a-la-reouverture-de-ses-magasins,
 FR,shoes,Éram,Q16684192,open_adapted,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr/faq-covid-19-2/,
-FR,sports,Decathlon,Q509349,open_adapted,,,,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins
+FR,sports,Decathlon,Q509349,open_adapted,,"{ ""safety:covid19"": ""mask"" }",,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins
 FR,sports,Intersport,Q666888,open,,,,https://twitter.com/Intersport_FR/status/1260212475204640769,https://www.intersport.fr/store-finder/
 FR,stationery,Bureau Vallée,Q18385014,open,,,,https://www.bureau-vallee.fr/,
 FR,stationery,Office Dépôt,Q1337797,open_adapted,,"{ ""capacity:covid19"": 3 }",,https://www.officedepot.fr/,https://www.officedepot.fr/specialLinksNoChat.do?file=/magasins-ouverts.jsp

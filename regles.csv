@@ -1,5 +1,5 @@
 categorie,nom_enseigne,id_wikidata,regle_ouverture,horaires,infos,url_source,url_horaires
-alcohol,Nicolas,Q3340012,partiel,,,https://www.nicolas.com/,https://www.nicolas.com/fr/reouverture-de-quelques-magasins-nicolas.html
+alcohol,Nicolas,Q3340012,partiel,,,https://www.nicolas.com/,https://www.nicolas.com/fr
 bakery,Boulangerie Louise,,ouvert_adapté,Mo-Sa 08:00-18:00,,https://www.boulangerielouise.com/,
 bakery,Brioche Dorée,Q2925606,partiel,,,https://www.briochedoree.fr/,
 bakery,Fischer,,ouvert_adapté,,,https://lu.fischer1913.com/fr/actualites,https://lu.fischer1913.com/fr/boulangeries/nos-points-de-vente
@@ -175,7 +175,7 @@ mobile_phone,Bouygues Télécom,Q581438,ouvert,,,https://www.bouyguestelecom.fr/
 mobile_phone,Coriolis Télécom,Q2997375,partiel,,,http://www.coriolis.com/magasins/,
 mobile_phone,Free,Q2467627,partiel,,,https://www.free.fr/boutiques,https://www.free.fr/boutiques
 mobile_phone,Orange,Q1431486,partiel,,,https://boutique.orange.fr/informations/covid-19/,
-mobile_phone,SFR,Q218765,ouvert,,,,https://boutique.sfr.fr/
+mobile_phone,SFR,Q218765,ouvert,,,https://boutique.sfr.fr/,https://boutique.sfr.fr/
 optician,Afflelou,Q2829511,ouvert_adapté,,Prendre rendez-vous,https://www.afflelou.com/,
 optician,Alain Afflelou,Q2829511,ouvert_adapté,,Prendre rendez-vous,https://www.afflelou.com/,
 optician,Atol,Q2869542,ouvert_adapté,,Sur rendez-vous,https://www.opticiens-atol.com/comment-prendre-rdv,
