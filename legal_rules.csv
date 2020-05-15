@@ -1,249 +1,286 @@
 country,country_subarea,category,category_osm,start_date,end_date,legal_state,details,source_url
-AT,,default,,2020-03-16,2020-04-13,closed,,https://orf.at/stories/3157719/
-AT,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,chemist,"[ { ""shop"": ""chemist"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,computer,"[ { ""shop"": ""computer"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-16,2020-04-13,only:housing,,https://orf.at/stories/3157719/
-AT,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-16,2020-04-13,"only:delivery,takeaway,drive_through",,https://orf.at/stories/3157719/
-AT,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-16,2020-04-13,open,,https://orf.at/stories/3157719/
-AT,,default,,2020-04-14,,open,,
-BR,BR-ES,default,,2020-03-17,,closed,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-16,,"only:delivery,takeaway,drive_through",,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-16,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-21,,open,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-21,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,pet,"[ { ""shop"": ""pet"" } ]",2020-03-21,,open,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-21,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
-BR,BR-ES,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-04-11,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
-BR,BR-MG,default,,2020-04-28,,closed,,https://www.mg.gov.br/minasconsciente/
-BR,BR-MG,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-04-28,,open,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,pet,"[ { ""shop"": ""pet"" } ]",2020-04-28,,open,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-MG,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-04-28,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
-BR,BR-PR,default,,2020-03-23,,closed,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-23,,"only:delivery,takeaway,drive_through",,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,pet,"[ { ""shop"": ""pet"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-PR,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-03-23,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
-BR,BR-RJ,default,,2020-03-17,,closed,,https://coronavirus.rj.gov.br/decretos/
-BR,BR-RJ,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-17,,"only:delivery,takeaway,drive_through",,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-17,,open,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,pet,"[ { ""shop"": ""pet"" } ]",2020-03-17,,open,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-RJ,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-03-17,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
-BR,BR-SC,default,,2020-04-17,,closed,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-17,,"only:delivery,takeaway,drive_through",,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,pet,"[ { ""shop"": ""pet"" } ]",2020-04-17,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SC,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-04-17,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
-BR,BR-SP,default,,2020-03-22,,closed,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",2020-03-22,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-22,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-22,,only:housing,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,pet,"[ { ""shop"": ""pet"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-SP,vehicle,"[ { ""shop"": ""car_parts|car_repair|car"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",2020-03-22,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
-BR,BR-PI,default,,2020-03-20,,closed,,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
-BR,BR-PI,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-20,,"only:delivery,takeaway,drive_through",,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
-BR,BR-PI,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-20,,only:housing,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,pet,"[ { ""shop"": ""pet"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-BR,BR-PI,vehicle,"[ { ""shop"": ""car_parts|car_repair|tyres"" } ]",2020-03-20,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
-CD,,default,,2020-03-19,2020-04-24,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
-CD,,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",2020-03-19,,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
-CD,,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-03-19,,"only:delivery,takeaway,drive_through",,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
-CD,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-05-24,,open,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-06-04,,open,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,CD-admin7_Gombe,clothes,"[ { ""shop"": ""clothes"" } ]",2020-04-06,2020-05-10,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,CD-admin7_Gombe,computer,"[ { ""shop"": ""computer"" } ]",2020-04-06,2020-05-10,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,CD-admin7_Gombe,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",2020-04-06,2020-05-10,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,CD-admin7_Gombe,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",2020-04-06,2020-05-10,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CD,CD-admin7_Gombe,shoes,"[ { ""shop"": ""shoes"" } ]",2020-04-06,2020-05-10,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
-CH,,default,,2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,camping,"[ { ""tourism"": ""campsite|caravan_site"" } ]",2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,electronics,"[ { ""shop"": ""computer|electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",2020-03-16,2020-04-27,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,flower,"[ { ""shop"": ""garden_center|florist"" } ]",2020-03-16,2020-04-27,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,furniture,"[ { ""shop"": ""furniture"" } ]",2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,hairdresser,"[ { ""shop"": ""hairdresser"" } ]",2020-03-16,2020-04-27,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",2020-03-16,2020-04-27,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,museum,"[ { ""tourism"": ""museum|gallery"" } ]",2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,public_service,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-16,2020-05-10,"only:delivery,takeaway,drive_through",,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-16,2020-05-10,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-CH,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-16,2020-05-10,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
-DE,,default,,2020-03-16,2020-04-13,closed,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,chemist,"[ { ""shop"": ""chemist"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,computer,"[ { ""shop"": ""computer"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",2020-03-16,2020-04-13,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,florist,"[ { ""shop"": ""florist"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,DE-MV,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",2020-03-23,2020-04-13,closed,,https://www.regierung-mv.de/service/Corona-FAQs/
-DE,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-16,2020-04-13,only:housing,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-16,2020-04-13,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-16,2020-04-13,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,default,,2020-04-14,,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel"" } ]",2020-04-14,,only:housing,,https://www.bundesregierung.de/breg-de/themen/coronavirus
-DE,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-04-14,,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
-FI,,default,,2020-03-16,,open,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",2020-04-04,2020-05-31,"only:delivery,takeaway,drive_through",,https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",2020-04-04,2020-05-31,"only:delivery,takeaway,drive_through",,https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",2020-03-16,,closed,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,museum,"[ { ""tourism"": ""museum|gallery"" } ]",2020-03-16,,closed,"Mandatory for public operators, recommended for private operators",https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,sports_centre,"[ { ""leisure"": ""sports_centre|fitness_centre"" } ]",2020-03-16,,closed,"Mandatory for public operators, recommended for private operators",https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FI,,theatre,"[ { ""amenity"": ""theatre|arts_centre"" } ]",2020-03-16,,closed,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
-FR,,default,,2020-03-17,2020-05-10,closed,,https://www.gouvernement.fr/info-coronavirus
-FR,,default,,2020-05-11,,open,,
-FR,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,cemetery,"[{""landuse"":""cemetery""}]",2020-05-11,,open,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,cinema,"[{""amenity"":""cinema""}]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,community_centre,"[{""amenity"":""community_centre""}]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,computer,"[ { ""shop"": ""computer"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-17,2020-05-10,only:housing,,https://www.gouvernement.fr/info-coronavirus
-FR,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",2020-05-11,,open,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,mall,"[ { ""shop"": ""mall"" } ]",2020-05-11,,partial,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,museum,"[ { ""tourism"": ""museum"" } ]",2020-05-11,,only:small_capacity,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,park,"[ { ""leisure"": ""park"" } ]",2020-05-11,,partial,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,eat,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-17,2020-06-02,"only:delivery,takeaway,drive_through",,https://www.gouvernement.fr/info-coronavirus
-FR,,sports_centre,"[ { ""leisure"": ""sports_centre|fitness_centre"" } ]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,theatre,"[ { ""amenity"": ""theatre"" } ]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
-FR,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-FR,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
-IT,,default,,2020-03-09,,closed,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,computer,"[ { ""shop"": ""computer"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" }, { ""shop"": ""appliance""} ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery|electrical"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",2020-03-09,,closed,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-09,2020-04-26,"only:delivery,takeaway,drive_through",,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,herbalist,"[ { ""shop"": ""herbalist"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,printer_ink,"[ { ""shop"": ""printer_ink"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,child_clothes,"[ { ""shop"": ""clothes"", ""clothes"": ""babies|children"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,perfumery,"[ { ""shop"": ""perfumery"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,copyshop,"[ { ""shop"": ""copyshop"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,lighting,"[ { ""shop"": ""lighting"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,car_wash,"[ { ""amenity"": ""car_wash"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,chemist,"[ { ""shop"": ""chemist"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,stationery,"[ { ""shop"": ""stationery"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,books,"[ { ""shop"": ""books"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,flower,"[ { ""shop"": ""garden_center|florist"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
-IT,,photo,"[ { ""shop"": ""photo"" } ]",2020-03-09,2020-04-26,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+AT,,default,,16/03/2020,13/04/2020,closed,,https://orf.at/stories/3157719/
+AT,,agrarian,"[ { ""shop"": ""agrarian"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,chemist,"[ { ""shop"": ""chemist"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,computer,"[ { ""shop"": ""computer"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",16/03/2020,13/04/2020,only:housing,,https://orf.at/stories/3157719/
+AT,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,pet,"[ { ""shop"": ""pet"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",16/03/2020,13/04/2020,"only:delivery,takeaway,drive_through",,https://orf.at/stories/3157719/
+AT,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",16/03/2020,13/04/2020,open,,https://orf.at/stories/3157719/
+AT,,default,,14/04/2020,,open,,
+BR,BR-ES,default,,17/03/2020,,closed,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",16/04/2020,,"only:delivery,takeaway,drive_through",,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",16/04/2020,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",21/03/2020,,open,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",21/03/2020,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,pet,"[ { ""shop"": ""pet"" } ]",21/03/2020,,open,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",21/03/2020,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-ES,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",11/04/2020,,only:small_capacity,,https://coronavirus.es.gov.br/legislacao
+BR,BR-MG,default,,28/04/2020,,closed,,https://www.mg.gov.br/minasconsciente/
+BR,BR-MG,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",28/04/2020,,open,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,pet,"[ { ""shop"": ""pet"" } ]",28/04/2020,,open,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,post_office,"[ { ""amenity"": ""post_office"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-MG,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",28/04/2020,,only:small_capacity,,https://www.mg.gov.br/minasconsciente/empresarios
+BR,BR-PR,default,,23/03/2020,,closed,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",23/03/2020,,"only:delivery,takeaway,drive_through",,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,pet,"[ { ""shop"": ""pet"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,post_office,"[ { ""amenity"": ""post_office"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-PR,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",23/03/2020,,only:small_capacity,,http://www.aen.pr.gov.br/modules/noticias/article.php?storyid=106282
+BR,BR-RJ,default,,17/03/2020,,closed,,https://coronavirus.rj.gov.br/decretos/
+BR,BR-RJ,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",17/03/2020,,"only:delivery,takeaway,drive_through",,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",17/03/2020,,open,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,pet,"[ { ""shop"": ""pet"" } ]",17/03/2020,,open,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,post_office,"[ { ""amenity"": ""post_office"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-RJ,vehicle,"[ { ""shop"": ""car_parts|car_repair|car|tyres"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",17/03/2020,,only:small_capacity,,https://coronavirus.rj.gov.br/decretos/empresarios
+BR,BR-SC,default,,17/04/2020,,closed,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",17/04/2020,,"only:delivery,takeaway,drive_through",,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",17/04/2020,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",17/04/2020,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",17/04/2020,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",17/04/2020,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",17/04/2020,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,pet,"[ { ""shop"": ""pet"" } ]",17/04/2020,,open,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SC,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",17/04/2020,,only:small_capacity,,https://www.coronavirus.sc.gov.br/tiraduvidas/#restricao
+BR,BR-SP,default,,22/03/2020,,closed,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",22/03/2020,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",22/03/2020,,"only:delivery,takeaway,drive_through",,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",22/03/2020,,only:housing,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,pet,"[ { ""shop"": ""pet"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,post_office,"[ { ""amenity"": ""post_office"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-SP,vehicle,"[ { ""shop"": ""car_parts|car_repair|car"" }, { ""amenity"": ""vehicle_inspection"" }, { ""amenity"": ""car_rental"" } ]",22/03/2020,,open,,https://www.saopaulo.sp.gov.br/coronavirus/quarentena/
+BR,BR-PI,default,,20/03/2020,,closed,,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
+BR,BR-PI,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",20/03/2020,,"only:delivery,takeaway,drive_through",,https://www.pi.gov.br/wp-content/uploads/2020/03/DECRETO-N%C2%BA18901-4.pdf
+BR,BR-PI,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",20/03/2020,,only:housing,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,pet,"[ { ""shop"": ""pet"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,post_office,"[ { ""amenity"": ""post_office"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+BR,BR-PI,vehicle,"[ { ""shop"": ""car_parts|car_repair|tyres"" } ]",20/03/2020,,open,,https://www.pi.gov.br/wp-content/uploads/2020/03/IMG-20200323-WA0032.jpg
+CD,,default,,19/03/2020,24/04/2020,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
+CD,,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",19/03/2020,,closed,,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
+CD,,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",19/03/2020,,"only:delivery,takeaway,drive_through",,https://www.facebook.com/107142550625947/posts/209937837013084/?d=n
+CD,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",24/05/2020,,open,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",04/06/2020,,open,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,CD-admin7_Gombe,clothes,"[ { ""shop"": ""clothes"" } ]",06/04/2020,10/05/2020,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,CD-admin7_Gombe,computer,"[ { ""shop"": ""computer"" } ]",06/04/2020,10/05/2020,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,CD-admin7_Gombe,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",06/04/2020,10/05/2020,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,CD-admin7_Gombe,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",06/04/2020,10/05/2020,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CD,CD-admin7_Gombe,shoes,"[ { ""shop"": ""shoes"" } ]",06/04/2020,10/05/2020,closed,,https://information.tv5monde.com/afrique/virus-en-rdc-kinshasa-la-gombe-isoleee-les-vendeurs-de-rue-desoles-357416
+CH,,default,,16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,agrarian,"[ { ""shop"": ""agrarian"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,camping,"[ { ""tourism"": ""campsite|caravan_site"" } ]",16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,electronics,"[ { ""shop"": ""computer|electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",16/03/2020,27/04/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,flower,"[ { ""shop"": ""garden_center|florist"" } ]",16/03/2020,27/04/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,furniture,"[ { ""shop"": ""furniture"" } ]",16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,hairdresser,"[ { ""shop"": ""hairdresser"" } ]",16/03/2020,27/04/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",16/03/2020,27/04/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,museum,"[ { ""tourism"": ""museum|gallery"" } ]",16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,public_service,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",16/03/2020,10/05/2020,"only:delivery,takeaway,drive_through",,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",16/03/2020,10/05/2020,closed,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+CH,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",16/03/2020,10/05/2020,open,,https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html
+DE,,default,,16/03/2020,13/04/2020,closed,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,agrarian,"[ { ""shop"": ""agrarian"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,chemist,"[ { ""shop"": ""chemist"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,computer,"[ { ""shop"": ""computer"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",16/03/2020,13/04/2020,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,florist,"[ { ""shop"": ""florist"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,DE-MV,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",23/03/2020,13/04/2020,closed,,https://www.regierung-mv.de/service/Corona-FAQs/
+DE,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",16/03/2020,13/04/2020,only:housing,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,pet,"[ { ""shop"": ""pet"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",16/03/2020,13/04/2020,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",16/03/2020,13/04/2020,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,default,,14/04/2020,,open,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel"" } ]",14/04/2020,,only:housing,,https://www.bundesregierung.de/breg-de/themen/coronavirus
+DE,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",14/04/2020,,"only:delivery,takeaway,drive_through",,https://www.bundesregierung.de/breg-de/themen/coronavirus
+FI,,default,,16/03/2020,,open,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,bar,"[ { ""amenity"": ""bar|pub|biergarten"" } ]",04/04/2020,31/05/2020,"only:delivery,takeaway,drive_through",,https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,eat,"[ { ""amenity"": ""restaurant|fast_food|cafe|ice_cream"" } ]",04/04/2020,31/05/2020,"only:delivery,takeaway,drive_through",,https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",16/03/2020,,closed,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,museum,"[ { ""tourism"": ""museum|gallery"" } ]",16/03/2020,,closed,"Mandatory for public operators, recommended for private operators",https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,sports_centre,"[ { ""leisure"": ""sports_centre|fitness_centre"" } ]",16/03/2020,,closed,"Mandatory for public operators, recommended for private operators",https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FI,,theatre,"[ { ""amenity"": ""theatre|arts_centre"" } ]",16/03/2020,,closed,,https://valtioneuvosto.fi/tietoa-koronaviruksesta
+FR,,default,,17/03/2020,10/05/2020,closed,,https://www.gouvernement.fr/info-coronavirus
+FR,,default,,11/05/2020,,open,,
+FR,,agrarian,"[ { ""shop"": ""agrarian"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,cemetery,"[{""landuse"":""cemetery""}]",11/05/2020,,open,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,cinema,"[{""amenity"":""cinema""}]",11/05/2020,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,community_centre,"[{""amenity"":""community_centre""}]",11/05/2020,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,computer,"[ { ""shop"": ""computer"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",17/03/2020,10/05/2020,only:housing,,https://www.gouvernement.fr/info-coronavirus
+FR,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,library,"[ { ""amenity"": ""library|mobile_library"" } ]",11/05/2020,,open,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,mall,"[ { ""shop"": ""mall"" } ]",11/05/2020,,partial,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,museum,"[ { ""tourism"": ""museum"" } ]",11/05/2020,,only:small_capacity,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,park,"[ { ""leisure"": ""park"" } ]",11/05/2020,,partial,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,pet,"[ { ""shop"": ""pet"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,eat,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",17/03/2020,02/06/2020,"only:delivery,takeaway,drive_through",,https://www.gouvernement.fr/info-coronavirus
+FR,,sports_centre,"[ { ""leisure"": ""sports_centre|fitness_centre"" } ]",11/05/2020,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,theatre,"[ { ""amenity"": ""theatre"" } ]",11/05/2020,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+FR,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",17/03/2020,,open,,https://www.gouvernement.fr/info-coronavirus
+GB,GB-NIR,default,,28/03/2020,,closed,,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]
+",28/03/2020,,open,"food retailers, including food markets, supermarkets, convenience stores and corner shops",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",28/03/2020,,open,off licences and licensed shops selling alcohol (including breweries),https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,pharmacy,"[ { ""amenity"": ""pharmacy"" },  { ""shop"": ""chemist"" } ]",28/03/2020,,open,pharmacies (including non-dispensing pharmacies) and chemists,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",28/03/2020,,open,newsagents,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"hardware
+","[ { ""shop"": ""doityourself|hardware"" } ]",28/03/2020,,open,"homeware, building supplies and hardware stores",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",28/03/2020,,open,petrol stations,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",28/03/2020,,open,car repair and MOT services,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,vehicle,"[ { ""shop"": ""bicycle } ]",28/03/2020,,open,bicycle shops,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"car_rental
+","[ { ""amenity"": ""car_rental"" } ]
+",28/03/2020,,open,taxi or vehicle hire businesses,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,financial,"[ { ""amenity"": ""bank"" }, { ""shop"": ""money_lender"" } ]",28/03/2020,,open,"banks, building societies, credit unions, short term loan providers and cash points",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,post_office,"[ { ""amenity"": ""post_office"" } ]",28/03/2020,,open,post offices,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,funeral,"[ { ""shop"": ""funeral_directors"" } ]",28/03/2020,,open,funeral directors,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",28/03/2020,,open,laundrettes and dry cleaners,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"medical_supply
+","[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" }, { ""amenity"": ""dentist"" } ]
+",28/03/2020,,open,"dental services, opticians, audiology services, chiropody, chiropractors, osteopaths and other medical or health services, including services relating to mental health",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"pet
+","[ { ""shop"": ""pet"" } ]",28/03/2020,,open,veterinary surgeons and pet shops,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,hardware,"[ { ""shop"": ""agrarian"" } ]",28/03/2020,,open,agricultural supplies shops,
+IE,,default,,27/03/2020,,closed,,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]
+",27/03/2020,,open,"Retail and wholesale sale of food, beverages and newspapers in non-specialised and specialised stores ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,hardware,"[ { ""shop"": ""doityourself|hardware"" } ]",27/03/2020,,open,Retail sale of household consumer products necessary to maintain the safety and sanitation of residences and businesses ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,pharmacy,"[ { ""amenity"": ""pharmacy"" },  { ""shop"": ""chemist"" } ]",27/03/2020,,open,"Pharmacies/Chemists and retailers providing pharmaceuticals, pharmaceutical or dispensing services ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,"medical_supply
+","[ { ""shop"": ""medical_supply"" }
+",27/03/2020,,open,Retail sale of selling medical and orthopaedic goods in specialised stores ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",27/03/2020,,open,Fuel stations and heating fuel providers ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,pet,"[ { ""shop"": ""pet"" } ]",27/03/2020,,open,"Retail sale of essential items for the health and welfare of animals, including animal feed and medicines, animal food, pet food and animal supplies including bedding ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",27/03/2020,,open,Laundries and Drycleaners ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,financial,"[ { ""amenity"": ""bank|post_office"" }, { ""shop"": ""money_lender"" } ]",27/03/2020,,open,"Banks, Post Offices and Credit Unions ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,clothes,"[ { ""shop"": ""workwear"" } ]",27/03/2020,,open,"Retail sale of safety supply stores (work clothes, Personal Protective Equipment, for example) ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IT,,default,,09/03/2020,,closed,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,agrarian,"[ { ""shop"": ""agrarian"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,computer,"[ { ""shop"": ""computer"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,electronics,"[ { ""shop"": ""electronics|electronics_repair|mobile_phone"" }, { ""craft"": ""electronics_repair"" }, { ""shop"": ""appliance""} ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,employement_agency,"[ { ""office"": ""employment_agency"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,financial,"[ { ""amenity"": ""bank"" }, { ""office"": ""financial|insurance"" }, { ""shop"": ""money_lender"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|spices|honey|health_food|pasta|cannery|chocolate|tea|coffee|dairy|confectionery|farm|bakery|pastry"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,food_bank,"[ { ""amenity"": ""social_facility"", ""social_facility"": ""food_bank|soup_kitchen"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,funeral,"[ { ""shop"": ""funeral_directors"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,hardware,"[ { ""shop"": ""doityourself|hardware|paint|glaziery|electrical"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,hotel,"[ { ""tourism"": ""hotel|hostel|apartment|guest_house|motel|camp_site"" } ]",09/03/2020,,closed,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,medical_supply,"[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,mobile_phone,"[ { ""shop"": ""mobile_phone"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,pet,"[ { ""shop"": ""pet"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,restaurant,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",09/03/2020,26/04/2020,"only:delivery,takeaway,drive_through",,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,herbalist,"[ { ""shop"": ""herbalist"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,printer_ink,"[ { ""shop"": ""printer_ink"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,child_clothes,"[ { ""shop"": ""clothes"", ""clothes"": ""babies|children"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,perfumery,"[ { ""shop"": ""perfumery"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,copyshop,"[ { ""shop"": ""copyshop"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,lighting,"[ { ""shop"": ""lighting"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,car_wash,"[ { ""amenity"": ""car_wash"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,chemist,"[ { ""shop"": ""chemist"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,stationery,"[ { ""shop"": ""stationery"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,books,"[ { ""shop"": ""books"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,flower,"[ { ""shop"": ""garden_center|florist"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
+IT,,photo,"[ { ""shop"": ""photo"" } ]",09/03/2020,26/04/2020,open,,http://www.governo.it/it/coronavirus-misure-del-governo
