@@ -210,37 +210,27 @@ FR,,townhall,"[ { ""amenity"": ""townhall"" }, { ""office"": ""government"" } ]"
 FR,,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 FR,,vending_machine,"[ { ""amenity"": ""vending_machine"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 GB,GB-NIR,default,,2020-03-28,,closed,,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
-GB,GB-NIR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]
-",2020-03-28,,open,"food retailers, including food markets, supermarkets, convenience stores and corner shops",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]",2020-03-28,,open,"food retailers, including food markets, supermarkets, convenience stores and corner shops",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-28,,open,off licences and licensed shops selling alcohol (including breweries),https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,pharmacy,"[ { ""amenity"": ""pharmacy"" },  { ""shop"": ""chemist"" } ]",2020-03-28,,open,pharmacies (including non-dispensing pharmacies) and chemists,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,newsagent,"[ { ""shop"": ""kiosk|newsagent"" }, { ""vending"": ""newspapers"" } ]",2020-03-28,,open,newsagents,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
-GB,GB-NIR,"hardware
-","[ { ""shop"": ""doityourself|hardware"" } ]",2020-03-28,,open,"homeware, building supplies and hardware stores",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"hardware","[ { ""shop"": ""doityourself|hardware"" } ]",2020-03-28,,open,"homeware, building supplies and hardware stores",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-28,,open,petrol stations,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,vehicle,"[ { ""shop"": ""car_parts|car_repair"" }, { ""amenity"": ""vehicle_inspection"" } ]",2020-03-28,,open,car repair and MOT services,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,vehicle,"[ { ""shop"": ""bicycle } ]",2020-03-28,,open,bicycle shops,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
-GB,GB-NIR,"car_rental
-","[ { ""amenity"": ""car_rental"" } ]
-",2020-03-28,,open,taxi or vehicle hire businesses,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"car_rental","[ { ""amenity"": ""car_rental"" } ]",2020-03-28,,open,taxi or vehicle hire businesses,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,financial,"[ { ""amenity"": ""bank"" }, { ""shop"": ""money_lender"" } ]",2020-03-28,,open,"banks, building societies, credit unions, short term loan providers and cash points",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,post_office,"[ { ""amenity"": ""post_office"" } ]",2020-03-28,,open,post offices,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,funeral,"[ { ""shop"": ""funeral_directors"" } ]",2020-03-28,,open,funeral directors,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-28,,open,laundrettes and dry cleaners,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
-GB,GB-NIR,"medical_supply
-","[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" }, { ""amenity"": ""dentist"" } ]
-",2020-03-28,,open,"dental services, opticians, audiology services, chiropody, chiropractors, osteopaths and other medical or health services, including services relating to mental health",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
-GB,GB-NIR,"pet
-","[ { ""shop"": ""pet"" } ]",2020-03-28,,open,veterinary surgeons and pet shops,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"medical_supply","[ { ""shop"": ""medical_supply|optician|hearing_aids"" }, { ""craft"": ""optician"" }, { ""amenity"": ""dentist"" } ]",2020-03-28,,open,"dental services, opticians, audiology services, chiropody, chiropractors, osteopaths and other medical or health services, including services relating to mental health",https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
+GB,GB-NIR,"pet","[ { ""shop"": ""pet"" } ]",2020-03-28,,open,veterinary surgeons and pet shops,https://www.nidirect.gov.uk/articles/coronavirus-covid-19-restrictions-businesses-and-services
 GB,GB-NIR,hardware,"[ { ""shop"": ""agrarian"" } ]",2020-03-28,,open,agricultural supplies shops,
 IE,,default,,2020-03-27,,closed,,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
-IE,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]
-",2020-03-27,,open,"Retail and wholesale sale of food, beverages and newspapers in non-specialised and specialised stores ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,food,"[ { ""shop"": ""convenience|supermarket|frozen_food|butcher|cheese|seafood|greengrocer|deli|health_food|dairy|farm"" } ]",2020-03-27,,open,"Retail and wholesale sale of food, beverages and newspapers in non-specialised and specialised stores ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
 IE,,hardware,"[ { ""shop"": ""doityourself|hardware"" } ]",2020-03-27,,open,Retail sale of household consumer products necessary to maintain the safety and sanitation of residences and businesses ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
 IE,,pharmacy,"[ { ""amenity"": ""pharmacy"" },  { ""shop"": ""chemist"" } ]",2020-03-27,,open,"Pharmacies/Chemists and retailers providing pharmaceuticals, pharmaceutical or dispensing services ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
-IE,,"medical_supply
-","[ { ""shop"": ""medical_supply"" }
-",2020-03-27,,open,Retail sale of selling medical and orthopaedic goods in specialised stores ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
+IE,,"medical_supply","[ { ""shop"": ""medical_supply"" }",2020-03-27,,open,Retail sale of selling medical and orthopaedic goods in specialised stores ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
 IE,,fuel,"[ { ""amenity"": ""fuel"" }, { ""shop"": ""gas|convenience;gas|gas;convenience"" }, { ""vending"": ""fuel"" } ]",2020-03-27,,open,Fuel stations and heating fuel providers ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
 IE,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-27,,open,"Retail sale of essential items for the health and welfare of animals, including animal feed and medicines, animal food, pet food and animal supplies including bedding ",https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
 IE,,laundry,"[ { ""shop"": ""dry_cleaning|laundry"" } ]",2020-03-27,,open,Laundries and Drycleaners ,https://www.gov.ie/en/publication/625292-updated-list-of-essential-retail-outlets-27th-march-2020/#essential-retail-outlets
