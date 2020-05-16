@@ -85,7 +85,7 @@ Data about legal opening status is compiled in [a single spreadsheet file](legal
 * `category_osm` : (optional) JSON list of OpenStreetMap tags. Each object in list is a combination of necessary tags. Example `[ { "amenity": "bank", "bank": "pro" }, { "shop": "money_lender" } ]` = (amenity=bank AND bank=pro) OR (shop=money_lender).
 * `start_date` : start date for period the rule is valid, in YYYY-MM-DD format
 * `end_date` : (optional) end date for period the rule is valid, in YYYY-MM-DD format
-* `legal_state` : legal opening status for this category. Values can be : `open` (no restriction), `only:...` (comma-separated restricted list of allowed services), `closed` (fully closed). By default, if a category doesn't appear in CSV file, __we consider it follows default rule__ (see `category` above).
+* `legal_state` : legal opening status for this category. Values can be : `open` (no restriction), `only:...` (comma-separated restricted list of allowed services or restrictions), `closed` (fully closed). By default, if a category doesn't appear in CSV file, __we consider it follows default rule__ (see `category` above). You can specify if this category is allowed to open with a reduced amount of people inside with `only:small_capacity` and if it requires customers to use masks with `only:mask_worn`.
 * `details` : (optional) supplementary details if any
 * `source_url` : URL of web page where your information comes from (preferably from government source)
 
