@@ -152,6 +152,10 @@ CH,telecommunication,Mobilezone,,partial,,,,,
 CH,telecommunication,Salt,Q17325543,open,,,,,
 CH,telecommunication,Sunrise,Q672648,open,,,,,
 CH,telecommunication,Swisscom,Q644324,partial,Mo-Sa 10:00-15:00,,,https://www.swisscom.ch/de/privatkunden/hilfe/shops.html,
+CO,supermarket,Carulla,Q5047480,open_adapted,,,,https://www.carulla.com/,https://www.carulla.com/almacenes
+CO,supermarket,Éxito,Q861947,open_adapted,,,,https://www.exito.com/,https://www.exito.com/almacenes-exito
+CO,supermarket,Jumbo,Q6310864,open_adapted,,,,https://www.tiendasjumbo.co/,https://www.tiendasjumbo.co/institucional/nuestras-tiendas
+CO,supermarket,Olímpica,Q24749847,open_adapted,,,,https://www.olimpica.com/,https://www.olimpica.com/nuestras-tiendas
 DE,bakery,Back-Factory,Q21200483,partial,,,,https://www.back-factory.de/wir-sind-bald-wieder-da/wir-sind-bald-wieder-da.html,
 DE,bakery,BackWerk,Q798298,open,,,,https://www.back-werk.de/,https://www.back-werk.de/standorte/
 DE,bakery,Ditsch,Q911573,partial,,,,,https://www.ditsch.de/de/shops/
