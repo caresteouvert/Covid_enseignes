@@ -920,14 +920,21 @@ FR,variety_store,Action,Q2634111,open,,,,https://www.action.com/fr-fr/mise-a-jou
 FR,variety_store,GiFi,Q3105439,open,,,,https://www.gifi.fr/,
 FR,variety_store,Noz,Q3345688,open,,,,https://www.nozarrivages.com/,https://www.nozarrivages.com/magasin/
 IT,electronics,Apple Store,Q421253,closed,,,,,
+IT,shoes,Bata,Q688082,open,,,,,
+IT,cosmetics,Bottega Verde,Q894870,partial,,,,,https://www.bottegaverde.it/index.jsp?action=storelocator
 IT,restaurant,Burger King,Q177054,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
+IT,bag,Carpisa,Q28035409,closed,,,,,
+IT,clothes,Conbipel,Q3685952,open,,,,,
+IT,sports,Decathlon,Q509349,partial,,,,,
 IT,variety_store,Flying Tiger Copenhagen,Q2786319,closed,,,,,
-IT,furniture,IKEA,Q54078,closed,,,,,
-IT,restaurant,KFC,Q524757,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
+IT,shoes,Foot Locker,Q63335,closed,,,,,
+IT,video_games,GameStop,Q202210,partial,,,,,
+IT,furniture,IKEA,Q54078,open,,,,,
+IT,restaurant,KFC,Q524757,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,https://kfc.it/takeaway-drivethru-delivery/,
 IT,doityourself,Leroy Merlin,Q889624,open,,,,,
 IT,supermarket,Lidl,Q151954,partial,,,,,
 IT,restaurant,McDonald's,Q38076,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
-IT,furniture,Poltronesofà,Q80833069,closed,,,,,
+IT,furniture,Poltronesofà,Q80833069,open,,,,,
 MC,car_rental,Avis,Q791136,open,,,,https://www.avis.fr/avis-coronavirus-advice,
 MC,clothes,Prada,Q193136,closed,,,,,https://www.prada.com/mc/fr/store-locator.html
 MC,fast_food,McDonald's,Q38076,open_adapted,,,,,https://www.restaurants.mcdonalds.fr/mcdonalds-monaco#
