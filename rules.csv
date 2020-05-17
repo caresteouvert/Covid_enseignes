@@ -915,6 +915,15 @@ FR,supermarket,U Express,Q2529029,open_adapted,,,,https://www.magasins-u.com/acc
 FR,variety_store,Action,Q2634111,open,,,,https://www.action.com/fr-fr/mise-a-jour/,
 FR,variety_store,GiFi,Q3105439,open,,,,https://www.gifi.fr/,
 FR,variety_store,Noz,Q3345688,open,,,,https://www.nozarrivages.com/,https://www.nozarrivages.com/magasin/
+IT,electronics,Apple Store,Q421253,closed,,,,,
+IT,restaurant,Burger King,Q177054,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
+IT,variety_store,Flying Tiger Copenhagen,Q2786319,closed,,,,,
+IT,furniture,IKEA,Q54078,closed,,,,,
+IT,restaurant,KFC,Q524757,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
+IT,doityourself,Leroy Merlin,Q889624,open,,,,,
+IT,supermarket,Lidl,Q151954,partial,,,,,
+IT,restaurant,McDonald's,Q38076,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,,
+IT,furniture,Poltronesofà,Q80833069,closed,,,,,
 MC,car_rental,Avis,Q791136,open,,,,https://www.avis.fr/avis-coronavirus-advice,
 MC,clothes,Prada,Q193136,closed,,,,,https://www.prada.com/mc/fr/store-locator.html
 MC,fast_food,McDonald's,Q38076,open_adapted,,,,,https://www.restaurants.mcdonalds.fr/mcdonalds-monaco#
