@@ -919,6 +919,20 @@ FR,supermarket,U Express,Q2529029,open_adapted,,,,https://www.magasins-u.com/acc
 FR,variety_store,Action,Q2634111,open,,,,https://www.action.com/fr-fr/mise-a-jour/,
 FR,variety_store,GiFi,Q3105439,open,,,,https://www.gifi.fr/,
 FR,variety_store,Noz,Q3345688,open,,,,https://www.nozarrivages.com/,https://www.nozarrivages.com/magasin/
+IE,supermarket,SuperValu,Q7642081,open,,,,https://supervalu.ie/covid-19-updates,https://supervalu.ie/store-locator
+IE,supermarket,Lidl,Q151954,open,Mo-Fr 08:00-20:00; Sa 09:00-18:00,,,https://www.lidl.ie/service-help/customer-update,https://www.lidl.ie/en/information/store-finder
+IE,supermarket,Tesco,Q7705434,open,,,,http://www.tescoireland.ie/covid-19/covid-19/protecting-colleagues-and-customers,https://www.tesco.ie/store-locator/ie/
+IE,supermarket,Aldi,Q125054,open,Mo-Fr 09:00-22:00; Sa 09:00-21:00,,,https://www.aldi.ie/customer-update,https://www.aldi.ie/store-finder
+IE,supermarket,Dunnes Stores,Q1266203,open,,,,https://www.dunnesstores.com/content/faq-covid-19,https://www.dunnesstores.com/store-locator
+IE,supermarket,Marks & Spencer,Q714491,open,,,,https://www.marksandspencer.com/ie/c/faqs/covid-19,https://www.marksandspencer.com/MSResStoreFinderGlobalBaseCmd?langId=-24&storeId=10451&catalogId=11551
+IE,supermarket,Joyce's,Q6297672,open,,,,,
+IE,supermarket,Spar,Q610492,open,,,,,https://www.spar.ie/find-your-nearest-spar/
+IE,supermarket,Centra,Q747678,open,,,,https://centra.ie/covid-19-updates,https://centra.ie/locate
+IE,supermarket,Londis,Q21015800,open,,,,,
+IE,supermarket,Mace,Q17089386,open,,,,,https://mace.ie/our-stores/ 
+IE,supermarket,Gala,Q5517749,open,,,,,https://www.gala.ie/about-gala/store-locator/
+IE,supermarket,Costcutter,Q5175072,open,,,,,https://www.costcutter.ie/store-location/
+IE,supermarket,Applegreen,Q7178908,open,,,,https://www.applegreenstores.com/covid-19-updates/,https://www.applegreenstores.com/locations/
 IT,electronics,Apple Store,Q421253,closed,,,,,
 IT,shoes,Bata,Q688082,open,,,,,
 IT,cosmetics,Bottega Verde,Q894870,partial,,,,,https://www.bottegaverde.it/index.jsp?action=storelocator
