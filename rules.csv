@@ -919,6 +919,16 @@ FR,supermarket,U Express,Q2529029,open_adapted,,,,https://www.magasins-u.com/acc
 FR,variety_store,Action,Q2634111,open,,,,https://www.action.com/fr-fr/mise-a-jour/,
 FR,variety_store,GiFi,Q3105439,open,,,,https://www.gifi.fr/,
 FR,variety_store,Noz,Q3345688,open,,,,https://www.nozarrivages.com/,https://www.nozarrivages.com/magasin/
+IE,bookmaker,Boyle Sports,,open,,,,https://betting.boylesports.com/daily-news/boylesports-re-opens-shops-on-june-15th,https://www.boylesports.com/shoplocator/
+IE,bookmaker,Ladbrokes,Q1799875,open,,,,https://www.rte.ie/news/ireland/2020/0616/1147824-reopening-not-an-open-and-shut-case-for-bookmakers/,
+IE,bookmaker,Paddy Power,Q3888718,open,,,,https://news.paddypower.com/propaganda/2020/06/26/english-irish-betting-shops-reopen-time-royal-ascot/,https://ppsl.s73.co/
+IE,cafe,O'Brien's,Q7071686,partial,,"{ ""access:covid19"": ""no"", ""takeaway:covid19"": ""yes"", ""delivery:covid19"": ""yes""}",,https://twitter.com/OBriens_Cafe/status/1272834745076981762,https://www.obriens.ie/locations/
+IE,restaurant,Hillbilly's,,partial,,,,https://www.facebook.com/hillbillysofficial/posts/3597804050236950,http://www.hillbillys.ie/locations/
+IE,restaurant,McDonald's,Q38076,open,Mo-Fr 11:00-22:00,,,https://www.mcdonalds.ie/iehome/latest-updates/restaurant-updates.html,https://www.mcdonalds.ie/iehome/restaurant_locator.html#
+IE,shop,Argos,Q4789707,open,,,,https://www.argos.ie/static/ArgosPromo3/includeName/service-disruptions.htm&mvt=HP1_main1,https://www.argos.ie/webapp/wcs/stores/servlet/ArgosStoreLocatorDB
+IE,shop,Debenhams,Q1181484,closed,,,,https://www.debenhams.ie/content/latest-updates,
+IE,shop,Lifestyle Sports,Q6545495,partial,,,,https://blog.lifestylesports.com/lifestylesports-store-reopening-times-information/,https://www.lifestylesports.com/ie/stores
+IE,shop,Woodie's,Q25344847,open,,,,https://twitter.com/WoodiesIreland/status/1262300457109725184,https://www.woodies.ie/storelocator/
 IE,supermarket,SuperValu,Q7642081,open,,,,https://supervalu.ie/covid-19-updates,https://supervalu.ie/store-locator
 IE,supermarket,Lidl,Q151954,open,Mo-Fr 08:00-20:00; Sa 09:00-18:00,,,https://www.lidl.ie/service-help/customer-update,https://www.lidl.ie/en/information/store-finder
 IE,supermarket,Tesco,Q7705434,open,,,,http://www.tescoireland.ie/covid-19/covid-19/protecting-colleagues-and-customers,https://www.tesco.ie/store-locator/ie/
