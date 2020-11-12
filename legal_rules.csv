@@ -179,6 +179,7 @@ FR,,agrarian,"[ { ""shop"": ""agrarian"" } ]",2020-03-17,,open,,https://www.gouv
 FR,,alcohol,"[ { ""shop"": ""wine|beverages|alcohol"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 FR,,car_rental,"[ { ""amenity"": ""car_rental"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 FR,,cemetery,"[{""landuse"":""cemetery""}]",2020-05-11,,open,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
+FR,,childcare,"[{""amenity"":""kindergarten""}]",2020-11-11,,open,,
 FR,,cinema,"[{""amenity"":""cinema""}]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
 FR,,community_centre,"[{""amenity"":""community_centre""}]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
 FR,,computer,"[ { ""shop"": ""computer"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
