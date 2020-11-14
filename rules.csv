@@ -651,12 +651,12 @@ FI,supermarket,S-market,Q11891613,open,,,,https://www.s-kanava.fi/web/smarkethok
 FI,supermarket,Sale,Q11892046,open,,,,https://www.foodie.fi/,https://www.foodie.fi/store
 FI,supermarket,Tokmanni,Q13423470,open,,,,https://www.tokmanni.fi/,https://www.tokmanni.fi/stores
 FR,alcohol,Nicolas,Q3340012,partial,,,,https://www.nicolas.com/,https://www.nicolas.com/fr
-FR,bakery,Boulangerie Louise,,open_adapted,Mo-Sa 08:00-18:00,,,https://www.boulangerielouise.com/,
-FR,bakery,Brioche Dorée,Q2925606,partial,,"{ ""delivery:covid19"": ""yes"" }",,https://www.briochedoree.fr/,
+FR,bakery,Boulangerie Louise,,open,,,,https://www.boulangerielouise.com/,
+FR,bakery,Brioche Dorée,Q2925606,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no""  }",,https://www.briochedoree.fr/,
 FR,bakery,Fischer,,open_adapted,,,,https://lu.fischer1913.com/fr/actualites,https://lu.fischer1913.com/fr/boulangeries/nos-points-de-vente
-FR,bakery,La Mie Câline,Q3210704,open_adapted,,,,https://www.lamiecaline.com/fr/,
+FR,bakery,La Mie Câline,Q3210704,open,,,,https://www.lamiecaline.com/fr/,
 FR,bakery,La Mie de Pain,,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",À emporter uniquement,https://www.facebook.com/lamiedepain,
-FR,bakery,Marie Blachère,Q62082410,open_adapted,,,Téléphoner pour obtenir les horaires,https://www.marieblachere.com/actualites/vos-boulangeries-face-au-covid-19/,
+FR,bakery,Marie Blachère,Q62082410,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.marieblachere.com/actualites/vos-boulangeries-face-au-covid-19/,
 FR,bakery,Paul,Q3370417,partial,,,,https://www.paul.fr/fr/,https://www.paul.fr/fr/nos-boutiques
 FR,bakery,Sophie Lebreuilly,Q66372229,open_adapted,Mo-Sa 07:00-18:00;Su 07:00-14:00,,,https://sophie-lebreuilly.com/actu/,
 FR,bank,Banque Populaire,Q846647,partial,,,Privilégier les échanges à distance,https://www.banquepopulaire.fr/portailinternet/Editorial/Informations/Pages/covid19/toujours-a-vos-cotes-1.aspx,
