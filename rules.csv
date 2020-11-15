@@ -847,20 +847,20 @@ FR,pharmacy,Giphar,Q3107556,open,,,,https://www.pharmaciengiphar.com/maladies/co
 FR,pet,Animalis,Q2850015,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.animalis.com/covid-19-vos-animaux,https://magasin.animalis.com/
 FR,pet,Maxi Zoo,Q875796,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.maxizoo.fr/magazine/coronavirus/,https://www.maxizoo.fr/storefinder/
 FR,post_office,La Poste,Q373724,partial,,,,https://aide.laposte.fr/contenu/comment-savoir-si-mon-bureau-de-poste-est-ouvert/?t=cc,https://www.laposte.fr/particulier/outils/trouver-un-bureau-de-poste
-FR,restaurant,Big Fernand,Q19521346,partial,,"{ ""delivery:covid19"": ""yes"" }",,https://bigfernand.com/,
-FR,restaurant,Buffalo Grill,Q944655,partial,,,,https://www.buffalo-grill.fr/,https://www.buffalo-grill.fr/nos-restaurants
-FR,restaurant,Campanile,Q2412064,open,,,,https://www.campanile.com/fr-fr/hotel-restaurants/,
-FR,restaurant,Courtepaille,Q3116688,closed,,,,https://www.courtepaille.com/,
+FR,restaurant,Big Fernand,Q19521346,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://commande.bigfernand.com/home/places,
+FR,restaurant,Buffalo Grill,Q944655,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.buffalo-grill.fr/,https://www.buffalo-grill.fr/nos-restaurants
+FR,restaurant,Campanile,Q2412064,open,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.campanile.com/fr-fr/hotel-restaurants/,
+FR,restaurant,Courtepaille,Q3116688,partial,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.courtepaille.com/,https://restaurants.courtepaille.com/
 FR,restaurant,CROUS,Q2946037,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Restauration à emporter dans certains Resto’U,https://www.etudiant.gouv.fr/pid33626-cid150278/covid-19-|-faq-crous-etudes-concours-services.html,
-FR,restaurant,Flunch,Q629326,partial,Mo-Sa 08:30-18:30,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://blog.flunch.fr/actus/reouverture-de-nos-restaurants.html,https://blog.flunch.fr/actus/reouverture-de-nos-restaurants.html
-FR,restaurant,Hippopotamus,Q3136174,closed,,,,https://www.hippopotamus.fr/fermeture-provisoire,
-FR,restaurant,La Boucherie,Q21427479,closed,,,,https://www.la-boucherie.fr/,
-FR,restaurant,La Pataterie,Q20899937,closed,,,,https://www.instagram.com/p/B9yqyz6gPKW/,
+FR,restaurant,Flunch,Q629326,partial,,"{ ""access:covid19"": ""no"" }",Seuls les restaurants situés sur les aires d’autoroute sont ouverts et proposent de la vente à emporter,https://blog.flunch.fr/actus/foire-aux-questions-speciale-confinement.html,
+FR,restaurant,Hippopotamus,Q3136174,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" } ",,https://hippopotamus.byclickeat.fr/store-locator,https://hippopotamus.byclickeat.fr/store-locator
+FR,restaurant,La Boucherie,Q21427479,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" } ",,https://www.la-boucherie.fr/vente-a-emporter/,https://www.la-boucherie.fr/vente-a-emporter/
+FR,restaurant,La Pataterie,Q20899937,closed,,,,https://www.lapataterie.fr/,
 FR,restaurant,Léon de Bruxelles,Q21041507,closed,,,,https://www.leon-de-bruxelles.fr/,
-FR,restaurant,Pret A Manger,Q2109109,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.pretamanger.fr/fr-fr/?country=fr,
-FR,restaurant,Ristorante Del Arte,Q3389499,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.delarte.fr/information-restaurants,
-FR,restaurant,Sushi Shop,Q3505657,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.sushishop.fr/,
-FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
+FR,restaurant,Pret A Manger,Q2109109,open,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.pretamanger.fr/fr-fr/?country=fr,https://www.pretamanger.fr/fr-FR/nos-restaurants
+FR,restaurant,Ristorante Del Arte,Q3389499,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.delarte.fr/clickandcollect-restaurants-participants,
+FR,restaurant,Sushi Shop,Q3505657,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.sushishop.fr/,
+FR,restaurant,Tablapizza,,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.tablapizza.fr/tablapizza-a-la-maison-cest-tout-aussi-bien/,
 FR,shoes,Besson Chaussures,Q2899930,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.besson-chaussures.com/,
 FR,shoes,Éram,Q16684192,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.eram.fr/faq-covid-19/,
 FR,sports,Decathlon,Q509349,open_adapted,,,"Uniquement vente et réparation de vélos, alimentaire pour animaux ou retrait de commandes",https://www.decathlon.fr/landing/foire-aux-questions-decathlon/_/R-a-faq,https://www.decathlon.fr/store-locator
