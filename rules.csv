@@ -784,8 +784,8 @@ FR,garden_centre,Gamm Vert,Q3095006,open,,,,https://www.gammvert.fr/faq/details/
 FR,garden_centre,Jardiland,Q3162276,open,,,,,
 FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
 FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
-FR,hearing_aids,Amplifon,Q477222,open,,,,https://www.amplifon.com/fr/information-covid19,
-FR,hearing_aids,Audika,Q2870745,open_adapted,,,,https://www.audika.fr/landing-page/audika-plus-vous,
+FR,hearing_aids,Amplifon,Q477222,open_adapted,,,Sur rendez-vous,https://www.amplifon.com/,https://www.amplifon.com
+FR,hearing_aids,Audika,Q2870745,open_adapted,,,Sur rendez-vous,https://www.audika.fr/landing-page/audika-plus-vous,https://www.audika.fr/centres
 FR,hairdresser,Fabio Salsa,,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.fabiosalsa.com/onvaprendresoindevous/,https://reservations.fabiosalsa.com/reservation/area
 FR,hairdresser,Franck Provost,Q62805922,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.franckprovost.com/actu-salon/onvaprendresoindevous/,https://reservations.franckprovost.com/reservation/area
 FR,hairdresser,Jean Louis David,Q64445174,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.jeanlouisdavid.com/article/-onvaprendresoindevous_a7447/1,https://reservations.jeanlouisdavid.com/reservation/area
@@ -827,21 +827,21 @@ FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/m
 FR,mobile_phone,Free,Q2467627,open,,,Rendez-vous recommandé,https://www.free.fr/boutiques,https://www.free.fr/boutiques
 FR,mobile_phone,Orange,Q1431486,open,,,"Sur rendez-vous, sauf SAV et retrait de commandes",https://twitter.com/orange/status/1324307783412568065,
 FR,mobile_phone,SFR,Q218765,open,,,,https://twitter.com/SFR/status/1326086507837476864,https://boutique.sfr.fr/
-FR,optician,Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
-FR,optician,Alain Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
-FR,optician,Atol,Q2869542,open_adapted,,,Sur rendez-vous,https://www.opticiens-atol.com/comment-prendre-rdv,
-FR,optician,Direct Optic,,open,,,,https://jmy9q2my.sibpages.com/,
-FR,optician,Écouter Voir,Q18414551,open_adapted,,,Sur rendez-vous,https://www.ecoutervoir.fr/trouver-un-magasin/,
-FR,optician,Générale d’Optique,Q62391701,partial,,,,https://www.generale-optique.com/,https://www.generale-optique.com/opticien/s?services=Magasin%20ouvert
-FR,optician,Grand Optical,Q3113677,partial,,,,https://www.grandoptical.com/,https://www.grandoptical.com/opticien/s?services=Magasin%20ouvert
-FR,optician,Krys,Q3200026,open,,,,https://www.krys.com/,
-FR,optician,Les Opticiens Mutualistes,Q18414551,open,,,,https://www.ecoutervoir.fr/trouver-un-magasin/,
-FR,optician,Lissac,Q63102559,open_adapted,,,Sur rendez-vous,https://www.lissac.fr/,https://www.lissac.fr/prendre-rendez-vous
-FR,optician,Lynx Optique,Q25387428,open_adapted,,,Sur rendez-vous,https://www.lynx-optique.com/,
-FR,optician,Optic 2000,Q3354445,open_adapted,,,Sur rendez-vous,https://www.optic2000.com/,
-FR,optician,Optical Center,Q3354448,open,,,,https://www.optical-center.fr/,
+FR,optician,Afflelou,Q2829511,open,,,Rendez-vous recommandé,https://www.afflelou.com/,https://www.afflelou.com/opticien
+FR,optician,Alain Afflelou,Q2829511,open,,,Rendez-vous recommandé ,https://www.afflelou.com/,https://www.afflelou.com/opticien
+FR,optician,Atol,Q2869542,open,,,Rendez-vous recommandé ,https://twitter.com/opticiensatol/status/1321824097588989954,https://www.opticiens-atol.com/opticiens
+FR,optician,Direct Optic,,open,Mo-Sa 09:00-19:00,,Rendez-vous recommandé,https://www.direct-optic.fr/,https://www.direct-optic.fr/magasins-partenaires
+FR,optician,Écouter Voir,Q18414551,open,,,Rendez-vous recommandé,https://www.ecoutervoir.fr/,https://boutique.ecoutervoir.fr/store_locator
+FR,optician,Générale d’Optique,Q62391701,open,,,,https://www.generale-optique.com/faq-covid-19,https://www.generale-optique.com/opticien
+FR,optician,Grand Optical,Q3113677,open,,,,https://www.grandoptical.com/faq-covid-19,https://www.grandoptical.com/opticien
+FR,optician,Krys,Q3200026,open,,,,https://www.krys.com/,https://www.krys.com/recherche-magasin
+FR,optician,Les Opticiens Mutualistes,Q18414551,open,,,,,https://www.mf-optique.fr/magasins/
+FR,optician,Lissac,Q63102559,open,,,Rendez-vous recommandé,https://www.lissac.fr/,https://www.lissac.fr/nos-magasins
+FR,optician,Lynx Optique,Q25387428,open,,,Rendez-vous recommandé,https://www.lynx-optique.com/,https://www.lynx-optique.com/recherche-des-magasins
+FR,optician,Optic 2000,Q3354445,open,,,Rendez-vous recommandé,https://www.optic2000.com/,https://www.optic2000.com/magasins/index
+FR,optician,Optical Center,Q3354448,open_adapted,,,,https://www.optical-center.fr/,https://opticien.optical-center.fr/
 FR,optician,Solaris,Q3489229,closed,,,,https://www.solaris.fr/,
-FR,optician,Vision Plus,Q23752663,open,,,,https://www.vision-plus.fr/retrouvons-nous_vite,
+FR,optician,Vision Plus,Q23752663,open_adapted,,,Sur rendez vous,https://www.vision-plus.fr/,https://www.vision-plus.fr/recherche-opticien/
 FR,pharmacy,Boticinal,,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",,https://www.powersante.com/conseils-covid-19,
 FR,pharmacy,Giphar,Q3107556,open,,,,https://www.pharmaciengiphar.com/maladies/coronavirus/vos-pharmacies-giphar-s-organisent-pour-repondre-vos-besoins,https://pharmacies.pharmaciengiphar.com/
 FR,pet,Animalis,Q2850015,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.animalis.com/covid-19-vos-animaux,https://magasin.animalis.com/
