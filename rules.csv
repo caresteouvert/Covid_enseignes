@@ -746,10 +746,10 @@ FR,electronics,Darty,Q2439098,open,,,,https://www.darty.com/achat/services/faq-m
 FR,electronics,Électro Dépôt,Q2388060,open,,,,https://www.electrodepot.fr/,https://www.electrodepot.fr/nos-magasins
 FR,electronics,Gitem,Q3107853,open,,,,https://www.gitem.fr/#slide-2,
 FR,electronics_repair,Docteur IT,,open,,,,https://www.docteur-it.com/,
-FR,employment_agency,Adecco,Q353496,closed,,,Contact à distance possible,https://www.adecco.fr/,
-FR,employment_agency,Manpower,Q56315899,closed,,,Contact par courriel ou téléphone possible,https://www.manpower.fr/bulletin-informations-covid-19,
-FR,employment_agency,Pôle Emploi,Q8901192,closed,,,Sur rendez-vous à partir du 18 mai,https://www.pole-emploi.fr/accueil/,
-FR,employment_agency,Randstad,Q267840,closed,,,,https://www.randstad.fr/,
+FR,employment_agency,Adecco,Q353496,open_adapted,,,Sur rendez vous,https://www.adecco.fr/,
+FR,employment_agency,Manpower,Q56315899,open_adapted,,,Sur rendez vous,https://www.manpower.fr/bulletin-informations-covid-19,
+FR,employment_agency,Pôle Emploi,Q8901192,open_adapted,,,Sans rendez-vous le matin,https://www.pole-emploi.fr/actualites/a-laffiche/pole-emploi-face-a-la-crise-sani.html,
+FR,employment_agency,Randstad,Q267840,open_adapted,,,Sur rendez vous,https://www.randstad.fr/,
 FR,farm,Bienvenue à la Ferme,Q2902023,open,,,,,https://www.drive-fermier.fr/carte_drive_fermier
 FR,farm,Drive Fermier,Q2902023,open,,,,,https://www.drive-fermier.fr/carte_drive_fermier
 FR,fast_food,Burger King,Q177054,partial,,,,https://www.burgerking.fr/,
