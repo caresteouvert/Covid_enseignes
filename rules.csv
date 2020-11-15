@@ -822,11 +822,11 @@ FR,insurance,Mutuelle de Poitiers Assurances,,open,,,Privilégier la communicati
 FR,laundry,5àSec,Q2817899,open,,,,https://www.5asec.fr/trouvez-votre-pressing,https://www.5asec.fr/trouvez-votre-pressing
 FR,laundry,Lav’Club,,open,,,,http://lavclub.net/info-coronavirus-laverie-ouverte/,http://lavclub.net/
 FR,library,Fnac,Q676585,open,,,"Uniquement achat et réparation de produits électriques, électroniques et informatiques, ou retrait de commandes",https://www.fnac.com/questions#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN1|NonApplicable,
-FR,mobile_phone,Bouygues Télécom,Q581438,open,,,,https://www.bouyguestelecom.fr/choisir-bouygues-telecom/covid-19-bouygues-telecom-se-mobilise#ReouvertureBoutique,
-FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/magasins/,
-FR,mobile_phone,Free,Q2467627,partial,,,,https://www.free.fr/boutiques,https://www.free.fr/boutiques
-FR,mobile_phone,Orange,Q1431486,partial,,,,https://boutique.orange.fr/informations/covid-19/,
-FR,mobile_phone,SFR,Q218765,open,,"{ ""safety:covid19"": ""mask"" }",,https://boutique.sfr.fr/,https://boutique.sfr.fr/
+FR,mobile_phone,Bouygues Télécom,Q581438,open,,,,https://blog.bouyguestelecom.fr/on_en_fait_pour_vous/covid-19-bouygues-telecom-toujours-mobilisee-pour-ses-clients/,https://boutiques.bouyguestelecom.fr/bouyguestelecom/fr
+FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/magasins/,http://www.coriolis.com/magasins
+FR,mobile_phone,Free,Q2467627,open,,,Rendez-vous recommandé,https://www.free.fr/boutiques,https://www.free.fr/boutiques
+FR,mobile_phone,Orange,Q1431486,open,,,"Sur rendez-vous, sauf SAV et retrait de commandes",https://twitter.com/orange/status/1324307783412568065,
+FR,mobile_phone,SFR,Q218765,open,,,,https://twitter.com/SFR/status/1326086507837476864,https://boutique.sfr.fr/
 FR,optician,Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
 FR,optician,Alain Afflelou,Q2829511,open_adapted,,,Prendre rendez-vous,https://www.afflelou.com/,
 FR,optician,Atol,Q2869542,open_adapted,,,Sur rendez-vous,https://www.opticiens-atol.com/comment-prendre-rdv,
