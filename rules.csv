@@ -802,23 +802,23 @@ FR,hotel,Kyriad,Q11751808,open_adapted,,,,https://www.kyriad.com/fr-fr/informati
 FR,hotel,Novotel,Q420545,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
 FR,hotel,Mercure,Q1709809,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
 FR,hotel,Première Classe,Q5964551,open_adapted,,,Pas de restauration,https://www.premiereclasse.com/fr/mesures-et-informations-covid-19.html,
-FR,insurance,AG2R La Mondiale,Q292228,closed,,,Contact en priorité par courriel,https://www.ag2rlamondiale.fr/,
-FR,insurance,Allianz,Q487292,closed,,,Contact par téléphone possible,https://www.allianz.fr/informations-couverture-coronavirus/,
-FR,insurance,April,Q622025,closed,,,,https://groupe.april.fr/covid-19,
-FR,insurance,Assu 2000,,closed,,,,https://twitter.com/ASSU2000/status/1239565271364448256,
-FR,insurance,Aviva,Q791179,partial,,,,https://www.aviva.fr/conseils-en-assurance/mes-demarches/covid19.html,
-FR,insurance,Axa,Q160054,closed,,,,https://twitter.com/AXAFrance/status/1241017945343627266,
-FR,insurance,CNP Assurances,Q1023930,closed,,,Contact par formulaire en ligne,https://www.cnp.fr/,
-FR,insurance,Gan,Q3095058,closed,,,,https://www.gan.fr/,
-FR,insurance,GMF,Q3095296,closed,,,,https://www.gmf.fr/,
-FR,insurance,Groupama,Q3083531,closed,,,,https://www.groupama.fr/,
-FR,insurance,Harmonie Mutuelle,Q3127528,closed,,,Contact à distance possible,https://www.harmonie-mutuelle.fr/web/tout-harmonie,
-FR,insurance,Maaf,Q3331028,closed,,,,https://www.maaf.fr/fr/mutuelle-sante/covid-19,
-FR,insurance,Macif,Q3331021,closed,,,"Ligne téléphonique fermée pour l’instant, démarches par l’espace client en ligne",https://www.macif.fr/,
-FR,insurance,Maif,Q3331029,closed,,,,https://www.maif.fr/,
-FR,insurance,Matmut,Q3299185,closed,,,,https://twitter.com/Matmut/status/1239243892882649088,
-FR,insurance,MMA,Q3331046,closed,,,,https://www.mma.fr/,
-FR,insurance,Mutuelle de Poitiers Assurances,,open,,,Privilégier la communication par courriel,https://www.assurance-mutuelle-poitiers.fr/covid-19-nous-restons-mobilises,https://agence.assurance-mutuelle-poitiers.fr/
+FR,insurance,AG2R La Mondiale,Q292228,open_adapted,,,Sur rendez-vous,https://www.ag2rlamondiale.fr/accueil/conseil-covid-19-nos-equipes-vous-accompagnent,
+FR,insurance,Allianz,Q487292,open_adapted,,,,https://www.allianz.fr/assurance-particulier/coronavirus-infos-particuliers.html,https://agences.allianz.fr/
+FR,insurance,April,Q622025,closed,,,Les équipes restent disponibles au téléphone et depuis l'espace client,https://www.april.fr/faq-covid-19,
+FR,insurance,Assu 2000,,open_adapted,,,,https://twitter.com/ASSU2000/status/1322209644027273216,https://agence.assu2000.fr/
+FR,insurance,Aviva,Q791179,open_adapted,,,"Privilégier les échanges à distance (téléphone, courriel, espace client)",https://twitter.com/AvivaFrance/status/1325801465923956736,
+FR,insurance,Axa,Q160054,open_adapted,,,"Privilégier les échanges à distance (e-mail, téléphone) et la prise de rendez-vous",https://www.axa.fr/informations-covid-19/confinement-novembre.html,https://agence.axa.fr/
+FR,insurance,CNP Assurances,Q1023930,open_adapted,,,"Privilégier les échanges à distance (téléphone, courriel, espace client)",https://www.cnp.fr/particuliers,
+FR,insurance,Gan,Q3095058,open_adapted,,,Sur rendez-vous,https://www.gan.fr/informations-covid#info,http://www.agence.gan.fr/
+FR,insurance,GMF,Q3095296,open_adapted,,,Sur rendez-vous,https://www.gmf.fr/,https://www.gmf.fr/agences-gmf
+FR,insurance,Groupama,Q3083531,open_adapted,,,,https://www.groupama.fr/,https://agences.groupama.fr/assurance/
+FR,insurance,Harmonie Mutuelle,Q3127528,open_adapted,,,Rendez-vous recommandé,https://www.harmonie-mutuelle.fr/web/tout-harmonie,
+FR,insurance,Maaf,Q3331028,open_adapted,,,Sur rendez-vous,https://www.maaf.fr/fr/mutuelle-sante/covid-19,
+FR,insurance,Macif,Q3331021,open_adapted,,,,https://www.macif.fr/assurance/particuliers,
+FR,insurance,Maif,Q3331029,open_adapted,,,Sur rendez-vous,https://www.maif.fr/annexes/infos-covid-19,https://agence.maif.fr/assurance/particuliers/
+FR,insurance,Matmut,Q3299185,open_adapted,,,,https://twitter.com/Matmut/status/1323202748712706048,
+FR,insurance,MMA,Q3331046,open_adapted,,,,https://www.mma.fr/a-propos/notre-actualite/crise-sanitaire-covid19.html,
+FR,insurance,Mutuelle de Poitiers Assurances,,open_adapted,,,,https://www.assurance-mutuelle-poitiers.fr/covid-19-nous-restons-mobilises,https://agence.assurance-mutuelle-poitiers.fr/
 FR,laundry,5àSec,Q2817899,open,,,,https://www.5asec.fr/trouvez-votre-pressing,https://www.5asec.fr/trouvez-votre-pressing
 FR,laundry,Lav’Club,,open,,,,http://lavclub.net/info-coronavirus-laverie-ouverte/,http://lavclub.net/
 FR,library,Fnac,Q676585,open,,,"Uniquement achat et réparation de produits électriques, électroniques et informatiques, ou retrait de commandes",https://www.fnac.com/questions#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN1|NonApplicable,
