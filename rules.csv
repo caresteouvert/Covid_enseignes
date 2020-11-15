@@ -821,7 +821,7 @@ FR,insurance,MMA,Q3331046,closed,,,,https://www.mma.fr/,
 FR,insurance,Mutuelle de Poitiers Assurances,,open,,,Privilégier la communication par courriel,https://www.assurance-mutuelle-poitiers.fr/covid-19-nous-restons-mobilises,https://agence.assurance-mutuelle-poitiers.fr/
 FR,laundry,5àSec,Q2817899,open,,,,https://www.5asec.fr/trouvez-votre-pressing,https://www.5asec.fr/trouvez-votre-pressing
 FR,laundry,Lav’Club,,open,,,,http://lavclub.net/info-coronavirus-laverie-ouverte/,http://lavclub.net/
-FR,library,Fnac,Q676585,open,,,,https://twitter.com/Fnac/status/1258041394582732800,
+FR,library,Fnac,Q676585,open,,,"Uniquement achat et réparation de produits électriques, électroniques et informatiques, ou retrait de commandes",https://www.fnac.com/questions#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN1|NonApplicable,
 FR,mobile_phone,Bouygues Télécom,Q581438,open,,,,https://www.bouyguestelecom.fr/choisir-bouygues-telecom/covid-19-bouygues-telecom-se-mobilise#ReouvertureBoutique,
 FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/magasins/,
 FR,mobile_phone,Free,Q2467627,partial,,,,https://www.free.fr/boutiques,https://www.free.fr/boutiques
@@ -842,11 +842,11 @@ FR,optician,Optic 2000,Q3354445,open_adapted,,,Sur rendez-vous,https://www.optic
 FR,optician,Optical Center,Q3354448,open,,,,https://www.optical-center.fr/,
 FR,optician,Solaris,Q3489229,closed,,,,https://www.solaris.fr/,
 FR,optician,Vision Plus,Q23752663,open,,,,https://www.vision-plus.fr/retrouvons-nous_vite,
-FR,pharmacy,Boticinal,,open,,,,https://www.powersante.com/conseils-covid-19,
-FR,pharmacy,Giphar,Q3107556,open,,,,https://www.pharmaciengiphar.com/maladies/coronavirus/vos-pharmacies-giphar-s-organisent-pour-repondre-vos-besoins,
-FR,pet,Animalis,Q2850015,open,,,Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.animalis.com/ouverture-de-vos-magasins,
-FR,pet,Maxi Zoo,Q875796,open_adapted,"Mo-Sa 10:00-13:00, 14:00-17:00",,,https://www.maxizoo.fr/,
-FR,post_office,La Poste,Q373724,partial,,,,https://le-groupe-laposte.cdn.prismic.io/le-groupe-laposte/84e9fdbd-878f-4c85-91b9-dc6ccdfed8b7_CP+La+Poste+se+pr%C3%A9pare+au+d%C3%A9confinement+vdef.pdf,
+FR,pharmacy,Boticinal,,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",,https://www.powersante.com/conseils-covid-19,
+FR,pharmacy,Giphar,Q3107556,open,,,,https://www.pharmaciengiphar.com/maladies/coronavirus/vos-pharmacies-giphar-s-organisent-pour-repondre-vos-besoins,https://pharmacies.pharmaciengiphar.com/
+FR,pet,Animalis,Q2850015,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.animalis.com/covid-19-vos-animaux,https://magasin.animalis.com/
+FR,pet,Maxi Zoo,Q875796,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.maxizoo.fr/magazine/coronavirus/,https://www.maxizoo.fr/storefinder/
+FR,post_office,La Poste,Q373724,partial,,,,https://aide.laposte.fr/contenu/comment-savoir-si-mon-bureau-de-poste-est-ouvert/?t=cc,https://www.laposte.fr/particulier/outils/trouver-un-bureau-de-poste
 FR,restaurant,Big Fernand,Q19521346,partial,,"{ ""delivery:covid19"": ""yes"" }",,https://bigfernand.com/,
 FR,restaurant,Buffalo Grill,Q944655,partial,,,,https://www.buffalo-grill.fr/,https://www.buffalo-grill.fr/nos-restaurants
 FR,restaurant,Campanile,Q2412064,open,,,,https://www.campanile.com/fr-fr/hotel-restaurants/,
@@ -861,10 +861,10 @@ FR,restaurant,Pret A Manger,Q2109109,partial,,"{ ""takeaway:covid19"": ""yes"", 
 FR,restaurant,Ristorante Del Arte,Q3389499,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.delarte.fr/information-restaurants,
 FR,restaurant,Sushi Shop,Q3505657,open_adapted,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.sushishop.fr/,
 FR,restaurant,Tablapizza,,closed,,,,https://www.tablapizza.fr/informations-sur-les-fermetures/,
-FR,shoes,Besson Chaussures,Q2899930,open,,,,https://www.besson-chaussures.com/blog/besson-chaussures-se-prepare-a-la-reouverture-de-ses-magasins,
-FR,shoes,Éram,Q16684192,open_adapted,,,eram.fr reste ouvert avec la livraison à domicile offerte.,https://www.eram.fr/faq-covid-19-2/,
-FR,sports,Decathlon,Q509349,open_adapted,,"{ ""safety:covid19"": ""mask"" }",,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins,https://www.decathlon.fr/landing/reouverture-magasins-decathlon/_/R-a-reouverture-magasins
-FR,sports,Intersport,Q666888,open,,,,https://twitter.com/Intersport_FR/status/1260212475204640769,https://www.intersport.fr/store-finder/
+FR,shoes,Besson Chaussures,Q2899930,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.besson-chaussures.com/,
+FR,shoes,Éram,Q16684192,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.eram.fr/faq-covid-19/,
+FR,sports,Decathlon,Q509349,open_adapted,,,"Uniquement vente et réparation de vélos, alimentaire pour animaux ou retrait de commandes",https://www.decathlon.fr/landing/foire-aux-questions-decathlon/_/R-a-faq,https://www.decathlon.fr/store-locator
+FR,sports,Intersport,Q666888,open,,,Uniquement vente et réparation de vélos ou retrait de commandes,https://www.intersport.fr/faq/?question=tous-magasins-intersport-fermes-jusqua-quand,https://www.intersport.fr/store-finder/
 FR,stationery,Bureau Vallée,Q18385014,open,,,Privilégier le click-and-collect,https://twitter.com/bureauvallee/status/1322139043648409601,https://magasins.bureau-vallee.fr/fr/
 FR,stationery,Office Dépôt,Q1337797,open_adapted,Mo-Sa 10:00-18:00,"{ ""delivery:covid19"": ""yes"" }",,https://www.officedepot.fr/specialLinksNoChat.do?file=/continuite-activite.jsp,https://magasins.officedepot.fr/
 FR,stationery,Top Office,Q24929304,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,https://www.top-office.com/magasins
