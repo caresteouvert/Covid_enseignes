@@ -779,11 +779,11 @@ FR,fuel,Total Access,Q154037,open,,,,https://www.total.fr/actus/nos-actualites/C
 FR,funeral_directors,PFG,Q3396087,open,,,Appeler avant de se déplacer,,
 FR,funeral_directors,Roblot,Q63247414,open,,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.roblot.fr/,
 FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.com/groupe/magazine/actualites/roc-eclerc-se-mobilise-contre-le-virus-covid-19/,
-FR,furniture,Centrakor,Q64079345,open,,,,https://www.centrakor.com/,
-FR,garden_centre,Gamm Vert,Q3095006,open,,,,https://www.gammvert.fr/faq/details/commandes-COVID-19,https://magasin.gammvert.fr/
-FR,garden_centre,Jardiland,Q3162276,open,,,,,
-FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
-FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
+FR,furniture,Centrakor,Q64079345,partial,,,Possibilité de commande en ligne avec retrait en magasins dans les lieux participants,https://www.centrakor.com/,
+FR,garden_centre,Gamm Vert,Q3095006,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie et alimentation",https://www.gammvert.fr/,https://magasin.gammvert.fr/
+FR,garden_centre,Jardiland,Q3162276,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie et alimentation",https://www.jardiland.com/,
+FR,garden_centre,Point Vert,Q16661975,open,,"{ ""access:covid19"": ""yes"" }",,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
+FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie, épicerie et alimentation ",https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,open_adapted,,,Sur rendez-vous,https://www.amplifon.com/,https://www.amplifon.com
 FR,hearing_aids,Audika,Q2870745,open_adapted,,,Sur rendez-vous,https://www.audika.fr/landing-page/audika-plus-vous,https://www.audika.fr/centres
 FR,hairdresser,Fabio Salsa,,closed,,,,https://www.fabiosalsa.com/,
