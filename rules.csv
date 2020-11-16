@@ -786,22 +786,22 @@ FR,garden_centre,Point Vert,Q16661975,partial,,,,https://www.magasin-point-vert.
 FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,open_adapted,,,Sur rendez-vous,https://www.amplifon.com/,https://www.amplifon.com
 FR,hearing_aids,Audika,Q2870745,open_adapted,,,Sur rendez-vous,https://www.audika.fr/landing-page/audika-plus-vous,https://www.audika.fr/centres
-FR,hairdresser,Fabio Salsa,,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.fabiosalsa.com/onvaprendresoindevous/,https://reservations.fabiosalsa.com/reservation/area
-FR,hairdresser,Franck Provost,Q62805922,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.franckprovost.com/actu-salon/onvaprendresoindevous/,https://reservations.franckprovost.com/reservation/area
-FR,hairdresser,Jean Louis David,Q64445174,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.jeanlouisdavid.com/article/-onvaprendresoindevous_a7447/1,https://reservations.jeanlouisdavid.com/reservation/area
-FR,hairdresser,Saint Algue,Q62973210,open,,,La prise de rendez-vous en ligne est conseillée.,https://www.saint-algue.com/jesuiscoiffeurresponsable/,https://reservations.saint-algue.com/reservation/area
-FR,hairdresser,Tchip Coiffure,Q62871250,open,,,,https://www.tchip.fr/,
-FR,hairdresser,The Barber Company,,open,,,La prise de rendez-vous en ligne est conseillée.,https://thebarbercompany.fr/news/onvaprendresoindevous/,https://salons.thebarbercompany.fr/fr/barbier/
-FR,hotel,B&B Hôtel,Q794939,open_adapted,,,Petit-déjeuner à emporter,https://www.hotel-bb.com/fr/information-coronavirus,https://www.hotel-bb.com/fr/information-coronavirus
-FR,hotel,Formule 1,Q1630895,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Ibis,Q920166,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Hôtel Ibis,Q920166,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Ibis Budget,Q1458135,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Ibis Styles,Q3147425,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Kyriad,Q11751808,open_adapted,,,,https://www.kyriad.com/fr-fr/informationcovid19/,
-FR,hotel,Novotel,Q420545,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Mercure,Q1709809,open_adapted,,,,https://all.accor.com/event/information.fr.shtml,
-FR,hotel,Première Classe,Q5964551,open_adapted,,,Pas de restauration,https://www.premiereclasse.com/fr/mesures-et-informations-covid-19.html,
+FR,hairdresser,Fabio Salsa,,closed,,,,https://www.fabiosalsa.com/,
+FR,hairdresser,Franck Provost,Q62805922,closed,,,,https://www.franckprovost.com/,https://reservations.franckprovost.com/reservation/area
+FR,hairdresser,Jean Louis David,Q64445174,closed,,,,https://www.jeanlouisdavid.com,https://reservations.jeanlouisdavid.com/reservation/area
+FR,hairdresser,Saint Algue,Q62973210,closed,,,,https://www.saint-algue.com/,https://reservations.saint-algue.com/reservation/area
+FR,hairdresser,Tchip Coiffure,Q62871250,closed,,,,https://www.tchip.fr/,
+FR,hairdresser,The Barber Company,,closed,,,,https://thebarbercompany.fr/,https://salons.thebarbercompany.fr/fr/barbier/
+FR,hotel,B&B Hôtel,Q794939,open,,,Restauration à emporter ou à comsommer dans la chambre,https://www.hotel-bb.com/fr/information-coronavirus,
+FR,hotel,Formule 1,Q1630895,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis,Q920166,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Hôtel Ibis,Q920166,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis Budget,Q1458135,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Ibis Styles,Q3147425,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Kyriad,Q11751808,open,,,Restauration à comsommer dans la chambre,https://www.kyriad.com/fr-fr,
+FR,hotel,Novotel,Q420545,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Mercure,Q1709809,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
+FR,hotel,Première Classe,Q5964551,open,,,Restauration à comsommer dans la chambre ,https://www.premiereclasse.com/,
 FR,insurance,AG2R La Mondiale,Q292228,open_adapted,,,Sur rendez-vous,https://www.ag2rlamondiale.fr/accueil/conseil-covid-19-nos-equipes-vous-accompagnent,
 FR,insurance,Allianz,Q487292,open_adapted,,,,https://www.allianz.fr/assurance-particulier/coronavirus-infos-particuliers.html,https://agences.allianz.fr/
 FR,insurance,April,Q622025,closed,,,Les équipes restent disponibles au téléphone et depuis l'espace client,https://www.april.fr/faq-covid-19,
