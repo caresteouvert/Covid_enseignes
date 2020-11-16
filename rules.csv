@@ -694,24 +694,24 @@ FR,car_rental,Sixt,Q705664,open,,,,https://www.sixt.fr/magazine/actualites/sixt-
 FR,car_rental,Ucar,,open,,,Possibilité de livraison et de reprise de véhicules à domicile,https://ucar.fr/acheter-partager/actualites/nos-agences-de-location-restent-ouvertes-pendant-le-confinement/,
 FR,car_repair,AD,Q18697078,partial,,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
 FR,car_repair,Autodistribution,Q18697078,partial,,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
-FR,car_repair,BestDrive,Q63057183,open_adapted,,,Sur rendez-vous uniquement,https://bestdrive.fr/infos/covid-19.html,https://bestdrive.fr/infos/covid-19.html#map
-FR,car_repair,Carglass,Q1035997,partial,,,Sur rendez-vous uniquement dans un nombre restreint de centres,https://www.carglass.fr/prise-de-rendez-vous,
-FR,car_repair,Citroën,Q6746,closed,,,Contact par téléphone possible,https://www.citroen.fr/covid-19.html,
-FR,car_repair,Étape Auto,,open_adapted,,,"Réservé aux véhicules d’urgences, personnel hospitalier et fonctions vitales",https://www.etape-auto.fr/site-Etape_Auto-operation-8159-Vehicules-prioritaires.html,
-FR,car_repair,Euromaster,Q3060668,open_adapted,,,,https://www.euromaster.fr/particulier,https://www.euromaster.fr/particulier/liste-centres-service-minimum
-FR,car_repair,Feu Vert,Q3070922,open_adapted,,,,https://www.feuvert.fr/static/informations-covid19-16253.html,https://www.feuvert.fr/static/centres-auto-feu-vert-ouverts-pendant-confinement-16239.html
-FR,car_repair,Ford,Q44294,open,,,,https://www.ford.fr/,
-FR,car_repair,France Pare-Brise,,open_adapted,,,,https://www.franceparebrise.fr/,https://prive.franceparebrise.fr/covid19/
-FR,car_repair,Midas,Q3312613,open,,,,https://www.midas.fr/purchase-guides/midas-connect,
+FR,car_repair,BestDrive,Q63057183,open,,,Privilégiez une prise de rendez-vous,https://bestdrive.fr/infos/covid-19.html,https://bestdrive.fr/infos/covid-19.html#map
+FR,car_repair,Carglass,Q1035997,open,,,,https://www.carglass.fr/,
+FR,car_repair,Citroën,Q6746,open_adapted,,,,https://www.citroen.fr/rechercher-un-point-de-vente.html,
+FR,car_repair,Étape Auto,,open,,,,https://www.etape-auto.fr/,
+FR,car_repair,Euromaster,Q3060668,open,,,,https://www.euromaster.fr/particulier,https://www.euromaster.fr/particulier/liste-centres-service-minimum
+FR,car_repair,Feu Vert,Q3070922,open,,,,https://www.feuvert.fr/static/feu-vert-s-adapte-16856.html,https://www.feuvert.fr/static/centres-auto-feu-vert-ouverts-pendant-confinement-16239.html
+FR,car_repair,Ford,Q44294,open,,,,https://www.ford.fr/informations-utiles/covid-19,
+FR,car_repair,France Pare-Brise,,open,,,,https://www.franceparebrise.fr/,https://prive.franceparebrise.fr/covid19/
+FR,car_repair,Midas,Q3312613,open,,,,https://www.midas.fr/content/vos-centres-restent-ouverts,
 FR,car_repair,Norauto,Q3317698,open,,,,https://www.norauto.fr/,
-FR,car_repair,Peugeot,Q6742,closed,,,"Réparation urgentes possibles, contacter par téléphone",https://www.peugeot.fr/covid-19.html,
+FR,car_repair,Peugeot,Q6742,open,,,"Réparation urgentes possibles, contacter par téléphone",https://www.peugeot.fr/covid-19-nos-services-disponibles.html,
 FR,car_repair,Point S,Q3393358,open,,,,https://www.points.fr/,
-FR,car_repair,Renault,Q6686,open_adapted,,,,https://www.renault.fr/,
-FR,car_repair,Garage Renault,Q6686,open_adapted,,,,https://www.renault.fr/,
-FR,car_repair,Roady,Q3434112,open,,,,https://www.roady.fr/,
-FR,car_repair,Speedy,Q3492969,open_adapted,,,,https://www.speedy.fr/,
-FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covid-19-informations-clients.html,
-FR,car_repair,Vulco,Q80184403,open,,,,https://www.facebook.com/vulcofrance/,
+FR,car_repair,Renault,Q6686,open_adapted,,,,https://www.renault.fr/mesures-covid19.html,
+FR,car_repair,Garage Renault,Q6686,open_adapted,,,,https://www.renault.fr/mesures-covid19.html,
+FR,car_repair,Roady,Q3434112,open,,,,https://www.roady.fr/venir-dans-votre-centre-auto-roady-en-toute-legalite,
+FR,car_repair,Speedy,Q3492969,open,,,,https://www.speedy.fr/prevention-sanitaire,
+FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covid-19-aucune-concession-sur-votre-sante.html,
+FR,car_repair,Vulco,Q80184403,open,,,Privilégiez une prise de rendez-vous,https://www.vulco.com/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
 FR,chocolate,Leonidas,Q80335,open_adapted,,,,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
 FR,clothes,Cache Cache,Q63064086,open_adapted,,,,https://www.cache-cache.fr/faq-ouverture-magasins-l,https://www.cache-cache.fr/magasins
