@@ -678,7 +678,7 @@ FR,bank,La Banque Postale,Q3206431,open,,,Préférer les échanges à distance,h
 FR,bank,LCL,Q779722,open,,,Préférer les échanges à distance,,
 FR,bank,Société Générale,Q270363,open,,,Préférer les échanges à distance,https://particuliers.societegenerale.fr/articles-actualites/covid-19#_P1,
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,Préférer les échanges à distance,https://com.groupe-credit-du-nord.com/D01042020170142.cfm,
-FR,beauty,Marionnaud,Q1129073,open,,,,https://www.marionnaud.fr/covid-mesures-reouvertures-magasins,
+FR,beauty,Marionnaud,Q1129073,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no""  }",pour le clic and collect : https://www.marionnaud.fr/magasins,https://www.marionnaud.fr/restez-chez-vous,
 FR,beauty,Yves Rocher,Q28496595,closed,,,,https://www.yves-rocher.fr/,
 FR,cafe,Columbus Café & Co,Q90406058,partial,,,,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
 FR,cafe,Starbucks,Q37158,closed,,,,https://www.starbucks.fr/,
