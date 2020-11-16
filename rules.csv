@@ -680,18 +680,18 @@ FR,bank,Société Générale,Q270363,open,,,Préférer les échanges à distance
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,Préférer les échanges à distance,https://com.groupe-credit-du-nord.com/D01042020170142.cfm,
 FR,beauty,Marionnaud,Q1129073,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no""  }",pour le clic and collect : https://www.marionnaud.fr/magasins,https://www.marionnaud.fr/restez-chez-vous,
 FR,beauty,Yves Rocher,Q28496595,closed,,,,https://www.yves-rocher.fr/,
-FR,cafe,Columbus Café & Co,Q90406058,partial,,,,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
-FR,cafe,Starbucks,Q37158,closed,,,,https://www.starbucks.fr/,
+FR,cafe,Columbus Café & Co,Q90406058,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
+FR,cafe,Starbucks,Q37158,partial,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",Pour livraison : https://www.starbucks.fr/delivers,https://www.starbucks.fr/,
 FR,car_rental,Ada,Q57313774,open,,,,https://www.ada.fr/,
-FR,car_rental,Alamo,Q1429287,partial,,,,https://www.alamo.fr/alerte/,
-FR,car_rental,Avis,Q791136,open,,,,https://www.avis.fr/avis-coronavirus-advice,
+FR,car_rental,Alamo,Q1429287,open,,,,https://www.alamo.fr/,
+FR,car_rental,Avis,Q791136,partial,,,,https://www.avis.fr/avis-coronavirus-advice,
 FR,car_rental,Budget,Q1001437,partial,,,,https://www.budget.fr/Informations-importantes-coronavirus,https://abg-my.sharepoint.com/:b:/p/x601862_em/EVwciUYw-lxOmxCkeyYMk-0BTcEO7xQHJNx5XVS2mE-WKQ?e=5vzaxM
 FR,car_rental,Enterprise,Q17085454,partial,,,,https://www.enterprise.fr/fr/aide/notifications/branch-closure-notification.html,
-FR,car_rental,Europcar,Q1376256,partial,,,,https://www.europcar.fr/,
-FR,car_rental,Hertz,Q1543874,partial,,,,https://www.hertz.fr/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,http://images.hertz.com/pdfs/frFR/informations_agences.pdf
-FR,car_rental,Rent A Car,Q3425574,partial,,,,https://www.rentacar.fr/nos-dossiers/267-precaution-coronavirus,
-FR,car_rental,Sixt,Q705664,open,,,,https://www.sixt.fr/magazine/actualites/informations-actuelles-voyages/,
-FR,car_rental,Ucar,,open_adapted,,,,https://ucar.fr/Portals/_default/Skins/Ucar/Images/Engagement_UCAR_COVID19.pdf,
+FR,car_rental,Europcar,Q1376256,partial,,,,https://www.europcar.fr/,https://www.europcar.com/files/live/sites/Europcar/files/contributed/customer_info/Stations-status.pdf
+FR,car_rental,Hertz,Q1543874,partial,,,,https://www.hertz.fr/rentacar/misc/index.jsp?targetPage=coronavirus_travel_safety_tips.xml,https://images.hertz.com/pdfs/Temporarily_Closed_Locations.pdf
+FR,car_rental,Rent A Car,Q3425574,open,,,Livraison de véhicules : https://www.rentacar.fr/images/cms_uploaded/Coronavirus/AgencesLivraison_13.11.20.pdf,https://www.rentacar.fr/nos-dossiers/267-precaution-coronavirus,
+FR,car_rental,Sixt,Q705664,open,,,,https://www.sixt.fr/magazine/actualites/sixt-ride-coronavirus/,
+FR,car_rental,Ucar,,open,,,Possibilité de livraison et de reprise de véhicules à domicile,https://ucar.fr/acheter-partager/actualites/nos-agences-de-location-restent-ouvertes-pendant-le-confinement/,
 FR,car_repair,AD,Q18697078,partial,,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
 FR,car_repair,Autodistribution,Q18697078,partial,,,,https://www.autodistribution.fr/,https://www.autodistribution.fr/magasins-pieces-auto
 FR,car_repair,BestDrive,Q63057183,open_adapted,,,Sur rendez-vous uniquement,https://bestdrive.fr/infos/covid-19.html,https://bestdrive.fr/infos/covid-19.html#map
