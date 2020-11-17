@@ -712,17 +712,17 @@ FR,car_repair,Roady,Q3434112,open,,,,https://www.roady.fr/venir-dans-votre-centr
 FR,car_repair,Speedy,Q3492969,open,,,,https://www.speedy.fr/prevention-sanitaire,
 FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covid-19-aucune-concession-sur-votre-sante.html,
 FR,car_repair,Vulco,Q80184403,open,,,Privilégiez une prise de rendez-vous,https://www.vulco.com/,
-FR,chocolate,Jeff de Bruges,Q3176626,partial,,,,https://twitter.com/Jeff_de_Bruges/status/1240648143517224961,https://magasins.jeff-de-bruges.com/
-FR,chocolate,Leonidas,Q80335,open_adapted,,,,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
-FR,clothes,Cache Cache,Q63064086,open_adapted,,,,https://www.cache-cache.fr/faq-ouverture-magasins-l,https://www.cache-cache.fr/magasins
-FR,clothes,Camaïeu,Q2934647,open,,,,https://www.camaieu.fr/content/la-marque/nos-actualites/articles,
-FR,clothes,Celio,Q2672003,open,,,,https://www.facebook.com/celiofrance/posts/3261295267236173,
-FR,clothes,Etam,Q3059202,open_adapted,,,,https://www.etam.com/,
-FR,clothes,Gémo,Q3122954,open,,"{ ""drive_through:covid19"": ""yes"" }",,https://www.gemo.fr/,
-FR,clothes,Grain de Malice,Q66757157,open,,,,https://www.graindemalice.fr,
-FR,clothes,Jules,Q3188386,open,,,,,https://www.jules.com/fr-fr/recherche-magasins/
-FR,clothes,Kiabi,Q3196299,open_adapted,,"{ ""safety:covid19"": ""mask"" }",Certains services non disponibles en magasin,https://www.kiabi.com/services/ensemble-en-securite.html,
-FR,clothes,Sergent Major,Q62521738,open_adapted,,,,https://www.sergent-major.com/,
+FR,chocolate,Jeff de Bruges,Q3176626,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Les divers services : https://www.jeff-de-bruges.com/edito/services,https://www.facebook.com/JeffdeBrugesofficiel/posts/3545294928865031,https://magasins.jeff-de-bruges.com/
+FR,chocolate,Leonidas,Q80335,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.leonidas.com/fr_fr/commander-en-ligne,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
+FR,clothes,Cache Cache,Q63064086,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.cache-cache.fr/faq-corona-l,https://www.cache-cache.fr/magasins
+FR,clothes,Camaïeu,Q2934647,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.camaieu.fr/restez-chez-vous,
+FR,clothes,Celio,Q2672003,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.celio.com/services/operations-magasins,https://store.celio.com/,
+FR,clothes,Etam,Q3059202,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.etam.com/covid19_nosengagements.html,
+FR,clothes,Gémo,Q3122954,closed,,,,https://www.gemo.fr/faq#covid-stores,
+FR,clothes,Grain de Malice,Q66757157,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.graindemalice.fr,
+FR,clothes,Jules,Q3188386,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.jules.com/fr-fr/faq-coronavirus.html,https://www.jules.com/fr-fr/recherche-magasins/
+FR,clothes,Kiabi,Q3196299,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.kiabi.com/services/les-produits-kiabi.html#covid19,https://www.kiabi.com/,
+FR,clothes,Sergent Major,Q62521738,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.sergent-major.com/informations-covid/covid-19.html,
 FR,computer,LDLC,Q3117461,partial,,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
 FR,doityourself,Brico,Q2510786,open,,,,https://www.brico.be/fr,
 FR,doityourself,Brico Dépôt,Q2889702,open_adapted,,,,https://www.bricodepot.fr/catalogue/ouverture-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
