@@ -723,29 +723,29 @@ FR,clothes,Grain de Malice,Q66757157,closed,,"{ ""delivery:covid19"": ""yes"" }"
 FR,clothes,Jules,Q3188386,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.jules.com/fr-fr/faq-coronavirus.html,https://www.jules.com/fr-fr/recherche-magasins/
 FR,clothes,Kiabi,Q3196299,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.kiabi.com/services/les-produits-kiabi.html#covid19,https://www.kiabi.com/,
 FR,clothes,Sergent Major,Q62521738,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.sergent-major.com/informations-covid/covid-19.html,
-FR,computer,LDLC,Q3117461,partial,,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
+FR,computer,LDLC,Q3117461,open,,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
 FR,doityourself,Brico,Q2510786,open,,,,https://www.brico.be/fr,
-FR,doityourself,Brico Dépôt,Q2889702,open_adapted,,,,https://www.bricodepot.fr/catalogue/ouverture-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
+FR,doityourself,Brico Dépôt,Q2889702,open,,,,https://www.bricodepot.fr/catalogue/ouverture-coronavirus/,https://www.bricodepot.fr/catalogue/infos-depots-coronavirus/
 FR,doityourself,Brico Pro,,open,,,,https://www.bricopro.fr/,
-FR,doityourself,Bricoman,Q2925142,open,,,,https://www.bricoman.fr/reouverture,
-FR,doityourself,Bricomarché,Q2925147,open,,,Retrait click & collect uniquement,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact,https://www.bricomarche.com/magasins-ouverts-click-and-collect-sans-contact
-FR,doityourself,Bricorama,Q2925146,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.bricorama.fr/retrait-covid,https://www.bricorama.fr/retrait-covid
-FR,doityourself,Castorama,Q966971,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.castorama.fr/,https://www.castorama.fr/reouverture-magasins-libre-service
-FR,doityourself,Chausson Matériaux,,open_adapted,,,,https://www.chausson-materiaux.fr/,
-FR,doityourself,Gedimat,,open_adapted,,,,https://www.gedimat.fr/,
+FR,doityourself,Bricoman,Q2925142,open,,,,https://www.bricoman.fr/,
+FR,doityourself,Bricomarché,Q2925147,open,,,,https://www.bricomarche.com/informations-covid-19,
+FR,doityourself,Bricorama,Q2925146,open,,,,https://www.bricorama.fr/ouverture-magasin/,
+FR,doityourself,Castorama,Q966971,open,,,,https://www.castorama.fr/,https://www.castorama.fr/reouverture-magasins-libre-service
+FR,doityourself,Chausson Matériaux,,open,,,,https://www.chausson.fr/pages/covid19/procedure-enlevement,
+FR,doityourself,Gedimat,,open,,,,https://www.gedimat.fr/,
 FR,doityourself,Lapeyre,Q3117467,open,,,,https://www.facebook.com/Lapeyre/,
-FR,doityourself,Leroy Merlin,Q889624,partial,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"" } ",Réouverture progressive du libre-service en magasin,https://www.leroymerlin.fr/services/nos-services-en-magasin-pendant-confinement/,https://www.leroymerlin.fr/magasins/trouver-magasin/#
-FR,doityourself,Mr Bricolage,Q3141657,open_adapted,,,,https://www.mr-bricolage.fr/recommandations-covid19-c.html,
-FR,doityourself,Point P,Q62973104,partial,,,,https://www.pointp.fr/info-covid-19-clients-professionnels,https://www.pointp.fr/info-covid-19-clients-professionnels
-FR,doityourself,Queguiner Matériaux,Q3414861,open_adapted,,"{ ""drive_through:covid19"": ""yes"", ""access:covid19"": ""no"" }",Récupération de commandes uniquement,https://www.groupe-queguiner.fr/actualites/information-covid-19/,
-FR,doityourself,Réseau Pro,,partial,,,Réouvertures progressives à partir du 23 mars,https://www.reseaupro.fr/coronavirus-ouvertures-agences,https://www.reseaupro.fr/coronavirus-ouvertures-agences
-FR,doityourself,Weldom,Q16683226,open,,,,https://www.weldom.fr/,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
-FR,electronics,Apple,Q421253,closed,,,,https://www.apple.com/fr/,
-FR,electronics,Boulanger,Q2921695,closed,,,,https://twitter.com/boulanger/status/1240256275147034624,
+FR,doityourself,Leroy Merlin,Q889624,open,,,,https://www.leroymerlin.fr/services/visitez-nos-magasins-esprit-serein.html,https://www.leroymerlin.fr/magasins/trouver-magasin/#
+FR,doityourself,Mr Bricolage,Q3141657,open,,,,https://www.mr-bricolage.fr/recommandations-covid19-c.html,
+FR,doityourself,Point P,Q62973104,open,,,,https://www.pointp.fr/services-pour-les-particuliers/prenez-soin-de-vous-et-de-votre-chez-vous,https://www.pointp.fr/info-covid-19-clients-professionnels
+FR,doityourself,Queguiner Matériaux,Q3414861,open_adapted,,,Sur rendez vous,https://www.groupe-queguiner.fr/actualites/info-covid-19/,
+FR,doityourself,Réseau Pro,,partial,,,,https://www.reseaupro.fr/coronavirus-ouvertures-agences,https://www.reseaupro.fr/coronavirus-ouvertures-agences
+FR,doityourself,Weldom,Q16683226,open_adapted,,,,https://www.weldom.fr/weldom/comptoir-drive,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
+FR,electronics,Apple,Q421253,open,,,,https://www.apple.com/fr/,
+FR,electronics,Boulanger,Q2921695,open,,,,https://www.boulanger.com/evenement/faq?category=10295-informations-covid-19,
 FR,electronics,Darty,Q2439098,open,,,,https://www.darty.com/achat/services/faq-magasins-et-commandes/index.html,
 FR,electronics,Électro Dépôt,Q2388060,open,,,,https://www.electrodepot.fr/,https://www.electrodepot.fr/nos-magasins
-FR,electronics,Gitem,Q3107853,open,,,,https://www.gitem.fr/#slide-2,
-FR,electronics_repair,Docteur IT,,open,,,,https://www.docteur-it.com/,
+FR,electronics,Gitem,Q3107853,open,,,,https://www.gitem.fr/,
+FR,electronics_repair,Docteur IT,,partial,,,,https://www.docteur-it.com/,
 FR,employment_agency,Adecco,Q353496,open_adapted,,,Sur rendez vous,https://www.adecco.fr/,
 FR,employment_agency,Manpower,Q56315899,open_adapted,,,Sur rendez vous,https://www.manpower.fr/bulletin-informations-covid-19,
 FR,employment_agency,Pôle Emploi,Q8901192,open_adapted,,,Sans rendez-vous le matin,https://www.pole-emploi.fr/actualites/a-laffiche/pole-emploi-face-a-la-crise-sani.html,
