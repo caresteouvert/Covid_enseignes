@@ -869,12 +869,12 @@ FR,stationery,Bureau Vallée,Q18385014,open,,,Privilégier le click-and-collect,
 FR,stationery,Office Dépôt,Q1337797,open_adapted,Mo-Sa 10:00-18:00,"{ ""delivery:covid19"": ""yes"" }",,https://www.officedepot.fr/specialLinksNoChat.do?file=/continuite-activite.jsp,https://magasins.officedepot.fr/
 FR,stationery,Top Office,Q24929304,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,https://www.top-office.com/magasins
 FR,supermarket,Atac,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
-FR,supermarket,Aldi,Q125054,open_adapted,,,Fermé les 22/03 et 29/03,https://www.aldi.fr/,
-FR,supermarket,Auchan,Q758603,open,,,,https://twitter.com/AUCHAN_France/status/1239652791045574660,
+FR,supermarket,Aldi,Q125054,open,,,,https://www.aldi.fr/,
+FR,supermarket,Auchan,Q758603,open,,,Click and Collect : https://www.auchan.fr/magasin-click-and-collect/e-magasin-click-and-collect,https://www.auchan.fr/,
 FR,supermarket,Bi1,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
-FR,supermarket,Bio c' Bon,Q54312551,open_adapted,"Mo-Sa 10:00-14:00,15:00-19:00",,,https://www.bio-c-bon.eu/fr/covid-19-nos-mesures-en-magasin,https://www.bio-c-bon.eu/fr/nos_magasins
-FR,supermarket,Biocoop,Q2904039,open_adapted,,,,https://www.biocoop.fr/actualites-bio/Biocoop-Solidaire-Attitude,
-FR,supermarket,Biomonde,,open_adapted,,,,https://www.facebook.com/biomondecooperative/posts/3180682271951752,"https://www.biomonde.fr/nos-magasins,1,58,1"
+FR,supermarket,Bio c' Bon,Q54312551,open,,,,https://www.bio-c-bon.eu/fr,
+FR,supermarket,Biocoop,Q2904039,open,,,,https://www.biocoop.fr/,
+FR,supermarket,Biomonde,,open,,,,https://www.biomonde.fr/,
 FR,supermarket,Carrefour,Q217599,open,,,,https://www.carrefour.fr/,
 FR,supermarket,Carrefour City,Q2940187,open,,,,https://www.carrefour.fr/,
 FR,supermarket,Carrefour Contact,Q2940188,open,,,,https://www.carrefour.fr/,
@@ -884,38 +884,38 @@ FR,supermarket,Casino,Q2670967,open,,,,https://www.supercasino.fr/landing/notre-
 FR,supermarket,Chronodrive,Q2966828,open,,,,https://www.facebook.com/Chronodrive/,
 FR,supermarket,CocciMarket,Q17561658,open,,,,https://www.coccinelle.fr/,
 FR,supermarket,Coccinelle,Q17561658,open,,,,https://www.coccinelle.fr/,
-FR,supermarket,Colruyt,Q2363991,open_adapted,Mo-Sa 09:00-19:00,,,https://www.colruyt.fr/colruytfr/static/news.shtml?readnews=6,
+FR,supermarket,Colruyt,Q2363991,open,,,,https://www.colruyt.fr/colruytfr/static/news.shtml?readnews=6,
 FR,supermarket,Cora,Q686643,open,,,,https://www.cora.fr/,
 FR,supermarket,E. Leclerc,Q1273376,open,,,,https://www.e-leclerc.com/catalogue/evenements/covid-19-les-centres-eleclerc-sont-mobilises,
-FR,supermarket,Franprix,Q2420096,open,,"{ ""delivery:covid19"": ""yes"" }",Livraison à domicile gratuite pour personnes âgées ou fragiles,https://twitter.com/franprix/status/1239917728217137157,
-FR,supermarket,G20,Q3504731,open_adapted,,,"Magasins indépendants, vérifier avant de s’y rendre",https://www.facebook.com/supermarchesg20,
-FR,supermarket,Géant Casino,Q1380537,open_adapted,,,,https://www.geantcasino.fr/,https://magasins.geantcasino.fr/
-FR,supermarket,Grand Frais,Q3114675,open_adapted,Mo-Sa 09:00-18:00,,Magasins alsaciens ouverts de 9h à 14h,https://www.grandfrais.com/themes/theme-8.html,https://www.grandfrais.com/recherchemagasin.html
-FR,supermarket,Picard Surgelés,Q3382454,open_adapted,,"{ ""delivery:covid19"": ""yes"" }",Livraisons à domicile du Lundi au Samedi de 7h à 21h selon localités,https://twitter.com/picardsurgeles/status/1241719937430892544,https://magasins.picard.fr/
-FR,supermarket,Intermarché,Q3153200,open_adapted,,,,https://www.intermarche.com/enseigne/magazine/mesures-COVID,
+FR,supermarket,Franprix,Q2420096,open,,,,https://twitter.com/franprix/status/1239917728217137157,
+FR,supermarket,G20,Q3504731,open,,,,https://www.supermarchesg20.com,
+FR,supermarket,Géant Casino,Q1380537,open,,,,https://www.geantcasino.fr/,https://magasins.geantcasino.fr/
+FR,supermarket,Grand Frais,Q3114675,open,,,,https://www.grandfrais.com/,https://www.grandfrais.com/recherchemagasin.html
+FR,supermarket,Picard Surgelés,Q3382454,open,,,,https://www.picard.fr,https://magasins.picard.fr/
+FR,supermarket,Intermarché,Q3153200,open,,,,https://www.intermarche.com/enseigne/magazine/mesures-COVID,
 FR,supermarket,L’Eau Vive,,open,,,,https://www.facebook.com/leauvivebio/videos/666475330774957/,https://www.eau-vive.com/magasin-bio/magasins
-FR,supermarket,La Vie Claire,Q3213589,open_adapted,,,,https://www.lavieclaire.com/,https://magasins.lavieclaire.com/lavieclaire/fr
-FR,supermarket,Le Marché de Léopold,,open_adapted,"Mo-Sa 9:30-13:00, 14:00-18:00",,,https://www.lemarchedeleopold.com/mesurescovid19/,
-FR,supermarket,Les Nouveaux Robinson,Q3345091,open_adapted,,,,https://www.facebook.com/lesnouveauxrobinson/photos/a.10150247251555077/10163485466510077/?type=3,http://lesnouveauxrobinson.coop/les-magasins/
+FR,supermarket,La Vie Claire,Q3213589,open,,,,https://www.lavieclaire.com/,https://magasins.lavieclaire.com/lavieclaire/fr
+FR,supermarket,Le Marché de Léopold,,open,,,,https://www.lemarchedeleopold.com/mesurescovid19/,
+FR,supermarket,Les Nouveaux Robinson,Q3345091,open,,,,https://lesnouveauxrobinson.coop/,http://lesnouveauxrobinson.coop/les-magasins/
 FR,supermarket,Leader Price,Q2181426,open,,,,https://www.leaderprice.fr/,
-FR,supermarket,Lidl,Q151954,open,,,,https://twitter.com/lidlfrance/status/1239516477247684609,
-FR,supermarket,Match,Q513977,open,,,,https://twitter.com/supermarchematc/status/1239587373505294339,
-FR,supermarket,Maximarché,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
-FR,supermarket,Monoprix,Q3321241,open,,,,https://twitter.com/Monoprix/status/1240558643281608704,
+FR,supermarket,Lidl,Q151954,open,,,,,
+FR,supermarket,Match,Q513977,open,,,,,
+FR,supermarket,Maximarché,Q3475335,open,,,,,
+FR,supermarket,Monoprix,Q3321241,open,,,,,
 FR,supermarket,Naturalia,Q3337081,open,,,,https://naturalia.fr/naturalia-covid19,https://naturalia.fr/magasins/trouvez-votre-magasin-naturalia
-FR,supermarket,NaturéO,,open_adapted,,,,https://www.natureo-bio.fr/magasin-bio/,
+FR,supermarket,NaturéO,,open,,,,https://www.natureo-bio.fr/,
 FR,supermarket,Netto,Q2720988,open,,,,https://www.facebook.com/nettofrance,
 FR,supermarket,Petit Casino,Q89029249,open,,,,https://www.casinoshop.fr/nos-actualites/actualite-338.html,
 FR,supermarket,Proximarché,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
-FR,supermarket,Satoriz,,open_adapted,Mo-Sa 10:00-17:00,,,http://www.satoriz.fr/animations/mesures-liees-au-covid-19/,
-FR,supermarket,Sherpa,Q3481967,open_adapted,,,,https://twitter.com/Magasins_Sherpa/status/1242115976805650435,https://sherpa.net/magasins
+FR,supermarket,Satoriz,,open,,,,http://www.satoriz.fr/,
+FR,supermarket,Sherpa,Q3481967,open,,,,https://www.sherpa.net/,
 FR,supermarket,Spar,Q610492,open,,,,https://www.spar.fr/?page=actualite&actu=87,
 FR,supermarket,Vival,Q7937525,open,,,,https://www.vival.fr/,https://magasins.vival.fr/
-FR,supermarket,Hyper U,Q2529029,open_adapted,,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
-FR,supermarket,Magasins U,Q2529029,open_adapted,,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
-FR,supermarket,Super U,Q2529029,open_adapted,,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
-FR,supermarket,Système U,Q2529029,open_adapted,,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
-FR,supermarket,U Express,Q2529029,open_adapted,,,,https://www.magasins-u.com/accueil,https://www.magasins-u.com/fichiers/horaires-magasins_pdf
+FR,supermarket,Hyper U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
+FR,supermarket,Magasins U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
+FR,supermarket,Super U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
+FR,supermarket,Système U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
+FR,supermarket,U Express,Q2529029,open,,,,https://www.magasins-u.com/accueil,
 FR,variety_store,Action,Q2634111,open,,,Uniquement pour les produits essentiels,https://www.action.com/fr-fr/mise-a-jour/,https://www.action.com/fr-fr/points-de-vente/
 FR,variety_store,GiFi,Q3105439,partial,,,Click-and-collect sur https://www.gifi-clickandcollect.fr/,https://www.gifi.fr/faq-covid19.html,
 FR,variety_store,Noz,Q3345688,open_adapted,"Mo-Sa 10:00-13:30, 14:00-19:00 ",,Uniquement pour les produits essentiels,https://www.nozarrivages.com/nouveaux-horaires-arrivages/,https://www.nozarrivages.com/magasin/
