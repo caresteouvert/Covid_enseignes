@@ -716,7 +716,7 @@ FR,chocolate,Jeff de Bruges,Q3176626,partial,,"{ ""delivery:covid19"": ""yes"", 
 FR,chocolate,Leonidas,Q80335,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.leonidas.com/fr_fr/commander-en-ligne,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
 FR,clothes,Cache Cache,Q63064086,open_adapted,,"{ ""delivery:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.cache-cache.fr/faq-corona-l,https://www.cache-cache.fr/magasins
 FR,clothes,Camaïeu,Q2934647,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.camaieu.fr/content/FAQ/se-retrouver,
-FR,clothes,Celio,Q2672003,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.celio.com/services/operations-magasins,https://store.celio.com/,
+FR,clothes,Celio,Q2672003,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.celio.com/services/operations-magasins,https://store.celio.com/,
 FR,clothes,Etam,Q3059202,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.etam.com/reouverture_magasins.html,
 FR,clothes,Gémo,Q3122954,open,,,,https://www.gemo.fr/faq#covid-stores,
 FR,clothes,Grain de Malice,Q66757157,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.graindemalice.fr,
@@ -779,11 +779,11 @@ FR,fuel,Total Access,Q154037,open,,,,https://www.total.fr/actus/nos-actualites/d
 FR,funeral_directors,PFG,Q3396087,open,,,Appeler avant de se déplacer,https://www.pfg.fr/,
 FR,funeral_directors,Roblot,Q63247414,open,,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.roblot.fr/,
 FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.com/groupe/magazine/actualites/roc-eclerc-se-mobilise-contre-le-virus-covid-19/,
-FR,furniture,Centrakor,Q64079345,partial,,,Possibilité de commande en ligne avec retrait en magasins dans les lieux participants,https://www.centrakor.com/,
-FR,garden_centre,Gamm Vert,Q3095006,open_adapted,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie et alimentation",https://www.gammvert.fr/,https://magasin.gammvert.fr/
-FR,garden_centre,Jardiland,Q3162276,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie et alimentation",https://www.jardiland.com/,
+FR,furniture,Centrakor,Q64079345,open,,,,https://www.centrakor.com/,
+FR,garden_centre,Gamm Vert,Q3095006,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }",,https://www.gammvert.fr/,https://magasin.gammvert.fr/
+FR,garden_centre,Jardiland,Q3162276,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }",,https://www.jardiland.com/contact/faq/faq?category=76000005832&kameleoon=%27true%27,
 FR,garden_centre,Point Vert,Q16661975,open,,"{ ""access:covid19"": ""yes"" }",,https://www.magasin-point-vert.fr/,https://www.magasin-point-vert.fr/magasins
-FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie, épicerie et alimentation ",https://www.truffaut.com/information-actualite,
+FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }",,https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,open_adapted,,,Sur rendez-vous,https://www.amplifon.com/,https://www.amplifon.com
 FR,hearing_aids,Audika,Q2870745,open_adapted,,,Sur rendez-vous,https://www.audika.fr/landing-page/audika-plus-vous,https://www.audika.fr/centres
 FR,hairdresser,Fabio Salsa,,open,,,,https://www.fabiosalsa.com/,
