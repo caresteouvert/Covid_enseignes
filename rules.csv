@@ -679,7 +679,7 @@ FR,bank,LCL,Q779722,open,,,Préférer les échanges à distance,,
 FR,bank,Société Générale,Q270363,open,,,Préférer les échanges à distance,https://particuliers.societegenerale.fr/articles-actualites/covid-19#_P1,
 FR,bank,Société Marseillaise de Crédit,Q3488479,open,,,Préférer les échanges à distance,https://com.groupe-credit-du-nord.com/D01042020170142.cfm,
 FR,beauty,Marionnaud,Q1129073,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no""  }",pour le clic and collect : https://www.marionnaud.fr/magasins,https://www.marionnaud.fr/restez-chez-vous,
-FR,beauty,Yves Rocher,Q28496595,closed,,,,https://www.yves-rocher.fr/,
+FR,beauty,Yves Rocher,Q28496595,open,,,,https://www.yves-rocher.fr/toujours-avec-vous,
 FR,cafe,Columbus Café & Co,Q90406058,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.columbuscafe.com/info-covid-19/,https://www.columbuscafe.com/info-covid-19/
 FR,cafe,Starbucks,Q37158,partial,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""no"" }",Pour livraison : https://www.starbucks.fr/delivers,https://www.starbucks.fr/,
 FR,car_rental,Ada,Q57313774,open,,,,https://www.ada.fr/,
@@ -714,14 +714,14 @@ FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covi
 FR,car_repair,Vulco,Q80184403,open,,,Privilégiez une prise de rendez-vous,https://www.vulco.com/,
 FR,chocolate,Jeff de Bruges,Q3176626,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Les divers services : https://www.jeff-de-bruges.com/edito/services,https://www.facebook.com/JeffdeBrugesofficiel/posts/3545294928865031,https://magasins.jeff-de-bruges.com/
 FR,chocolate,Leonidas,Q80335,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.leonidas.com/fr_fr/commander-en-ligne,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
-FR,clothes,Cache Cache,Q63064086,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.cache-cache.fr/faq-corona-l,https://www.cache-cache.fr/magasins
-FR,clothes,Camaïeu,Q2934647,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.camaieu.fr/restez-chez-vous,
+FR,clothes,Cache Cache,Q63064086,open_adapted,,"{ ""delivery:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.cache-cache.fr/faq-corona-l,https://www.cache-cache.fr/magasins
+FR,clothes,Camaïeu,Q2934647,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.camaieu.fr/content/FAQ/se-retrouver,
 FR,clothes,Celio,Q2672003,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.celio.com/services/operations-magasins,https://store.celio.com/,
-FR,clothes,Etam,Q3059202,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.etam.com/covid19_nosengagements.html,
-FR,clothes,Gémo,Q3122954,closed,,,,https://www.gemo.fr/faq#covid-stores,
-FR,clothes,Grain de Malice,Q66757157,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.graindemalice.fr,
+FR,clothes,Etam,Q3059202,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.etam.com/reouverture_magasins.html,
+FR,clothes,Gémo,Q3122954,open,,,,https://www.gemo.fr/faq#covid-stores,
+FR,clothes,Grain de Malice,Q66757157,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.graindemalice.fr,
 FR,clothes,Jules,Q3188386,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.jules.com/fr-fr/faq-coronavirus.html,https://www.jules.com/fr-fr/recherche-magasins/
-FR,clothes,Kiabi,Q3196299,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",Click and Collect : https://www.kiabi.com/services/les-produits-kiabi.html#covid19,https://www.kiabi.com/,
+FR,clothes,Kiabi,Q3196299,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.kiabi.com/services/les-produits-kiabi.html#covid19,https://www.kiabi.com/services/ensemble-en-securite.html,
 FR,clothes,Sergent Major,Q62521738,closed,,"{ ""delivery:covid19"": ""yes"" }",,https://www.sergent-major.com/informations-covid/covid-19.html,
 FR,computer,LDLC,Q3117461,open,,,,https://www.ldlc.com/aide/219-informations-covid-19/,https://www.ldlc.com/magasins-ldlc/
 FR,doityourself,Brico,Q2510786,open,,,,https://www.brico.be/fr,
@@ -786,12 +786,12 @@ FR,garden_centre,Point Vert,Q16661975,open,,"{ ""access:covid19"": ""yes"" }",,h
 FR,garden_centre,Truffaut,Q3162640,open,,"{ ""drive_through:covid19"": ""yes"", ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }","Uniquement les rayons jardin, animalerie, épicerie et alimentation ",https://www.truffaut.com/information-actualite,
 FR,hearing_aids,Amplifon,Q477222,open_adapted,,,Sur rendez-vous,https://www.amplifon.com/,https://www.amplifon.com
 FR,hearing_aids,Audika,Q2870745,open_adapted,,,Sur rendez-vous,https://www.audika.fr/landing-page/audika-plus-vous,https://www.audika.fr/centres
-FR,hairdresser,Fabio Salsa,,closed,,,,https://www.fabiosalsa.com/,
-FR,hairdresser,Franck Provost,Q62805922,closed,,,,https://www.franckprovost.com/,https://reservations.franckprovost.com/reservation/area
-FR,hairdresser,Jean Louis David,Q64445174,closed,,,,https://www.jeanlouisdavid.com,https://reservations.jeanlouisdavid.com/reservation/area
-FR,hairdresser,Saint Algue,Q62973210,closed,,,,https://www.saint-algue.com/,https://reservations.saint-algue.com/reservation/area
+FR,hairdresser,Fabio Salsa,,open,,,,https://www.fabiosalsa.com/,
+FR,hairdresser,Franck Provost,Q62805922,open,,,,https://www.franckprovost.com/,https://reservations.franckprovost.com/reservation/area
+FR,hairdresser,Jean Louis David,Q64445174,open,,,,https://www.jeanlouisdavid.com,https://reservations.jeanlouisdavid.com/reservation/area
+FR,hairdresser,Saint Algue,Q62973210,open,,,,https://www.saint-algue.com/,https://reservations.saint-algue.com/reservation/area
 FR,hairdresser,Tchip Coiffure,Q62871250,closed,,,,https://www.tchip.fr/,
-FR,hairdresser,The Barber Company,,closed,,,,https://thebarbercompany.fr/,https://salons.thebarbercompany.fr/fr/barbier/
+FR,hairdresser,The Barber Company,,open,,,,https://thebarbercompany.fr/,https://salons.thebarbercompany.fr/fr/barbier/
 FR,hotel,B&B Hôtel,Q794939,open,,,Restauration à emporter ou à comsommer dans la chambre,https://www.hotel-bb.com/fr/information-coronavirus,
 FR,hotel,Formule 1,Q1630895,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
 FR,hotel,Ibis,Q920166,open,,,Restauration à emporter ou à comsommer dans la chambre,https://all.accor.com/event/information.fr.shtml,
@@ -821,7 +821,7 @@ FR,insurance,MMA,Q3331046,open_adapted,,,,https://www.mma.fr/a-propos/notre-actu
 FR,insurance,Mutuelle de Poitiers Assurances,,open_adapted,,,,https://www.assurance-mutuelle-poitiers.fr/covid-19-nous-restons-mobilises,https://agence.assurance-mutuelle-poitiers.fr/
 FR,laundry,5àSec,Q2817899,open,,,,https://www.5asec.fr/trouvez-votre-pressing,https://www.5asec.fr/trouvez-votre-pressing
 FR,laundry,Lav’Club,,open,,,,http://lavclub.net/info-coronavirus-laverie-ouverte/,http://lavclub.net/
-FR,library,Fnac,Q676585,open,,,"Uniquement achat et réparation de produits électriques, électroniques et informatiques, ou retrait de commandes",https://www.fnac.com/questions#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN1|NonApplicable,
+FR,library,Fnac,Q676585,open_adapted,,,"Pour vous aider à préparer les fêtes, les magasins ouvrent plus tôt et vous accueillent le dimanche.",https://www.fnac.com/questions#int=S:player1|Home-Gene|NonApplicable|NonApplicable|BAN1|NonApplicable,
 FR,mobile_phone,Bouygues Télécom,Q581438,open,,,,https://blog.bouyguestelecom.fr/on_en_fait_pour_vous/covid-19-bouygues-telecom-toujours-mobilisee-pour-ses-clients/,https://boutiques.bouyguestelecom.fr/bouyguestelecom/fr
 FR,mobile_phone,Coriolis Télécom,Q2997375,partial,,,,http://www.coriolis.com/magasins/,http://www.coriolis.com/magasins
 FR,mobile_phone,Free,Q2467627,open,,,Rendez-vous recommandé,https://www.free.fr/boutiques,https://www.free.fr/boutiques
