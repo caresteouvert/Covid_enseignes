@@ -861,13 +861,13 @@ FR,restaurant,Pret A Manger,Q2109109,open,,"{ ""takeaway:covid19"": ""yes"", ""a
 FR,restaurant,Ristorante Del Arte,Q3389499,partial,,"{ ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.delarte.fr/clickandcollect-restaurants-participants,
 FR,restaurant,Sushi Shop,Q3505657,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.sushishop.fr/,
 FR,restaurant,Tablapizza,,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.tablapizza.fr/tablapizza-a-la-maison-cest-tout-aussi-bien/,
-FR,shoes,Besson Chaussures,Q2899930,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.besson-chaussures.com/,
-FR,shoes,Éram,Q16684192,closed,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""no"" }",Commande en ligne avec livraison possible,https://www.eram.fr/faq-covid-19/,
-FR,sports,Decathlon,Q509349,open_adapted,,,"Uniquement vente et réparation de vélos, alimentaire pour animaux ou retrait de commandes",https://www.decathlon.fr/landing/foire-aux-questions-decathlon/_/R-a-faq,https://www.decathlon.fr/store-locator
-FR,sports,Intersport,Q666888,open,,,Uniquement vente et réparation de vélos ou retrait de commandes,https://www.intersport.fr/faq/?question=tous-magasins-intersport-fermes-jusqua-quand,https://www.intersport.fr/store-finder/
+FR,shoes,Besson Chaussures,Q2899930,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",,https://www.besson-chaussures.com/,
+FR,shoes,Éram,Q16684192,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.eram.fr/faq-covid-19/,
+FR,sports,Decathlon,Q509349,open,,,,https://www.decathlon.fr/landing/foire-aux-questions-decathlon/_/R-a-faq,https://www.decathlon.fr/store-locator
+FR,sports,Intersport,Q666888,open,,,,https://www.intersport.fr/reouverture-magasins/,https://www.intersport.fr/store-finder/
 FR,stationery,Bureau Vallée,Q18385014,open,,,Privilégier le click-and-collect,https://twitter.com/bureauvallee/status/1322139043648409601,https://magasins.bureau-vallee.fr/fr/
 FR,stationery,Office Dépôt,Q1337797,open_adapted,Mo-Sa 10:00-18:00,"{ ""delivery:covid19"": ""yes"" }",,https://www.officedepot.fr/specialLinksNoChat.do?file=/continuite-activite.jsp,https://magasins.officedepot.fr/
-FR,stationery,Top Office,Q24929304,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"", ""access:covid19"": ""no"" }",,https://www.top-office.com/informations-de-livraison.html,https://www.top-office.com/magasins
+FR,stationery,Top Office,Q24929304,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes""}",,https://www.top-office.com/informations-de-livraison.html,https://www.top-office.com/magasins
 FR,supermarket,Atac,Q3475335,open,,,,https://www.facebook.com/LaTribuSchiever/posts/2806211786122536,
 FR,supermarket,Aldi,Q125054,open,,,,https://www.aldi.fr/,
 FR,supermarket,Auchan,Q758603,open,,,Click and Collect : https://www.auchan.fr/magasin-click-and-collect/e-magasin-click-and-collect,https://www.auchan.fr/,
@@ -916,9 +916,9 @@ FR,supermarket,Magasins U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
 FR,supermarket,Super U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
 FR,supermarket,Système U,Q2529029,open,,,,https://www.magasins-u.com/accueil,
 FR,supermarket,U Express,Q2529029,open,,,,https://www.magasins-u.com/accueil,
-FR,variety_store,Action,Q2634111,open,,,Uniquement pour les produits essentiels,https://www.action.com/fr-fr/mise-a-jour/,https://www.action.com/fr-fr/points-de-vente/
-FR,variety_store,GiFi,Q3105439,partial,,,Click-and-collect sur https://www.gifi-clickandcollect.fr/,https://www.gifi.fr/faq-covid19.html,
-FR,variety_store,Noz,Q3345688,open_adapted,"Mo-Sa 10:00-13:30, 14:00-19:00 ",,Uniquement pour les produits essentiels,https://www.nozarrivages.com/nouveaux-horaires-arrivages/,https://www.nozarrivages.com/magasin/
+FR,variety_store,Action,Q2634111,open,,,,https://www.action.com/fr-fr/,https://www.action.com/fr-fr/points-de-vente/
+FR,variety_store,GiFi,Q3105439,open,,,Click-and-collect sur https://www.gifi-clickandcollect.fr/,https://www.gifi.fr/,
+FR,variety_store,Noz,Q3345688,open_adapted,Mo-Sa 09:00-20:00; Su 10:00-19:00,,,https://www.nozarrivages.com/horaires-douverture-de-decembre/,https://www.nozarrivages.com/magasin/
 IE,bookmaker,Boyle Sports,,open,,,,https://betting.boylesports.com/daily-news/boylesports-re-opens-shops-on-june-15th,https://www.boylesports.com/shoplocator/
 IE,bookmaker,Ladbrokes,Q1799875,open,,,,https://www.rte.ie/news/ireland/2020/0616/1147824-reopening-not-an-open-and-shut-case-for-bookmakers/,
 IE,bookmaker,Paddy Power,Q3888718,open,,,,https://news.paddypower.com/propaganda/2020/06/26/english-irish-betting-shops-reopen-time-royal-ascot/,https://ppsl.s73.co/
