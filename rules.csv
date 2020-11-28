@@ -712,8 +712,8 @@ FR,car_repair,Roady,Q3434112,open,,,,https://www.roady.fr/venir-dans-votre-centr
 FR,car_repair,Speedy,Q3492969,open,,,,https://www.speedy.fr/prevention-sanitaire,
 FR,car_repair,Volkswagen,Q246,open,,,,https://www.volkswagen.fr/fr/specials/covid-19-aucune-concession-sur-votre-sante.html,
 FR,car_repair,Vulco,Q80184403,open,,,Privilégiez une prise de rendez-vous,https://www.vulco.com/,
-FR,chocolate,Jeff de Bruges,Q3176626,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Les divers services : https://www.jeff-de-bruges.com/edito/services,https://www.facebook.com/JeffdeBrugesofficiel/posts/3545294928865031,https://magasins.jeff-de-bruges.com/
-FR,chocolate,Leonidas,Q80335,partial,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.leonidas.com/fr_fr/commander-en-ligne,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
+FR,chocolate,Jeff de Bruges,Q3176626,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Les divers services : https://www.jeff-de-bruges.com/edito/services,https://www.facebook.com/JeffdeBrugesofficiel/posts/3545294928865031,https://magasins.jeff-de-bruges.com/
+FR,chocolate,Leonidas,Q80335,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.leonidas.com/fr_fr/commander-en-ligne,https://www.leonidas.com/fr_fr/,https://www.leonidas.com/fr_fr/boutiques
 FR,clothes,Cache Cache,Q63064086,open_adapted,,"{ ""delivery:covid19"": ""yes"" }",Des modifications d'horaires peuvent avoir lieu donc nous vous invitons donc à consulter les horaires en ligne ou à appeler votre magasin avant de vous déplacer,https://www.cache-cache.fr/faq-corona-l,https://www.cache-cache.fr/magasins
 FR,clothes,Camaïeu,Q2934647,open,,"{ ""delivery:covid19"": ""yes"" }",,https://www.camaieu.fr/content/FAQ/se-retrouver,
 FR,clothes,Celio,Q2672003,open,,"{ ""delivery:covid19"": ""yes"", ""takeaway:covid19"": ""yes"" }",Click and Collect : https://www.celio.com/services/operations-magasins,https://store.celio.com/,
@@ -739,16 +739,16 @@ FR,doityourself,Mr Bricolage,Q3141657,open,,,,https://www.mr-bricolage.fr/recomm
 FR,doityourself,Point P,Q62973104,open,,,,https://www.pointp.fr/services-pour-les-particuliers/prenez-soin-de-vous-et-de-votre-chez-vous,https://www.pointp.fr/info-covid-19-clients-professionnels
 FR,doityourself,Queguiner Matériaux,Q3414861,open_adapted,,,Sur rendez vous,https://www.groupe-queguiner.fr/actualites/info-covid-19/,
 FR,doityourself,Réseau Pro,,partial,,,,https://www.reseaupro.fr/coronavirus-ouvertures-agences,https://www.reseaupro.fr/coronavirus-ouvertures-agences
-FR,doityourself,Weldom,Q16683226,open_adapted,,,,https://www.weldom.fr/weldom/comptoir-drive,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
+FR,doityourself,Weldom,Q16683226,open,,,,https://www.weldom.fr/weldom/comptoir-drive,https://www.weldom.fr/weldom/rechercher-votre-magasin.html/
 FR,electronics,Apple,Q421253,open,,,,https://www.apple.com/fr/,
 FR,electronics,Boulanger,Q2921695,open,,,,https://www.boulanger.com/evenement/faq?category=10295-informations-covid-19,
 FR,electronics,Darty,Q2439098,open,,,,https://www.darty.com/achat/services/faq-magasins-et-commandes/index.html,
 FR,electronics,Électro Dépôt,Q2388060,open,,,,https://www.electrodepot.fr/,https://www.electrodepot.fr/nos-magasins
 FR,electronics,Gitem,Q3107853,open,,,,https://www.gitem.fr/,
-FR,electronics_repair,Docteur IT,,partial,,,,https://www.docteur-it.com/,
+FR,electronics_repair,Docteur IT,,open,,,,https://www.docteur-it.com/,
 FR,employment_agency,Adecco,Q353496,open_adapted,,,Sur rendez vous,https://www.adecco.fr/,
-FR,employment_agency,Manpower,Q56315899,open_adapted,,,Sur rendez vous,https://www.manpower.fr/bulletin-informations-covid-19,
-FR,employment_agency,Pôle Emploi,Q8901192,open_adapted,,,Sans rendez-vous le matin,https://www.pole-emploi.fr/actualites/a-laffiche/pole-emploi-face-a-la-crise-sani.html,
+FR,employment_agency,Manpower,Q56315899,open,"Mo-Fr 08:00-12:00,14:00-18:00",,,https://www.manpower.fr/bulletin-informations-covid-19,
+FR,employment_agency,Pôle Emploi,Q8901192,open,,,,https://www.pole-emploi.fr/actualites/a-laffiche/pole-emploi-face-a-la-crise-sani.html,
 FR,employment_agency,Randstad,Q267840,open_adapted,,,Sur rendez vous,https://www.randstad.fr/,
 FR,farm,Bienvenue à la Ferme,Q2902023,open,,,,,https://www.bienvenue-a-la-ferme.com/apca/recherche/produits-fermiers/2651?lieu=&lieu_id=&lieu_distance=25&lieu_distance=25&chez_le_producteur=&chez_le_producteur=1&magasin=&point_retrait=&marche=
 FR,farm,Drive Fermier,Q2902023,open,,,,,https://www.drive-fermier.fr/carte_drive_fermier
@@ -776,9 +776,9 @@ FR,fuel,La Station U,Q2529029,open,,,,https://twitter.com/ULesCommercants/status
 FR,fuel,Shell,Q154950,open,,,Certains services en station sont fermés ou limités (restauration),https://www.shell.fr/particuliers/covid19.html,
 FR,fuel,Total,Q154037,open,,,,https://www.total.fr/actus/nos-actualites/dans-nos-stations-service-centres-de-lavage-votre-securite-est-notre-priorite,
 FR,fuel,Total Access,Q154037,open,,,,https://www.total.fr/actus/nos-actualites/dans-nos-stations-service-centres-de-lavage-votre-securite-est-notre-priorite,
-FR,funeral_directors,PFG,Q3396087,open,,,Appeler avant de se déplacer,https://www.pfg.fr/,
+FR,funeral_directors,PFG,Q3396087,open,,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.pfg.fr/,
 FR,funeral_directors,Roblot,Q63247414,open,,,Nous vous conseillons d’appeler votre agence avant de vous déplacer,https://www.roblot.fr/,
-FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.com/groupe/magazine/actualites/roc-eclerc-se-mobilise-contre-le-virus-covid-19/,
+FR,funeral_directors,Roc-Eclerc,Q62558102,open,,,,https://www.groupe-roc-eclerc.com/,
 FR,furniture,Centrakor,Q64079345,open,,,,https://www.centrakor.com/,
 FR,garden_centre,Gamm Vert,Q3095006,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }",,https://www.gammvert.fr/,https://magasin.gammvert.fr/
 FR,garden_centre,Jardiland,Q3162276,open,,"{ ""delivery:covid19"": ""yes"", ""access:covid19"": ""yes"" }",,https://www.jardiland.com/contact/faq/faq?category=76000005832&kameleoon=%27true%27,
