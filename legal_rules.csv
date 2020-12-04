@@ -204,7 +204,7 @@ FR,,pet,"[ { ""shop"": ""pet"" } ]",2020-03-17,,open,,https://www.gouvernement.f
 FR,,pharmacy,"[ { ""amenity"": ""pharmacy"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 FR,,public_transport,"[ { ""railway"": ""station"" }, { ""highway"": ""bus_stop"" }, { ""public_transport"": ""stop_position|platform"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
 FR,,eat,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-03-17,2020-06-02,"only:delivery,takeaway,drive_through",,https://www.gouvernement.fr/info-coronavirus
-FR,,eat,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-11-01,,closed,,https://www.gouvernement.fr/info-coronavirus
+FR,,eat,"[ { ""amenity"": ""restaurant|fast_food|ice_cream|cafe|pub|bar"" } ]",2020-11-01,,partial,,https://www.gouvernement.fr/info-coronavirus
 FR,,sports_centre,"[ { ""leisure"": ""sports_centre|fitness_centre"" } ]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
 FR,,theatre,"[ { ""amenity"": ""theatre"" } ]",2020-05-11,,closed,,https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement
 FR,,tobacco,"[ { ""shop"": ""tobacco|newsagent;tobacco|tobacco;newsagent"" }, { ""tobacco"": ""yes|only"" } ]",2020-03-17,,open,,https://www.gouvernement.fr/info-coronavirus
